@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-14",
+  "scope": "100-main-selection-plus-regional-supplement",
+  "mainSelection": 100,
+  "regionalSupplement": 26,
+  "target": 126,
+  "generated": 126,
+  "status": "artwork-complete-local-integration",
+  "characterGenerationAllowed": true,
+  "userAuthorization": "继续补充地方规格，同时完成立绘制作；继续未完成任务",
+  "salesRankingVerified": false,
+  "sourceLimitations": "目录上市声明不等于实时库存；条码、版本、生产地、高清与转载许可尚未独立认证",
+  "unresolvedRegions": [
+    "西藏",
+    "青海",
+    "宁夏"
+  ]
+}

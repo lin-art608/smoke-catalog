@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#14191d" />
+  <meta name="description" content="Smoke Archive：以省份为线索的中国卷烟品牌文化与角色概念图鉴。" />
+  <title>Smoke Archive · 中国卷烟文化图鉴</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='13' fill='%2314191d'/%3E%3Cpath d='M16 44h32M21 35l11-20 11 20-11 13z' fill='none' stroke='%23dec390' stroke-width='3'/%3E%3Ccircle cx='32' cy='30' r='5' fill='%23bd695e'/%3E%3C/svg%3E" />
+  <link rel="stylesheet" href="styles.css?v=current-20261014-102" />
+  <link rel="stylesheet" href="atlas-updates.css?v=current-20261014-102" />
+</head>
+<body>
+  <div class="grain" aria-hidden="true"></div>
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="Smoke Archive 首页"><span class="brand-mark">烟</span><span>SMOKE <i>ARCHIVE</i><small>地域 · 纹样 · 角色</small></span></a>
+    <nav aria-label="主导航"><a href="#atlas">省份图鉴</a><a href="current-gallery.html?portraits=1">126张原画总览</a><a href="#collection" id="collectionNav">我的收藏 <span id="navCount">0</span></a></nav>
+    <span class="edition">126 款 / 126 张立绘</span>
+  </header>
+
+  <main id="top">
+    <section class="atlas" id="atlas" aria-labelledby="atlasTitle">
+      <div class="section-heading"><div><div class="eyebrow">EXPLORE BY REGION · 01</div><h2 id="atlasTitle">省份图鉴</h2><p id="archiveProgress">34 个省级地区均可选择。</p></div><div class="section-index">34 <span>地区</span> / <b id="archiveCount">12</b> <span>条目</span></div></div>
+      <div class="map-stage"><div class="map-head"><span>CHINA / REGIONAL INDEX</span><strong id="mapSelection">25 云南 · 云岭山岚</strong></div><div id="chinaMap" class="china-map"></div><p class="map-instruction">点击地图或下方地区名称浏览档案。<a href="https://www.geoboundaries.org/" target="_blank" rel="noopener noreferrer">地图数据：geoBoundaries</a></p></div>
+      <div class="province-list" id="provinceList" aria-label="省份快捷选择"></div>
+      <div class="province-content" id="provinceContent" aria-live="polite"></div>
+    </section>
+
+    <section class="collection" id="collection" aria-labelledby="collectionTitle">
+      <div class="section-heading"><div><div class="eyebrow">PERSONAL ARCHIVE · 02</div><h2 id="collectionTitle">我的收藏</h2><p>把感兴趣的角色收入本地档案，稍后继续翻阅。</p></div><div class="collection-total"><span id="savedCount">0</span> / <span id="collectionCapacity">12</span></div></div>
+      <div id="savedList" class="saved-list"></div>
+      <p class="storage-note">收藏仅保存在当前浏览器中；本原型不创建账户。</p>
+    </section>
+  </main>
+
+  <footer><span>SMOKE ARCHIVE © CONCEPT 2026</span><span>品牌归属与角色创作相互独立 · 文字为文化性概述及概念设定</span><span>吸烟有害健康</span></footer>
+
+  <dialog id="detailDialog" aria-labelledby="dialogTitle"><button class="dialog-close" id="dialogClose" aria-label="关闭详情">×</button><div id="dialogBody"></div></dialog>
+  <script src="regions.js?v=current-20261014-102"></script>
+  <script src="map.js?v=current-20261014-102"></script>
+  <script src="catalog.js?v=current-20261014-102"></script>
+  <script src="script.js?v=current-20261014-102"></script>
+  <script src="map-interactions.js?v=current-20261014-102"></script>
+</body>
+</html>
+

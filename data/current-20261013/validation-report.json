@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-14",
+  "mainSelectionCount": 100,
+  "regionalSupplementCount": 26,
+  "catalogCount": 126,
+  "coveredRegions": 31,
+  "unresolvedRegions": [
+    "西藏",
+    "青海",
+    "宁夏"
+  ],
+  "uniqueIds": true,
+  "uniqueNonemptyBarcodeClaims": true,
+  "salesRanksInvented": false,
+  "packReferences": 126,
+  "individualDesignPrompts": 126,
+  "generated": 126,
+  "pending": 0,
+  "status": "artwork-complete",
+  "sourceLimitations": "上市与条码为资料声明；实时在售、版本、生产地、高清和图片许可未独立认证"
+}

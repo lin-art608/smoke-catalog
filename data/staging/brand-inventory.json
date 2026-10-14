@@ -1,0 +1,2229 @@
+[
+  {
+    "id": "yunyan",
+    "name": "云烟",
+    "provinceId": "yunnan",
+    "provinceVerification": "有关联文献支持，历史与当前状态分开",
+    "aliases": [
+      "Yun Yan",
+      "Yunyan"
+    ],
+    "sampleCount": 78,
+    "reference": {
+      "packs_title": "Yunyan China W3 21 ",
+      "packs_nid": 25024,
+      "packs_brand_name": "YunYan",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Kunming"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": true,
+    "status": "已有网页条目，独立立绘待检查",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-yunyan",
+      "yn-policy-2019"
+    ],
+    "introduction": "本批次收录“云烟”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "yuxi",
+    "name": "玉溪",
+    "provinceId": "yunnan",
+    "provinceVerification": "有关联文献支持，历史与当前状态分开",
+    "aliases": [
+      "Yuxi"
+    ],
+    "sampleCount": 60,
+    "reference": {
+      "packs_title": "Yuxi China W3 16 ",
+      "packs_nid": 25064,
+      "packs_brand_name": "Yuxi",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Kunming"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": true,
+    "status": "已有网页条目，独立立绘待检查",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-yuxi",
+      "yn-policy-2019"
+    ],
+    "introduction": "本批次收录“玉溪”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "furongwang",
+    "name": "芙蓉王",
+    "provinceId": "hunan",
+    "provinceVerification": "有关联文献支持，历史与当前状态分开",
+    "aliases": [
+      "Furongwang"
+    ],
+    "sampleCount": 25,
+    "reference": {
+      "packs_title": "Furongwang China W3 15 ",
+      "packs_nid": 24581,
+      "packs_brand_name": "Furongwang",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Shanghai"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": true,
+    "status": "已有网页条目，独立立绘待检查",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-furongwang",
+      "hn-industry-2011"
+    ],
+    "introduction": "本批次收录“芙蓉王”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "baisha",
+    "name": "白沙",
+    "provinceId": "hunan",
+    "provinceVerification": "有关联文献支持，历史与当前状态分开",
+    "aliases": [
+      "Baisha"
+    ],
+    "sampleCount": 29,
+    "reference": {
+      "packs_title": "Baisha China W3 07 ",
+      "packs_nid": 24461,
+      "packs_brand_name": "Baisha",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Beijing"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": true,
+    "status": "已有网页条目，独立立绘待检查",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-baisha",
+      "hn-industry-2011"
+    ],
+    "introduction": "本批次收录“白沙”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "huanghelou",
+    "name": "黄鹤楼",
+    "provinceId": "hubei",
+    "provinceVerification": "有关联文献支持，历史与当前状态分开",
+    "aliases": [
+      "Huanghelou",
+      "Yellow Crane Tower"
+    ],
+    "sampleCount": 72,
+    "reference": {
+      "packs_title": "Yellow Crane Tower China W3 33 ",
+      "packs_nid": 24988,
+      "packs_brand_name": "Yellow Crane Tower",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Shanghai"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": true,
+    "status": "已有网页条目，独立立绘待检查",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-huanghelou",
+      "hb-mofcom"
+    ],
+    "introduction": "本批次收录“黄鹤楼”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "hongjinlong",
+    "name": "红金龙",
+    "provinceId": "hubei",
+    "provinceVerification": "有关联文献支持，历史与当前状态分开",
+    "aliases": [
+      "Hongjinlong"
+    ],
+    "sampleCount": 12,
+    "reference": {
+      "packs_title": "Hongjinlong China W2 02",
+      "packs_nid": 12197,
+      "packs_brand_name": "Hongjinlong",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2017",
+      "packs_city_name": [
+        "Beijing"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": true,
+    "status": "已有网页条目，独立立绘待检查",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-hongjinlong",
+      "hb-mofcom"
+    ],
+    "introduction": "本批次收录“红金龙”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "nanjing",
+    "name": "南京",
+    "provinceId": "jiangsu",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Nanjing"
+    ],
+    "sampleCount": 63,
+    "reference": {
+      "packs_title": "Nanjing China W3 30 ",
+      "packs_nid": 24805,
+      "packs_brand_name": "NanJing",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Beijing"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": true,
+    "status": "已有网页条目，独立立绘待检查",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-nanjing"
+    ],
+    "introduction": "本批次收录“南京”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "suyan",
+    "name": "苏烟",
+    "provinceId": "jiangsu",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Suyan"
+    ],
+    "sampleCount": 15,
+    "reference": {
+      "packs_title": "Suyan China W3 07 ",
+      "packs_nid": 24937,
+      "packs_brand_name": "Suyan",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Beijing"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": true,
+    "status": "已有网页条目，独立立绘待检查",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-suyan"
+    ],
+    "introduction": "本批次收录“苏烟”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "liqun",
+    "name": "利群",
+    "provinceId": "zhejiang",
+    "provinceVerification": "有关联文献支持，历史与当前状态分开",
+    "aliases": [
+      "Liqun"
+    ],
+    "sampleCount": 36,
+    "reference": {
+      "packs_title": "Liqun China W3 18 ",
+      "packs_nid": 24743,
+      "packs_brand_name": "Liqun",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Shanghai"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": true,
+    "status": "已有网页条目，独立立绘待检查",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-liqun",
+      "zj-chamber-2023"
+    ],
+    "introduction": "本批次收录“利群”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "xiongshi",
+    "name": "雄狮",
+    "provinceId": "zhejiang",
+    "provinceVerification": "有关联文献支持，历史与当前状态分开",
+    "aliases": [
+      "Xiongshi"
+    ],
+    "sampleCount": 6,
+    "reference": {
+      "packs_title": "Xiongshi China W2 01",
+      "packs_nid": 12331,
+      "packs_brand_name": "Xiongshi",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2017",
+      "packs_city_name": [
+        "Guangzhou"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": true,
+    "status": "已有网页条目，独立立绘待检查",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-xiongshi",
+      "zj-chamber-2023"
+    ],
+    "introduction": "本批次收录“雄狮”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "zhonghua",
+    "name": "中华",
+    "provinceId": "shanghai",
+    "provinceVerification": "有关联文献支持，历史与当前状态分开",
+    "aliases": [
+      "Chunghwa"
+    ],
+    "sampleCount": 23,
+    "reference": {
+      "packs_title": "Chunghwa China W3 14 ",
+      "packs_nid": 24503,
+      "packs_brand_name": "Chunghwa",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Shanghai"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": true,
+    "status": "已有网页条目，独立立绘待检查",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-zhonghua",
+      "sh-industry-2023"
+    ],
+    "introduction": "本批次收录“中华”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "mudan",
+    "name": "牡丹",
+    "provinceId": "shanghai",
+    "provinceVerification": "有关联文献支持，历史与当前状态分开",
+    "aliases": [
+      "Mu Dan",
+      "Peony"
+    ],
+    "sampleCount": 13,
+    "reference": {
+      "packs_title": "Peony China W3 13 ",
+      "packs_nid": 24840,
+      "packs_brand_name": "Peony",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Shanghai"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": true,
+    "status": "已有网页条目，独立立绘待检查",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-mudan",
+      "sh-industry-2023"
+    ],
+    "introduction": "本批次收录“牡丹”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "jiaozi",
+    "name": "娇子",
+    "provinceId": "sichuan",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Jiaozi",
+      "Pride"
+    ],
+    "sampleCount": 108,
+    "reference": {
+      "packs_title": "Pride China W3 18 ",
+      "packs_nid": 24853,
+      "packs_brand_name": "Pride",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Chongqing"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": true,
+    "status": "已有网页条目，独立立绘待检查",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-jiaozi"
+    ],
+    "introduction": "本批次收录“娇子”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "huangshan",
+    "name": "黄山",
+    "provinceId": "anhui",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Huang Shan",
+      "Huangshan"
+    ],
+    "sampleCount": 51,
+    "reference": {
+      "packs_title": "Huangshan China W3 18 ",
+      "packs_nid": 24702,
+      "packs_brand_name": "Huangshan",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Shanghai"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": true,
+    "status": "已有网页条目，独立立绘待检查",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-huangshan"
+    ],
+    "introduction": "本批次收录“黄山”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "qipilang",
+    "name": "七匹狼",
+    "provinceId": "fujian",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Qi Pi Lang",
+      "Septwolves"
+    ],
+    "sampleCount": 43,
+    "reference": {
+      "packs_title": "Septwolves China W3 05 ",
+      "packs_nid": 24880,
+      "packs_brand_name": "Septwolves",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Guangzhou"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": true,
+    "status": "已有网页条目，独立立绘待检查",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-qipilang"
+    ],
+    "introduction": "本批次收录“七匹狼”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "taishan",
+    "name": "泰山",
+    "provinceId": "shandong",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Taishan"
+    ],
+    "sampleCount": 35,
+    "reference": {
+      "packs_title": "Taishan China W3 17 ",
+      "packs_nid": 24949,
+      "packs_brand_name": "Taishan",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Beijing"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": true,
+    "status": "已有网页条目，独立立绘待检查",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-taishan"
+    ],
+    "introduction": "本批次收录“泰山”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "zhongnanhai",
+    "name": "中南海",
+    "provinceId": "beijing",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Zhongnanhai"
+    ],
+    "sampleCount": 46,
+    "reference": {
+      "packs_title": "Zhongnanhai China W3 22 ",
+      "packs_nid": 25111,
+      "packs_brand_name": "Zhongnanhai",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Beijing"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-zhongnanhai"
+    ],
+    "introduction": "本批次收录“中南海”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "beijing",
+    "name": "北京",
+    "provinceId": "beijing",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Beijing"
+    ],
+    "sampleCount": 3,
+    "reference": {
+      "packs_title": "Beijing China W3 01 ",
+      "packs_nid": 24479,
+      "packs_brand_name": "Beijing",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Beijing"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-beijing"
+    ],
+    "introduction": "本批次收录“北京”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "hengda",
+    "name": "恒大",
+    "provinceId": "tianjin",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Hengta"
+    ],
+    "sampleCount": 9,
+    "reference": {
+      "packs_title": "Hengta China W3 01 ",
+      "packs_nid": 24665,
+      "packs_brand_name": "Hengta",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Shanghai"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-hengda"
+    ],
+    "introduction": "本批次收录“恒大”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "renmindahuitang",
+    "name": "人民大会堂",
+    "provinceId": "liaoning",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Remindahuitang",
+      "Renmindahuitang"
+    ],
+    "sampleCount": 9,
+    "reference": {
+      "packs_title": "Renmindahuitang China W3 04 ",
+      "packs_nid": 24872,
+      "packs_brand_name": "Remindahuitang",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Beijing"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-renmindahuitang"
+    ],
+    "introduction": "本批次收录“人民大会堂”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "changbaishan",
+    "name": "长白山",
+    "provinceId": "jilin",
+    "provinceVerification": "有关联文献支持，历史与当前状态分开",
+    "aliases": [
+      "Changbai Shan",
+      "Changbaishan"
+    ],
+    "sampleCount": 23,
+    "reference": {
+      "packs_title": "Changbaishan China W3 04 ",
+      "packs_nid": 24486,
+      "packs_brand_name": "Changbaishan",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Shanghai"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-changbaishan",
+      "jl-statistics-2015"
+    ],
+    "introduction": "本批次收录“长白山”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "haerbin",
+    "name": "哈尔滨",
+    "provinceId": "heilongjiang",
+    "provinceVerification": "有关联文献支持，历史与当前状态分开",
+    "aliases": [
+      "Harbin"
+    ],
+    "sampleCount": 3,
+    "reference": {
+      "packs_title": "Harbin China W3 02 ",
+      "packs_nid": 24662,
+      "packs_brand_name": "Harbin",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Chongqing"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-haerbin",
+      "hlj-history-2021"
+    ],
+    "introduction": "本批次收录“哈尔滨”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "longyan",
+    "name": "龙烟",
+    "provinceId": "heilongjiang",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Long Yan",
+      "Longyan"
+    ],
+    "sampleCount": 6,
+    "reference": {
+      "packs_title": "Longyan China W3 02 ",
+      "packs_nid": 24781,
+      "packs_brand_name": "Longyan",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Chongqing"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-longyan"
+    ],
+    "introduction": "本批次收录“龙烟”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "lanzhou",
+    "name": "兰州",
+    "provinceId": "gansu",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Lan zhou",
+      "Lan Zhou",
+      "Lanzhou"
+    ],
+    "sampleCount": 16,
+    "reference": {
+      "packs_title": "Lanzhou China W3 04 ",
+      "packs_nid": 24737,
+      "packs_brand_name": "Lanzhou",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Beijing"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-lanzhou"
+    ],
+    "introduction": "本批次收录“兰州”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "dongchongxiacao",
+    "name": "冬虫夏草",
+    "provinceId": "neimenggu",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Dong Chong Xia Cao",
+      "Dongchongxiacao"
+    ],
+    "sampleCount": 7,
+    "reference": {
+      "packs_title": "Dongchongxiacao China W3 05 ",
+      "packs_nid": 24548,
+      "packs_brand_name": "Dongchongxiacao",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Chongqing"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-dongchongxiacao"
+    ],
+    "introduction": "本批次收录“冬虫夏草”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "erdos",
+    "name": "鄂尔多斯",
+    "provinceId": "neimenggu",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Erdos"
+    ],
+    "sampleCount": 1,
+    "reference": {
+      "packs_title": "Erdos China W1 01",
+      "packs_nid": 6059,
+      "packs_brand_name": "Erdos",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2013",
+      "packs_city_name": [
+        "Chengdu"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-erdos"
+    ],
+    "introduction": "本批次收录“鄂尔多斯”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "hulunbeier",
+    "name": "呼伦贝尔",
+    "provinceId": "neimenggu",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Hulunbeier"
+    ],
+    "sampleCount": 2,
+    "reference": {
+      "packs_title": "Hulunbeier China W3 01 ",
+      "packs_nid": 24720,
+      "packs_brand_name": "Hulunbeier",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Beijing"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-hulunbeier"
+    ],
+    "introduction": "本批次收录“呼伦贝尔”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "daqingshan",
+    "name": "大青山",
+    "provinceId": "neimenggu",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Daqingshan"
+    ],
+    "sampleCount": 2,
+    "reference": {
+      "packs_title": "Daqingshan China W3 02 ",
+      "packs_nid": 24496,
+      "packs_brand_name": "Daqingshan",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Chongqing"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-daqingshan"
+    ],
+    "introduction": "本批次收录“大青山”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "haomao",
+    "name": "好猫",
+    "provinceId": "shaanxi",
+    "provinceVerification": "有关联文献支持，历史与当前状态分开",
+    "aliases": [
+      "Haomao"
+    ],
+    "sampleCount": 23,
+    "reference": {
+      "packs_title": "Haomao China W3 07 ",
+      "packs_nid": 24653,
+      "packs_brand_name": "Haomao",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Guangzhou"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-haomao",
+      "sx-printed-pack"
+    ],
+    "introduction": "本批次收录“好猫”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "houwang",
+    "name": "猴王",
+    "provinceId": "shaanxi",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Houwang"
+    ],
+    "sampleCount": 3,
+    "reference": {
+      "packs_title": "Houwang China W2 01",
+      "packs_nid": 12525,
+      "packs_brand_name": "Houwang",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2017",
+      "packs_city_name": [
+        "Shanghai"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-houwang"
+    ],
+    "introduction": "本批次收录“猴王”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "yanan",
+    "name": "延安",
+    "provinceId": "shaanxi",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Yanan"
+    ],
+    "sampleCount": 3,
+    "reference": {
+      "packs_title": "Yanan China W3 01 ",
+      "packs_nid": 24987,
+      "packs_brand_name": "Yanan",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Shanghai"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-yanan"
+    ],
+    "introduction": "本批次收录“延安”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "guiyan",
+    "name": "贵烟",
+    "provinceId": "guizhou",
+    "provinceVerification": "有关联文献支持，历史与当前状态分开",
+    "aliases": [
+      "Guiyan"
+    ],
+    "sampleCount": 34,
+    "reference": {
+      "packs_title": "Guiyan China W3 14 ",
+      "packs_nid": 24633,
+      "packs_brand_name": "Guiyan",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Kunming"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-guiyan",
+      "gz-disclosure-2017"
+    ],
+    "introduction": "本批次收录“贵烟”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "huangguoshu",
+    "name": "黄果树",
+    "provinceId": "guizhou",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Huangguoshu"
+    ],
+    "sampleCount": 10,
+    "reference": {
+      "packs_title": "Huangguoshu China W3 02 ",
+      "packs_nid": 24698,
+      "packs_brand_name": "Huangguoshu",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Shanghai"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-huangguoshu"
+    ],
+    "introduction": "本批次收录“黄果树”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "zunyi",
+    "name": "遵义",
+    "provinceId": "guizhou",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Zunyi"
+    ],
+    "sampleCount": 1,
+    "reference": {
+      "packs_title": "Zunyi China W3 01 ",
+      "packs_nid": 25136,
+      "packs_brand_name": "Zunyi",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Guangzhou"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-zunyi"
+    ],
+    "introduction": "本批次收录“遵义”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "huangjinye",
+    "name": "黄金叶",
+    "provinceId": "henan",
+    "provinceVerification": "有关联文献支持，历史与当前状态分开",
+    "aliases": [
+      "Huang Jin Ye",
+      "Golden Leaf"
+    ],
+    "sampleCount": 42,
+    "reference": {
+      "packs_title": "Golden Leaf China W3 01 ",
+      "packs_nid": 24606,
+      "packs_brand_name": "Golden Leaf",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Shanghai"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-huangjinye",
+      "hn-huangjinye-study"
+    ],
+    "introduction": "本批次收录“黄金叶”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "hongqiqu",
+    "name": "红旗渠",
+    "provinceId": "henan",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Hongqiqu"
+    ],
+    "sampleCount": 7,
+    "reference": {
+      "packs_title": "Hongqiqu China W3 01 ",
+      "packs_nid": 24682,
+      "packs_brand_name": "Hongqiqu",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Kunming"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-hongqiqu"
+    ],
+    "introduction": "本批次收录“红旗渠”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "dihao",
+    "name": "帝豪",
+    "provinceId": "henan",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Dihao"
+    ],
+    "sampleCount": 1,
+    "reference": {
+      "packs_title": "Dihao China W1 01",
+      "packs_nid": 5925,
+      "packs_brand_name": "Dihao",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2013",
+      "packs_city_name": [
+        "Beijing"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-dihao"
+    ],
+    "introduction": "本批次收录“帝豪”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "jinsheng",
+    "name": "金圣",
+    "provinceId": "jiangxi",
+    "provinceVerification": "有关联文献支持，历史与当前状态分开",
+    "aliases": [
+      "Jinsheng"
+    ],
+    "sampleCount": 34,
+    "reference": {
+      "packs_title": "Jinsheng China W3 06 ",
+      "packs_nid": 24721,
+      "packs_brand_name": "Jinsheng",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Shanghai"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-jinsheng",
+      "jx-factories"
+    ],
+    "introduction": "本批次收录“金圣”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "lushan",
+    "name": "庐山",
+    "provinceId": "jiangxi",
+    "provinceVerification": "有关联文献支持，历史与当前状态分开",
+    "aliases": [
+      "Lu Shan"
+    ],
+    "sampleCount": 1,
+    "reference": {
+      "packs_title": "Lu Shan China W1 01",
+      "packs_nid": 5926,
+      "packs_brand_name": "Lu Shan",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2013",
+      "packs_city_name": [
+        "Beijing"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-lushan",
+      "jx-factories"
+    ],
+    "introduction": "本批次收录“庐山”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "zuanshi",
+    "name": "钻石",
+    "provinceId": "hebei",
+    "provinceVerification": "有关联文献支持，历史与当前状态分开",
+    "aliases": [
+      "Zuan Shi",
+      "Diamond"
+    ],
+    "sampleCount": 32,
+    "reference": {
+      "packs_title": "Diamond China W3 14 ",
+      "packs_nid": 24527,
+      "packs_brand_name": "Diamond",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Shanghai"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-zuanshi",
+      "hb-industry-diamond"
+    ],
+    "introduction": "本批次收录“钻石”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "zhenlong",
+    "name": "真龙",
+    "provinceId": "guangxi",
+    "provinceVerification": "有关联文献支持，历史与当前状态分开",
+    "aliases": [
+      "Zhenlong"
+    ],
+    "sampleCount": 27,
+    "reference": {
+      "packs_title": "Zhenlong China W3 11 ",
+      "packs_nid": 25099,
+      "packs_brand_name": "Zhenlong",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Shanghai"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-zhenlong",
+      "gx-company"
+    ],
+    "introduction": "本批次收录“真龙”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "jiatianxia",
+    "name": "甲天下",
+    "provinceId": "guangxi",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Jia Tian Xia"
+    ],
+    "sampleCount": 1,
+    "reference": {
+      "packs_title": "Jia Tian Xia China W1 01",
+      "packs_nid": 5956,
+      "packs_brand_name": "Jia Tian Xia",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2013",
+      "packs_city_name": [
+        "Guangzhou"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-jiatianxia"
+    ],
+    "introduction": "本批次收录“甲天下”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "liusanjie",
+    "name": "刘三姐",
+    "provinceId": "guangxi",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Liusanjie"
+    ],
+    "sampleCount": 2,
+    "reference": {
+      "packs_title": "Liusanjie China W3 02 ",
+      "packs_nid": 24773,
+      "packs_brand_name": "Liusanjie",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Chongqing"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-liusanjie"
+    ],
+    "introduction": "本批次收录“刘三姐”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "tianzi",
+    "name": "天子",
+    "provinceId": "chongqing",
+    "provinceVerification": "有关联文献支持，历史与当前状态分开",
+    "aliases": [
+      "Tianzi"
+    ],
+    "sampleCount": 16,
+    "reference": {
+      "packs_title": "Tianzi China W3 15 ",
+      "packs_nid": 24969,
+      "packs_brand_name": "Tianzi",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Beijing"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-tianzi",
+      "cq-brands-2016"
+    ],
+    "introduction": "本批次收录“天子”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "longfengchengxiang",
+    "name": "龙凤呈祥",
+    "provinceId": "chongqing",
+    "provinceVerification": "有关联文献支持，历史与当前状态分开",
+    "aliases": [
+      "Longfeng Chengxiang",
+      "Longfengchengxiang"
+    ],
+    "sampleCount": 12,
+    "reference": {
+      "packs_title": "Longfengchengxiang China W3 02 ",
+      "packs_nid": 24775,
+      "packs_brand_name": "Longfengchengxiang",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Chongqing"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-longfengchengxiang",
+      "cq-brands-2016"
+    ],
+    "introduction": "本批次收录“龙凤呈祥”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "tianxiaxiu",
+    "name": "天下秀",
+    "provinceId": "sichuan",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Tian Xia Xiu"
+    ],
+    "sampleCount": 7,
+    "reference": {
+      "packs_title": "Tian Xia Xiu China W2 01",
+      "packs_nid": 12268,
+      "packs_brand_name": "Tian Xia Xiu",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2017",
+      "packs_city_name": [
+        "Chengdu"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-tianxiaxiu"
+    ],
+    "introduction": "本批次收录“天下秀”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "shuangxi",
+    "name": "双喜",
+    "provinceId": "guangdong",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Shuangxi",
+      "Double Happiness"
+    ],
+    "sampleCount": 91,
+    "reference": {
+      "packs_title": "Double Happiness China W3 01 ",
+      "packs_nid": 24555,
+      "packs_brand_name": "Double Happiness",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Shanghai"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-shuangxi"
+    ],
+    "introduction": "本批次收录“双喜”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "hongshuangxi",
+    "name": "红双喜",
+    "provinceId": "shanghai",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Hong Shuangxi"
+    ],
+    "sampleCount": 41,
+    "reference": {
+      "packs_title": "Hong Shuangxi China W2 24",
+      "packs_nid": 12377,
+      "packs_brand_name": "Hong Shuangxi",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2017",
+      "packs_city_name": [
+        "Guangzhou"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-hongshuangxi"
+    ],
+    "introduction": "本批次收录“红双喜”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "yeshu",
+    "name": "椰树",
+    "provinceId": "guangdong",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Ye Shu",
+      "Cocopalm"
+    ],
+    "sampleCount": 6,
+    "reference": {
+      "packs_title": "Cocopalm China W3 01 ",
+      "packs_nid": 24522,
+      "packs_brand_name": "Cocopalm",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Guangzhou"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-yeshu"
+    ],
+    "introduction": "本批次收录“椰树”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "wuniu",
+    "name": "五牛",
+    "provinceId": "sichuan",
+    "provinceVerification": "有关联文献支持，历史与当前状态分开",
+    "aliases": [
+      "Wu Niu"
+    ],
+    "sampleCount": 3,
+    "reference": {
+      "packs_title": "Wu Niu China W2 01",
+      "packs_nid": 12290,
+      "packs_brand_name": "Wu Niu",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2017",
+      "packs_city_name": [
+        "Chengdu"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-wuniu",
+      "wuniu-history"
+    ],
+    "introduction": "本批次收录“五牛”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "yangcheng",
+    "name": "羊城",
+    "provinceId": "guangdong",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Yang Cheng"
+    ],
+    "sampleCount": 2,
+    "reference": {
+      "packs_title": "Yang Cheng China W1 01",
+      "packs_nid": 6034,
+      "packs_brand_name": "Yang Cheng",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2013",
+      "packs_city_name": [
+        "Guangzhou"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-yangcheng"
+    ],
+    "introduction": "本批次收录“羊城”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "hongtashan",
+    "name": "红塔山",
+    "provinceId": "yunnan",
+    "provinceVerification": "有关联文献支持，历史与当前状态分开",
+    "aliases": [
+      "Hongtashan"
+    ],
+    "sampleCount": 39,
+    "reference": {
+      "packs_title": "Hongtashan China W3 09 ",
+      "packs_nid": 24684,
+      "packs_brand_name": "Hongtashan",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Shanghai"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-hongtashan",
+      "yn-policy-2019"
+    ],
+    "introduction": "本批次收录“红塔山”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "honghe",
+    "name": "红河",
+    "provinceId": "yunnan",
+    "provinceVerification": "有关联文献支持，历史与当前状态分开",
+    "aliases": [
+      "Honghe"
+    ],
+    "sampleCount": 24,
+    "reference": {
+      "packs_title": "Honghe China W3 06 ",
+      "packs_nid": 24670,
+      "packs_brand_name": "Honghe",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Beijing"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-honghe",
+      "yn-policy-2019"
+    ],
+    "introduction": "本批次收录“红河”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "hongmei",
+    "name": "红梅",
+    "provinceId": "yunnan",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Hongmei"
+    ],
+    "sampleCount": 15,
+    "reference": {
+      "packs_title": "Hongmei China W3 02 ",
+      "packs_nid": 24680,
+      "packs_brand_name": "Hongmei",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Chongqing"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-hongmei"
+    ],
+    "introduction": "本批次收录“红梅”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "hongshancha",
+    "name": "红山茶",
+    "provinceId": "yunnan",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Hong Shan Cha"
+    ],
+    "sampleCount": 2,
+    "reference": {
+      "packs_title": "Hong Shan Cha China W2 01",
+      "packs_nid": 12434,
+      "packs_brand_name": "Hong Shan Cha",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2017",
+      "packs_city_name": [
+        "Guangzhou"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-hongshancha"
+    ],
+    "introduction": "本批次收录“红山茶”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "chahua",
+    "name": "茶花",
+    "provinceId": "yunnan",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Cha Hua",
+      "Camellia"
+    ],
+    "sampleCount": 3,
+    "reference": {
+      "packs_title": "Camellia China W3 01 ",
+      "packs_nid": 24485,
+      "packs_brand_name": "Camellia",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Guangzhou"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-chahua"
+    ],
+    "introduction": "本批次收录“茶花”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "ashima",
+    "name": "阿诗玛",
+    "provinceId": "yunnan",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Ashima"
+    ],
+    "sampleCount": 2,
+    "reference": {
+      "packs_title": "Ashima China W2 02",
+      "packs_nid": 12447,
+      "packs_brand_name": "Ashima",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2017",
+      "packs_city_name": [
+        "Guangzhou"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-ashima"
+    ],
+    "introduction": "本批次收录“阿诗玛”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "xiaoxiongmao",
+    "name": "小熊猫",
+    "provinceId": "yunnan",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Xiao Xiong Mao"
+    ],
+    "sampleCount": 4,
+    "reference": {
+      "packs_title": "Xiao Xiong Mao China W2 01",
+      "packs_nid": 12470,
+      "packs_brand_name": "Xiao Xiong Mao",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2017",
+      "packs_city_name": [
+        "Kunming"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-xiaoxiongmao"
+    ],
+    "introduction": "本批次收录“小熊猫”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "diaoyutai",
+    "name": "钓鱼台",
+    "provinceId": "yunnan",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Diao Yu Tai",
+      "Diaoyutai"
+    ],
+    "sampleCount": 5,
+    "reference": {
+      "packs_title": "Diaoyutai China W3 02 ",
+      "packs_nid": 24546,
+      "packs_brand_name": "Diaoyutai",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Beijing"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-diaoyutai"
+    ],
+    "introduction": "本批次收录“钓鱼台”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "ziqidonglai",
+    "name": "紫气东来",
+    "provinceId": "shanxi",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Ziqi Donglai",
+      "Ziqidonglai"
+    ],
+    "sampleCount": 5,
+    "reference": {
+      "packs_title": "Ziqidonglai China W3 01 ",
+      "packs_nid": 25133,
+      "packs_brand_name": "Ziqidonglai",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Beijing"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-ziqidonglai"
+    ],
+    "introduction": "本批次收录“紫气东来”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "xuelian",
+    "name": "雪莲",
+    "provinceId": "xinjiang",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Xuelian"
+    ],
+    "sampleCount": 2,
+    "reference": {
+      "packs_title": "Xuelian China W2 02",
+      "packs_nid": 12220,
+      "packs_brand_name": "Xuelian",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2017",
+      "packs_city_name": [
+        "Beijing"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-xuelian"
+    ],
+    "introduction": "本批次收录“雪莲”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "hatamen",
+    "name": "哈德门",
+    "provinceId": "shandong",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Hatamen"
+    ],
+    "sampleCount": 6,
+    "reference": {
+      "packs_title": "Hatamen China W3 01 ",
+      "packs_nid": 24664,
+      "packs_brand_name": "Hatamen",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Kunming"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-hatamen"
+    ],
+    "introduction": "本批次收录“哈德门”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "jiangjun",
+    "name": "将军",
+    "provinceId": "shandong",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Jiang Jun"
+    ],
+    "sampleCount": 2,
+    "reference": {
+      "packs_title": "Jiang Jun China W1 02",
+      "packs_nid": 5921,
+      "packs_brand_name": "Jiang Jun",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2013",
+      "packs_city_name": [
+        "Beijing"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-jiangjun"
+    ],
+    "introduction": "本批次收录“将军”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "dubao",
+    "name": "都宝",
+    "provinceId": "anhui",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Dubao",
+      "Derby"
+    ],
+    "sampleCount": 7,
+    "reference": {
+      "packs_title": "Derby China W3 01 ",
+      "packs_nid": 24525,
+      "packs_brand_name": "Derby",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Shanghai"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-dubao"
+    ],
+    "introduction": "本批次收录“都宝”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "jinqiao",
+    "name": "金桥",
+    "provinceId": "fujian",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Jin Qiao",
+      "Golden Bridge"
+    ],
+    "sampleCount": 7,
+    "reference": {
+      "packs_title": "Golden Bridge China W3 01 ",
+      "packs_nid": 24604,
+      "packs_brand_name": "Golden Bridge",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Beijing"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-jinqiao"
+    ],
+    "introduction": "本批次收录“金桥”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "sansha",
+    "name": "三沙",
+    "provinceId": "hainan",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Sansha"
+    ],
+    "sampleCount": 3,
+    "reference": {
+      "packs_title": "Sansha China W3 01 ",
+      "packs_nid": 24878,
+      "packs_brand_name": "Sansha",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Shanghai"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-sansha"
+    ],
+    "introduction": "本批次收录“三沙”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "dahongying",
+    "name": "大红鹰",
+    "provinceId": "zhejiang",
+    "provinceVerification": "有关联文献支持，历史与当前状态分开",
+    "aliases": [
+      "Dahongying"
+    ],
+    "sampleCount": 1,
+    "reference": {
+      "packs_title": "Dahongying China W3 01 ",
+      "packs_nid": 24523,
+      "packs_brand_name": "Dahongying",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Shanghai"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-dahongying",
+      "zj-chamber-2023"
+    ],
+    "introduction": "本批次收录“大红鹰”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "fenghuang",
+    "name": "凤凰",
+    "provinceId": "shanghai",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Feng Huang"
+    ],
+    "sampleCount": 1,
+    "reference": {
+      "packs_title": "Feng Huang China W2 01",
+      "packs_nid": 12771,
+      "packs_brand_name": "Feng Huang",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2017",
+      "packs_city_name": [
+        "Shanghai"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-fenghuang"
+    ],
+    "introduction": "本批次收录“凤凰”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "panda",
+    "name": "熊猫",
+    "provinceId": "shanghai",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Xiong Mao",
+      "Panda"
+    ],
+    "sampleCount": 5,
+    "reference": {
+      "packs_title": "Panda China W3 01 ",
+      "packs_nid": 24837,
+      "packs_brand_name": "Panda",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Shanghai"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-panda"
+    ],
+    "introduction": "本批次收录“熊猫”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "daqianmen",
+    "name": "大前门",
+    "provinceId": "shanghai",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Da Qian Men",
+      "Chienmen"
+    ],
+    "sampleCount": 6,
+    "reference": {
+      "packs_title": "Chienmen China W3 02 ",
+      "packs_nid": 24500,
+      "packs_brand_name": "Chienmen",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Shanghai"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-daqianmen"
+    ],
+    "introduction": "本批次收录“大前门”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "furong",
+    "name": "芙蓉",
+    "provinceId": "hunan",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Furong"
+    ],
+    "sampleCount": 3,
+    "reference": {
+      "packs_title": "Furong China W3 01 ",
+      "packs_nid": 24580,
+      "packs_brand_name": "Furong",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Guangzhou"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-furong"
+    ],
+    "introduction": "本批次收录“芙蓉”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "changshou",
+    "name": "长寿",
+    "provinceId": "taiwan",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Chang Shou"
+    ],
+    "sampleCount": 6,
+    "reference": {
+      "packs_title": "Chang Shou China W2 01",
+      "packs_nid": 12597,
+      "packs_brand_name": "Chang Shou",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2017",
+      "packs_city_name": [
+        "Shanghai"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-changshou"
+    ],
+    "introduction": "本批次收录“长寿”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "alishan",
+    "name": "阿里山",
+    "provinceId": "taiwan",
+    "provinceVerification": "有关联文献支持，历史与当前状态分开",
+    "aliases": [
+      "Ali Shan",
+      "Alishan"
+    ],
+    "sampleCount": 9,
+    "reference": {
+      "packs_title": "Alishan China W3 02 ",
+      "packs_nid": 24456,
+      "packs_brand_name": "Alishan",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Shanghai"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-alishan",
+      "alishan-operator"
+    ],
+    "introduction": "本批次收录“阿里山”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "baodao",
+    "name": "宝岛",
+    "provinceId": "taiwan",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Bao Dao",
+      "Baodao"
+    ],
+    "sampleCount": 2,
+    "reference": {
+      "packs_title": "Baodao China W3 01 ",
+      "packs_nid": 24478,
+      "packs_brand_name": "Baodao",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Shanghai"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-baodao"
+    ],
+    "introduction": "本批次收录“宝岛”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  },
+  {
+    "id": "nanyanghongshuangxi",
+    "name": "南洋红双喜",
+    "provinceId": "hongkong",
+    "provinceVerification": "地区关联待文献逐项核对",
+    "aliases": [
+      "Double Happiness (Nanyang)"
+    ],
+    "sampleCount": 8,
+    "reference": {
+      "packs_title": "Double Happiness (Nanyang) China W3 03 ",
+      "packs_nid": 24561,
+      "packs_brand_name": "Double Happiness (Nanyang)",
+      "packs_country_name": "China",
+      "packs_collection_year_name": "2023",
+      "packs_city_name": [
+        "Guangzhou"
+      ],
+      "packs_product_type_name": "Cigarettes"
+    },
+    "existing": false,
+    "status": "待采集",
+    "futureSkuIds": [],
+    "sourceIds": [
+      "tpackss-nanyanghongshuangxi"
+    ],
+    "introduction": "本批次收录“南洋红双喜”的真实包装馆藏样本，记录其配色与纹样。角色为原创成年人物设计；具体规格、现售状态与地域关系按核对状态显示。",
+    "samplePeriod": "馆藏历史样本；不代表当前在售"
+  }
+]
