@@ -9,6 +9,7 @@ try { saved=new Set(JSON.parse(localStorage.getItem('smoke-archive-saved')||'[]'
 
 function packUrl(item){return item.packs[0]?.imagePath||''}
 function escapeHtml(value){return String(value??'').replace(/[&<>"']/g,char=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));}
+function heartIcon(){return '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.7l-1.1-1.1a5.5 5.5 0 0 0-7.8 7.8L12 21l8.8-8.6a5.5 5.5 0 0 0 0-7.8Z"/></svg>';}
 function packPhoto(item,detail=false){
   const pack=item.packs[0];
   if(!pack?.imagePath)return '<div class="pack-unavailable">正面照片待补充</div>';
@@ -38,7 +39,7 @@ function renderProvinces(){
 function variantsFor(item){return [item];}
 function card(item){
   const n=String(allItems.findIndex(entry=>entry.id===item.id)+1).padStart(2,'0');
-  return `<article class="archive-card ${item.character?.image?.fullBody?'route-card':!item.character?'pending-card':''}" style="--card-accent:${item.accent};--card-dark:${item.dark}"><button type="button" class="card-main" data-open="${item.id}" data-variant="${item.variantId||''}" aria-label="揭示${item.brand}${item.variantId?' · '+item.title:''}角色与烟盒档案"><div class="card-art"><span class="card-orbit"></span>${character(item,item.character?.designSystem==='2.0')}${packPhoto(item)}<span class="card-number">CHARACTER / ${n}${item.variantId?' · '+item.character.route:''}</span></div><div class="card-copy"><div class="card-kicker">${item.province} · ${item.en}</div><h4>${item.brand}<small>${item.en}</small></h4><p>${item.character?'角色「'+escapeHtml(item.role)+'」 · '+escapeHtml(item.title):'包装已收录 · 独立人物待绘'}</p><span class="card-cta">${item.character?'点击剪影 · 揭示角色':'查看包装与来源'} <span aria-hidden="true">↗</span></span></div></button><button type="button" class="save-button ${saved.has(item.id)?'is-saved':''}" data-save="${item.id}" aria-label="${saved.has(item.id)?'取消收藏':'收藏'}${item.brand}" aria-pressed="${saved.has(item.id)}">${saved.has(item.id)?'♥':'♡'}</button></article>`;
+  return `<article class="archive-card ${item.character?.image?.fullBody?'route-card':!item.character?'pending-card':''}" style="--card-accent:${item.accent};--card-dark:${item.dark}"><button type="button" class="card-main" data-open="${item.id}" data-variant="${item.variantId||''}" aria-label="揭示${item.brand}${item.variantId?' · '+item.title:''}角色与烟盒档案"><div class="card-art"><span class="card-orbit"></span>${character(item,item.character?.designSystem==='2.0')}${packPhoto(item)}<span class="card-number">CHARACTER / ${n}${item.variantId?' · '+item.character.route:''}</span></div><div class="card-copy"><div class="card-kicker">${item.province} · ${item.en}</div><h4>${item.brand}<small>${item.en}</small></h4><p>${item.character?'角色「'+escapeHtml(item.role)+'」 · '+escapeHtml(item.title):'包装已收录 · 独立人物待绘'}</p><span class="card-cta">${item.character?'点击剪影 · 揭示角色':'查看包装与来源'} <span aria-hidden="true">↗</span></span></div></button><button type="button" class="save-button ${saved.has(item.id)?'is-saved':''}" data-save="${item.id}" aria-label="${saved.has(item.id)?'取消收藏':'收藏'}${item.brand}" aria-pressed="${saved.has(item.id)}">${heartIcon()}</button></article>`;
 }
 function renderProvince(){
   const p=provinces.find(entry=>entry.id===activeProvince);
@@ -54,9 +55,15 @@ function renderSaved(){
 function toggleSave(id){
   saved.has(id)?saved.delete(id):saved.add(id);
   try{localStorage.setItem('smoke-archive-saved',JSON.stringify([...saved]))}catch{}
-  renderProvince();renderSaved();
+  document.querySelectorAll('.save-button').forEach(button=>{
+    if(button.dataset.save!==id)return;
+    button.classList.toggle('is-saved',saved.has(id));
+    button.setAttribute('aria-pressed',String(saved.has(id)));
+    button.setAttribute('aria-label',(saved.has(id)?'取消收藏':'收藏')+byId[id].brand);
+  });
+  renderSaved();
   const dialogSave=document.querySelector('#detailDialog [data-save]');
-  if(dialogSave&&dialogSave.dataset.save===id){dialogSave.textContent=saved.has(id)?'♥ 已收藏':'♡ 加入收藏';dialogSave.setAttribute('aria-pressed',saved.has(id))}
+  if(dialogSave&&dialogSave.dataset.save===id){dialogSave.innerHTML=heartIcon()+(saved.has(id)?' 已收藏':' 加入收藏');dialogSave.setAttribute('aria-pressed',saved.has(id));dialogSave.setAttribute('aria-label',(saved.has(id)?'取消收藏':'收藏')+byId[id].brand)}
 }
 const dialog=document.getElementById('detailDialog');
 function openDetail(id,variantId){
@@ -70,7 +77,7 @@ function openDetail(id,variantId){
   const sources=item.sources.length?`<h3>资料来源</h3><ul class="source-links">${item.sources.map(source=>`<li><a href="${escapeHtml(source.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(source.title)} ↗</a></li>`).join('')}</ul>`:'';
   document.getElementById('dialogBody').innerHTML=`
     <div class="detail-layout" style="--card-accent:${item.accent};--card-dark:${item.dark}">
-      <div class="detail-art ${item.character?.image?.fullBody?'fullbody-art':''}">${item.character?character(item):packPhoto(item,true)}<span class="detail-art-caption">${item.character?'CONCEPT CHARACTER':'PACKAGE REFERENCE'} / ${item.province}</span></div>
+      <div class="detail-art ${item.character?.image?.fullBody?'fullbody-art':''}">${item.character?character(item):packPhoto(item,true)}<span class="detail-art-caption">${item.character?'CONCEPT CHARACTER':'PACKAGE REFERENCE'} / ${item.province}</span>${item.character?.image?.type==='portrait'?`<button type="button" class="view-art-button" data-view-art="${escapeHtml(item.character.image.path)}" data-art-title="${escapeHtml(item.role)}">立绘细看 · 放大 ↗</button>`:''}</div>
       <div class="detail-copy">
         <div class="eyebrow">ARCHIVE FILE · ${String(allItems.indexOf(item)+1).padStart(2,'0')}</div>
         <div class="detail-brand">${item.province} / ${item.brand}</div>
@@ -79,13 +86,14 @@ function openDetail(id,variantId){
         <h3>角色手记</h3><p>${item.design}</p>
         ${designElements}<h3>品牌与包装档案</h3><p>${item.archive}</p>${/待.*核对/.test(item.verification||'')?`<p class="archive-verification">${escapeHtml(item.verification)}</p>`:''}
         ${item.producer?`<p class="archive-producer">文献所述企业：${escapeHtml(item.producer)}</p>`:''}
+        ${window.archiveCulture?.render(item)||''}
         ${sources}
         ${pack?`<div class="detail-pack">${packPhoto(item,true)}<div><span>包装实物参考</span><p>${escapeHtml(pack.label)}</p>${pack.collectionDate?`<p>馆藏采集：${escapeHtml(pack.collectionDate)}${pack.collectionCity?' · '+escapeHtml(pack.collectionCity):''}<br>采集地不等于生产地。</p>`:''}<a href="${escapeHtml(pack.sourceUrl)}" target="_blank" rel="noopener noreferrer">查看烟盒图片来源 ↗</a><br><a href="${escapeHtml(pack.imagePath)}" target="_blank" rel="noopener noreferrer">查看完整原始照片 ↗</a></div></div>`:''}
-        <button type="button" class="detail-save" data-save="${item.id}" aria-pressed="${saved.has(item.id)}">${saved.has(item.id)?'♥ 已收藏':'♡ 加入收藏'}</button>
-        <p class="detail-disclaimer">角色为非官方原创概念。烟盒仅为一个包装样本，不代表品牌全部产品。</p>
+        <button type="button" class="detail-save" data-save="${item.id}" aria-label="${saved.has(item.id)?'取消收藏':'收藏'}${escapeHtml(item.brand)}" aria-pressed="${saved.has(item.id)}">${heartIcon()}${saved.has(item.id)?' 已收藏':' 加入收藏'}</button>
+        <details class="detail-disclaimer"><summary>关于角色、资料与民间烟语的声明</summary><p>角色均为非官方原创成年人物，服装、姿态与故事是创作设定，与品牌及企业无关联。包装图仅代表资料中的一个样本。</p><p>上市状态、规格与条码为来源声明，不能用于实物认证；价格与实时库存以实际信息为准。民间烟语为网络调侃或用户提供版本，不是品牌广告、地域评价或产品事实。</p><p>本图鉴用于包装视觉与地域文化记录。吸烟有害健康。</p></details>
       </div>
     </div>`;
-  if(!dialog.open)dialog.showModal();document.body.classList.add('dialog-open');
+  if(!dialog.open)dialog.showModal();dialog.scrollTop=0;document.body.classList.add('dialog-open');
 }
 function selectProvince(id){if(!provinces.some(p=>p.id===id))return;activeProvince=id;renderProvinces();renderProvince();}
 document.addEventListener('click',event=>{
