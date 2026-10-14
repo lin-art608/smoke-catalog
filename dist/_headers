@@ -1,0 +1,2 @@
+/assets/characters/*
+  Cache-Control: public, max-age=86400

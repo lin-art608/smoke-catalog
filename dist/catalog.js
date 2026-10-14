@@ -31,7 +31,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-1294-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-1294-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-1294-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -71,7 +74,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-1298-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-1298-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-1298-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -124,7 +130,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-95086-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-95086-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-95086-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -164,7 +173,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-92774-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-92774-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-92774-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -217,7 +229,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-3033-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-3033-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-3033-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -257,7 +272,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-5700-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-5700-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-5700-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -310,7 +328,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-94032-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-94032-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-94032-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -350,7 +371,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-5755-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-5755-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-5755-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -403,7 +427,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-95669-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-95669-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-95669-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -443,7 +470,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-98973-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-98973-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-98973-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -496,7 +526,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-94012-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-94012-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-94012-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -536,7 +569,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-94844-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-94844-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-94844-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -589,7 +625,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-3-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-3-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-3-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -629,7 +668,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-40-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-40-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-40-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -682,7 +724,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-94996-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-94996-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-94996-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -722,7 +767,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-92934-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-92934-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-92934-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -777,7 +825,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-929-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-929-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-929-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -817,7 +868,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-104364-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-104364-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-104364-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -857,7 +911,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-93483-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-93483-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-93483-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -897,7 +954,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-92911-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-92911-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-92911-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -937,7 +997,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-94926-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-94926-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-94926-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -977,7 +1040,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-851-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-851-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-851-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -1017,7 +1083,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-343-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-343-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-343-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -1057,7 +1126,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-134-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-134-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-134-v1-thumb.webp",
+              "width": 1280,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -1112,7 +1184,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-1101-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-1101-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-1101-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -1152,7 +1227,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-1092-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-1092-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-1092-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -1192,7 +1270,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-2501-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-2501-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-2501-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -1232,7 +1313,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-884-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-884-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-884-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -1272,7 +1356,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-1107-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-1107-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-1107-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -1312,7 +1399,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-94061-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-94061-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-94061-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -1352,7 +1442,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-888-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-888-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-888-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -1392,7 +1485,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-1146-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-1146-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-1146-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -1432,7 +1528,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-95656-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-95656-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-95656-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -1487,7 +1586,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-661-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-661-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-661-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -1527,7 +1629,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-742-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-742-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-742-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -1567,7 +1672,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-744-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-744-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-744-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -1607,7 +1715,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-662-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-662-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-662-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -1647,7 +1758,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-659-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-659-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-659-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -1687,7 +1801,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-93977-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-93977-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-93977-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -1727,7 +1844,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-93974-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-93974-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-93974-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -1782,7 +1902,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-248-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-248-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-248-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -1822,7 +1945,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-5616-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-5616-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-5616-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -1862,7 +1988,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-5611-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-5611-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-5611-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -1902,7 +2031,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-94086-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-94086-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-94086-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -1942,7 +2074,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-247-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-247-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-247-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -1997,7 +2132,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-2273-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-2273-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-2273-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -2037,7 +2175,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-92957-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-92957-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-92957-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -2077,7 +2218,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-1621-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-1621-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-1621-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -2117,7 +2261,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-1623-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-1623-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-1623-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -2157,7 +2304,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-94071-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-94071-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-94071-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -2210,7 +2360,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-94728-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-94728-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-94728-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -2250,7 +2403,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-95956-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-95956-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-95956-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -2305,7 +2461,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-1690-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-1690-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-1690-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -2345,7 +2504,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-92894-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-92894-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-92894-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -2385,7 +2547,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-93224-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-93224-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-93224-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -2425,7 +2590,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-1699-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-1699-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-1699-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -2465,7 +2633,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-1181-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-1181-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-1181-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -2505,7 +2676,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-899-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-899-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-899-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -2558,7 +2732,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-295-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-295-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-295-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -2598,7 +2775,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-92751-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-92751-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-92751-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -2638,7 +2818,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-290-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-290-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-290-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -2678,7 +2861,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-94945-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-94945-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-94945-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -2733,7 +2919,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-213-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-213-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-213-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -2773,7 +2962,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-215-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-215-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-215-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -2813,7 +3005,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-212-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-212-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-212-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -2853,7 +3048,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-206-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-206-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-206-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -2893,7 +3091,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-92700-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-92700-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-92700-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -2933,7 +3134,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-209-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-209-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-209-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -2988,7 +3192,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-139-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-139-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-139-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -3028,7 +3235,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-93461-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-93461-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-93461-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -3068,7 +3278,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-93722-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-93722-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-93722-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -3108,7 +3321,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-140-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-140-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-140-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -3148,7 +3364,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-115294-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-115294-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-115294-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -3188,7 +3407,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-13-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-13-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-13-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -3228,7 +3450,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-15-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-15-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-15-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -3268,7 +3493,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-93487-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-93487-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-93487-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -3308,7 +3536,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-8-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-8-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-8-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -3348,7 +3579,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-4-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-4-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-4-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -3388,7 +3622,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-5729-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-5729-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-5729-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -3441,7 +3678,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-1177-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-1177-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-1177-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -3481,7 +3721,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-1148-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-1148-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-1148-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -3521,7 +3764,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-1150-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-1150-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-1150-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -3574,7 +3820,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-1311-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-1311-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-1311-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -3614,7 +3863,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-5693-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-5693-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-5693-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -3667,7 +3919,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-94039-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-94039-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-94039-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -3707,7 +3962,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-94056-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-94056-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-94056-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -3760,7 +4018,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-93967-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-93967-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-93967-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -3800,7 +4061,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-112044-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-112044-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-112044-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -3855,7 +4119,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-93273-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-93273-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-93273-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -3895,7 +4162,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-532-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-532-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-532-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -3935,7 +4205,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-105518-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-105518-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-105518-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -3988,7 +4261,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-92796-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-92796-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-92796-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -4028,7 +4304,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-2277-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-2277-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-2277-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -4068,7 +4347,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-414-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-414-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-414-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -4123,7 +4405,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-1237-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-1237-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-1237-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -4163,7 +4448,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-1234-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-1234-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-1234-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -4203,7 +4491,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-1483-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-1483-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-1483-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -4243,7 +4534,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-92691-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-92691-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-92691-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -4283,7 +4577,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-93768-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-93768-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-93768-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -4323,7 +4620,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-93534-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-93534-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-93534-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -4363,7 +4663,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-93798-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-93798-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-93798-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -4403,7 +4706,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-1233-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-1233-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-1233-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -4443,7 +4749,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-1065-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-1065-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-1065-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -4483,7 +4792,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-1252-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-1252-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-1252-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -4523,7 +4835,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-93336-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-93336-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-93336-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -4563,7 +4878,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-111388-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-111388-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-111388-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -4603,7 +4921,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-95056-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-95056-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-95056-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -4643,7 +4964,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-94924-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-94924-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-94924-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -4683,7 +5007,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-469-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-469-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-469-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -4723,7 +5050,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-470-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-470-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-470-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -4763,7 +5093,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-197-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-197-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-197-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -4803,7 +5136,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-189-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-189-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-189-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -4843,7 +5179,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-333-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-333-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-333-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -4908,7 +5247,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-93985-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-93985-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-93985-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -4948,7 +5290,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-93726-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-93726-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-93726-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -5001,7 +5346,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-637-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-637-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-637-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -5041,7 +5389,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-635-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-635-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-635-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -5081,7 +5432,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-3165-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-3165-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-3165-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -5158,7 +5512,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-92590-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-92590-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-92590-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -5198,7 +5555,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-93814-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-93814-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-93814-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -5251,7 +5611,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-1842-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-1842-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-1842-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -5291,7 +5654,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-1843-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-1843-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-1843-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -5344,7 +5710,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-1829-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-1829-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-1829-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -5384,7 +5753,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-yanpk-94213-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-yanpk-94213-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-yanpk-94213-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -5437,7 +5809,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-winning-59-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-winning-59-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-winning-59-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },
@@ -5481,7 +5856,10 @@ window.archiveCatalog={
             "designSystem": "2.0",
             "image": {
               "type": "portrait",
-              "path": "assets/characters/sku-current-20261013/sku-winning-60-v1.png",
+              "path": "assets/characters/sku-current-20261013/sku-winning-60-v1.webp",
+              "previewPath": "assets/characters/sku-current-20261013/sku-winning-60-v1-thumb.webp",
+              "width": 853,
+              "height": 1280,
               "fullBody": true
             }
           },

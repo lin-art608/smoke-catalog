@@ -21,7 +21,7 @@ function packPhoto(item,detail=false){
 function character(item,silhouette=false){
   const asset=item.character?.image;
   if(!asset)return '<div class="character-pending"><span>独立人物待绘</span><small>一规格 · 一角色</small></div>';
-  if(asset.type==='portrait')return `<img class="character-portrait ${asset.fullBody?'character-fullbody':''} ${silhouette?'is-silhouette':''}" src="${escapeHtml(asset.path)}" alt="${escapeHtml(item.role)}的${silhouette?'角色剪影':'二次元角色概念立绘'}" loading="lazy">`;
+  if(asset.type==='portrait')return `<img class="character-portrait ${asset.fullBody?'character-fullbody':''} ${silhouette?'is-silhouette':''}" src="${escapeHtml(silhouette&&asset.previewPath?asset.previewPath:asset.path)}" ${asset.width&&asset.height?`width="${asset.width}" height="${asset.height}"`:""} alt="${escapeHtml(item.role)}的${silhouette?'角色剪影':'二次元角色概念立绘'}" loading="${silhouette?'lazy':'eager'}" decoding="async">`;
   return `<div class="character-image ${silhouette?'is-silhouette':''}" style="--sheet:url('${asset.path}');--sprite-x:${asset.x}%;--sprite-y:${asset.y}%" role="img" aria-label="${escapeHtml(item.role)}的原创二次元角色概念图"></div>`;
 }
 function renderProvinces(){

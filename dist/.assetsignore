@@ -8,3 +8,4 @@
 *.7z
 *.rar
 *.log
+assets/characters/**/*.png
