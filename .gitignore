@@ -2,3 +2,22 @@ node_modules/
 .wrangler/
 .DS_Store
 Thumbs.db
+
+# 本地缓存、日志与打包副本不提交
+.cache/
+coverage/
+*.log
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+*.tmp
+*.bak
+
+# 登录与本地环境文件
+.env
+.env.*
+!.env.example
+.dev.vars
+.dev.vars.*

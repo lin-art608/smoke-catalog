@@ -1,0 +1,6 @@
+# Cloudflare Workers 如果选择仓库根目录作为静态资源目录，
+# 只发布入口与 dist，排除 Git 历史、源码数据与本地缓存。
+*
+!index.html
+!dist/
+!dist/**

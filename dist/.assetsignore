@@ -1,0 +1,10 @@
+# 直接以 dist 发布时排除非网页资产
+**/.git
+**/node_modules
+**/.wrangler
+**/.DS_Store
+**/Thumbs.db
+*.zip
+*.7z
+*.rar
+*.log
