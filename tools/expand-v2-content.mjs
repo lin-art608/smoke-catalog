@@ -29,6 +29,7 @@ const cultural=[
 for(const d of rows)d.culturalContext=cultural.filter(x=>x.ids.includes(d.id)).map(({ids,...r})=>({...r,accessed:'2026-10-15',certainty:'verified-cultural-context-not-brand-intent'}));
 // A published report supports circulation of this phrase; it does not establish official branding.
 rows.find(d=>d.id==='sku-yanpk-1101').folkSayings=[{text:'抽烟只抽煊赫门，一生只爱一个人。',source:'https://m.mnw.cn/keji/internet/1669386.html',title:'闽南网 · 网络梗报道',certainty:'circulation-reported-search-index; full-page-fetch-unavailable',note:'只记录报道中出现的流传说法；不认定官方广告、最早作者或真实人群特征。页面全文本轮抓取失败，按搜索索引证据标记。'}];
+if(fs.existsSync('data/2.0/exhibits.json')&&JSON.parse(fs.readFileSync('data/2.0/exhibits.json')).some(d=>d.artVersion==='v2'))throw Error('G5 assets integrated: preserve reviewed art fields before regenerating G4 content.');
 fs.writeFileSync('data/2.0/exhibits.json',JSON.stringify(rows,null,2)+'\n');fs.writeFileSync('site-v2/shared/catalog.js','window.v2Exhibits='+JSON.stringify(rows,null,2)+';\n');
 fs.writeFileSync('data/2.0/cultural-sources.json',JSON.stringify(cultural,null,2)+'\n');
 console.log('Prepared '+rows.length+' distinct visual narratives; four sourced cultural contexts, uncertain brand histories remain explicit.');

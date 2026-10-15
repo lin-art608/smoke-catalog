@@ -1,18 +1,17 @@
 # Smoke Archive 2.0 工作区
 
-当前交付范围：G0基线、G1信息与六件内容种子、G2两套可点击视觉原型。当前关口：等待负责人选择A暖白策展或B深墨展厅，尚未进入G3。
+当前：负责人已选择B深墨展厅；G0–G4完成，G5二十件角色样板已实现并自审，等待美术方向确认。未进入G6。
 
-运行`node tools/serve-v2.mjs`，打开 http://127.0.0.1:4180/prototypes/2.0/ 。目录已在本次会话启动本地预览服务。
+运行node tools/serve-v2.mjs，在本地查看：
 
-- `INVENTORY.md`：旧版盘点、回退、路径与资产映射。
-- `00-product-vision.md`、`IA.md`、`SCHEMA.md`：产品边界、页面树、三层内容模型。
-- `STYLE-GUIDE.md`：双方向布局、视觉令牌、动效与手机规则。
-- `04-curation-samples.md`：六件叙事与类型候选。
-- `06-image-rights-ledger.md`：授权与高清边界，逐件数据位于data/2.0。
-- `07-voting-spec.md`、`08-release-checklist.md`：后续投票与人工关口。
-- `reviews/G0.md`、`G1.md`、`G2.md`：每阶段已做、截图、决策、通过/失败和下一步。
-- `reviews/automated-results.json`：自动检测的实际结果。
+- B版完整样板：http://127.0.0.1:4180/site-v2/
+- 二十件角色对照与剪影审阅：http://127.0.0.1:4180/site-v2/art-review.html
+- G2双稿归档：http://127.0.0.1:4180/prototypes/2.0/
 
-复现：先运行本地服务，再运行`node tools/review-v2.mjs`。测试脚本使用本机Edge无头模式与Codex自带Playwright，仅本地浏览，不使用之前停用的computer-use技能。截图为浏览器模拟尺寸，不能冒充实体手机验收。
+产品边界见00-product-vision.md；三层模型见SCHEMA.md；角色候选、映射、待人审问题见05-character-bible.md；图片边界见06-image-rights-ledger.md；各阶段检查见reviews/G0.md至G5.md。
 
-`tools/prepare-v2.mjs`生成种子快照、126条许可台账；已有baseline-manifest不覆盖。所有v1文件按SHA256复核，旧dist与main不变。此目录和prototypes都不被生产入口引用；没有运行发布。
+复现：在本地服务运行时执行node tools/review-v2-site.mjs（SMOKE_REVIEW_STAGE设为G5）和node tools/review-v2-art-page.mjs。采用本机Edge无头浏览与Playwright模拟尺寸，不冒充实体手机检查，不使用停用的computer-use技能。
+
+新图用内置image_gen生成，原生PNG与WebP位于site-v2/assets/characters/v2，完整提示词和哈希在data/2.0/character-art-jobs.json。G4生成脚本在检测到已接入的v2图时会停止，避免误覆盖美术字段。
+
+672个v1文件按SHA256复核；dist、main、回退分支及G2原型保留。当前功能分支feat/smoke-archive-2.0，仅本地提交，按用户原流程由GitHub Desktop推送。

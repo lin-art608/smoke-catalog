@@ -1,0 +1,2396 @@
+[
+  {
+    "id": "sku-yanpk-929",
+    "name": "中华(软)",
+    "visualBasis": "朱红金边建筑檐线",
+    "evidence": "local-pack-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: A mature 38-year-old female city surveyor with angular face, short black asymmetrical hair, cropped vermilion architectural shoulder cape over charcoal tailored jumpsuit and heavy boots. One hand opens a long thin brass surveying ruler horizontally; body leaning sideways, three-quarter walking pose. Horizontal eave-like shoulder, broad red plane and narrow gold edging. Elegant contemporary editorial character painting, NOT a historical robe. Structural palette cues only: 朱红底色占据正面主体; 金色建筑横向展开，位于品牌文字下方; 上下边缘以窄金线收束. Do not reproduce the packaging itself.",
+        "score": null
+      },
+      {
+        "type": "建筑装置",
+        "description": "备选方向，先做不同轮廓，不自动沿用主方向身体结构。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-104364",
+    "name": "中华(硬)",
+    "visualBasis": "红银水平边线方形徽扣",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-93483",
+    "name": "中华(双中支)",
+    "visualBasis": "红金对称双层短披片",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-92911",
+    "name": "中华(金中支)",
+    "visualBasis": "朱红金色长直边饰",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-94926",
+    "name": "中华(细支)",
+    "visualBasis": "深红细长金边框",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-1237",
+    "name": "云烟(紫)",
+    "visualBasis": "暗红祥云曲线扣",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-1234",
+    "name": "云烟(软珍品)",
+    "visualBasis": "赭红浅金圆角面板",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-1483",
+    "name": "云烟(软大重九)",
+    "visualBasis": "明黄墨蓝九曲花边框",
+    "evidence": "local-pack-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: A nonhuman folded yellow-paper creature with a deep-blue suspended knot at its open center. Four separated thin dark filigree rectangular struts surround a hollow angular body; two folded paper fins articulate outward, wide lower silhouette and narrow upper tip. No face, no printed writing, no box. Gallery paper-object concept art, matte ochre paper, navy cord and cast-brass joints. Structural palette cues only: 主体为明黄色矩形底面; 上部有深蓝色徽章式图形; 深色花边围绕边缘，下部文字区由横线分隔. Do not reproduce the packaging itself.",
+        "score": null
+      },
+      {
+        "type": "实验雕塑",
+        "description": "备选方向，先做不同轮廓，不自动沿用主方向身体结构。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-92691",
+    "name": "云烟(细支云龙)",
+    "visualBasis": "米白细金云形线纹",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-93768",
+    "name": "云烟(小熊猫家园)",
+    "visualBasis": "青绿竹叶与小熊猫圆耳包",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-93534",
+    "name": "云烟(细支珍品)",
+    "visualBasis": "棕红细密金色画框",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-93798",
+    "name": "云烟(软珍品红韵)",
+    "visualBasis": "鲜红金绿如意弧形肩饰",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-1233",
+    "name": "云烟(印象)",
+    "visualBasis": "深棕留白细银线",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-1065",
+    "name": "玉溪(软)",
+    "visualBasis": "红白菱形棋点织纹",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-1252",
+    "name": "玉溪(硬)",
+    "visualBasis": "朱红米白圆点三角",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-93336",
+    "name": "玉溪(初心)",
+    "visualBasis": "鲜红青蓝窄边撞色",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-111388",
+    "name": "玉溪(细支)",
+    "visualBasis": "深绿金色方框与白点阵",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-95056",
+    "name": "玉溪(鑫中支)",
+    "visualBasis": "红白金色密小圆点",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-139",
+    "name": "芙蓉王(硬)",
+    "visualBasis": "米灰金边花朵圆徽",
+    "evidence": "local-pack-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: A mature 52-year-old male clock repairer, broad nose, receding cropped grey hair and subtle wrinkles; beige short work shirt, grey rolled trousers, brown leather utility belt. Seated low sideways on an integral folding mechanical stool, inspecting a large round brass flower-like tool disc with two fine horizontal calibration rods. Contemporary artisan character illustration with precise warm metal, no robe, no logos. Structural palette cues only: 底面为浅米灰色; 上半部中央有圆形金色徽章; 细横线将正面分出上下区域. Do not reproduce the packaging itself.",
+        "score": null
+      },
+      {
+        "type": "器物装置",
+        "description": "备选方向，先做不同轮廓，不自动沿用主方向身体结构。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-93461",
+    "name": "芙蓉王(硬细支)",
+    "visualBasis": "象牙白细金圆花章",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-93722",
+    "name": "芙蓉王(硬蓝新版)",
+    "visualBasis": "深蓝大块金色花瓣",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-140",
+    "name": "芙蓉王(软蓝)",
+    "visualBasis": "深蓝金色细点束线",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-115294",
+    "name": "芙蓉王(硬中支新版)",
+    "visualBasis": "银灰细金花脉纹",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-13",
+    "name": "白沙软",
+    "visualBasis": "纸白绿色水鸟圆饰",
+    "evidence": "local-pack-inspected",
+    "directions": [
+      {
+        "type": "动物 / 拟人",
+        "description": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: One fantastical adult water bird with two long differently curved necks sharing one coherent avian skeleton, elongated white bodies formed by open negative spaces, moss-green circular wing frame, red and black curved metal ankle rings. Wide stance on three articulated feet and one backward wing. Elegant sculptural biological concept art, NOT two separate birds, not cute, no eyes enlarged. Structural palette cues only: 主体为白色底面; 中部绿色图形中可见两只白色鸟形轮廓; 底边有红黑相间的卷曲装饰带. Do not reproduce the packaging itself.",
+        "score": null
+      },
+      {
+        "type": "镂空雕塑",
+        "description": "备选方向，先做不同轮廓，不自动沿用主方向身体结构。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-15",
+    "name": "白沙硬",
+    "visualBasis": "白红绿横边水鸟图案",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-93487",
+    "name": "白沙硬新精品二代",
+    "visualBasis": "深蓝金色双鸟几何纹",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-8",
+    "name": "白沙精品二代",
+    "visualBasis": "黑蓝金框偏侧构图",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-4",
+    "name": "白沙和天下",
+    "visualBasis": "深褐玫红碎花纹",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-5729",
+    "name": "白沙硬细支和气生财",
+    "visualBasis": "米金红细线古典花边",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-213",
+    "name": "黄鹤楼(软蓝)",
+    "visualBasis": "麦金沙金蓝建筑檐线",
+    "evidence": "local-pack-inspected",
+    "directions": [
+      {
+        "type": "动物 / 拟人",
+        "description": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: One mature fantastical crane traveler: avian anatomy, long curved neck and long thin jointed legs, dark navy broad wings layered like staggered architectural eaves, sparse brass joint plates. One wing half opened high and the other folded low, head turned backward. No human face, no clothing, no cute mascot. Museum natural-fantasy ink and gouache concept art. Structural palette cues only: 中央为深蓝色横向色块; 金色多层楼阁图形置于蓝色色块中; 上下区域呈金色，与中央蓝色分区明显. Do not reproduce the packaging itself.",
+        "score": null
+      },
+      {
+        "type": "幻想人物",
+        "description": "备选方向，先做不同轮廓，不自动沿用主方向身体结构。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-215",
+    "name": "黄鹤楼(硬珍品)",
+    "visualBasis": "深青银白对称建筑线",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-212",
+    "name": "黄鹤楼(软珍品)",
+    "visualBasis": "深褐淡粉建筑剪影",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-206",
+    "name": "黄鹤楼(硬1916)",
+    "visualBasis": "沙金建筑速写细框",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-92700",
+    "name": "黄鹤楼(硬峡谷柔情)",
+    "visualBasis": "浅绿极简楼阁浅金纹",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-209",
+    "name": "黄鹤楼(硬雅香)",
+    "visualBasis": "橙金墨黑厚边框",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-1101",
+    "name": "南京(炫赫门)",
+    "visualBasis": "浅青铜边和龙形弧线",
+    "evidence": "local-pack-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: A mature 32-year-old woman with narrow long face, shaved-side dark hair and a short muted-cyan technical jacket, slate cargo trousers, angular high boots. Copper open decoding loops coil along one forearm without forming a dragon logo. Mid-stride turning to listen, free arm extended down diagonally, serious expressive face. Fashion concept illustration with subtle cel shading, no long gown. Structural palette cues only: 主体底色为浅青蓝; 中部有赭金色龙形弧曲图案; 四周由细窄装饰框收边. Do not reproduce the packaging itself.",
+        "score": null
+      },
+      {
+        "type": "动物 / 幻想长蛇",
+        "description": "备选方向，先做不同轮廓，不自动沿用主方向身体结构。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-1092",
+    "name": "南京(红)",
+    "visualBasis": "朱红圆金徽与方边",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-2501",
+    "name": "南京(雨花石)",
+    "visualBasis": "鲜黄青紫山石和流线",
+    "evidence": "local-pack-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: One nonhuman levitating mineral entity: two offset warm yellow rock halves suspended across a bright multicolored crystalline horizontal fissure. Upper slab triangular and lower slab rounded, off-center green leaf emerging between them. Low wide asymmetrical silhouette, geological striations and vivid muted purple teal crystal bands. Painterly mineral sculpture concept, no face or anthropomorphic clothing. Structural palette cues only: 正面主体为鲜黄色; 中部有横向的多色图画区域; 上部红色文字与下部文字区分列在画幅两侧. Do not reproduce the packaging itself.",
+        "score": null
+      },
+      {
+        "type": "幻想人物",
+        "description": "备选方向，先做不同轮廓，不自动沿用主方向身体结构。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-884",
+    "name": "南京(九五)",
+    "visualBasis": "明黄深蓝细密对称卷纹",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-1107",
+    "name": "南京金陵十二钗烤烟",
+    "visualBasis": "暖黄朱红纵向长画幅",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-94061",
+    "name": "南京炫赫门炫彩",
+    "visualBasis": "银蓝赭红流动弧纹",
+    "evidence": "local-pack-inspected",
+    "directions": [
+      {
+        "type": "实验平面角色",
+        "description": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: One experimental nonhuman entity made of two very thin silver-blue gradient films curling around a single copper arcing spine, with four fine dark rectangular struts that never close into a box. No head or facial features, no human anatomy, weightless skewed sculpture with translucent overlaps. Sophisticated contemporary poster-collage and polished metal concept rendering, irregular diagonal silhouette. Structural palette cues only: 主体呈银蓝色渐变; 中央有赭金色弧曲龙形图案; 深浅相间的窄边框环绕四周. Do not reproduce the packaging itself.",
+        "score": null
+      },
+      {
+        "type": "幻想 / 科幻人物",
+        "description": "备选方向，先做不同轮廓，不自动沿用主方向身体结构。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-888",
+    "name": "苏烟(软金砂)",
+    "visualBasis": "淡粉金线竖向光影",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-1146",
+    "name": "苏烟(五星红杉树)",
+    "visualBasis": "朱红金色圆扣与竖线",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-95656",
+    "name": "苏烟(晶彩中支)",
+    "visualBasis": "香槟金玫红渐变和六边形",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-661",
+    "name": "利群新版",
+    "visualBasis": "银白朱红宽横带",
+    "evidence": "local-pack-inspected",
+    "directions": [
+      {
+        "type": "实验平面角色",
+        "description": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: An experimental nonhuman flat walking figure whose body is a single broad horizontal vermilion ribbon, two translucent off-white paper struts as uneven legs, one open rectangular pocket, and two fine gold tracking lines. No head, face or human torso. Asymmetric screenprint collage, crisp paper edges and subtle ink grain, visual adult graphic-design sculpture. Structural palette cues only: 银白色底上有宽朱红横带; 红带中央是金色中文与白色拉丁字样; 红带上下可见细窄的装饰边线. Do not reproduce the packaging itself.",
+        "score": null
+      },
+      {
+        "type": "都市人物",
+        "description": "备选方向，先做不同轮廓，不自动沿用主方向身体结构。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-742",
+    "name": "利群软红长嘴",
+    "visualBasis": "乳金红色中心大块",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-744",
+    "name": "利群长嘴",
+    "visualBasis": "米金黑纹边与宽红腰带",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-662",
+    "name": "利群软阳光",
+    "visualBasis": "墨黑暗红微亮带",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-659",
+    "name": "利群阳光",
+    "visualBasis": "深褐金色极简横线",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-93977",
+    "name": "利群楼外楼",
+    "visualBasis": "橙金古建屋檐细纹",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-93974",
+    "name": "利群(江南韵)",
+    "visualBasis": "浅蓝墨黑细枝与月圆",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-94924",
+    "name": "红塔山(大经典1956)",
+    "visualBasis": "白红塔形竖线浅金山脊",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-469",
+    "name": "红塔山(软经典1956)",
+    "visualBasis": "纸白朱红竖向塔影",
+    "evidence": "local-pack-inspected",
+    "directions": [
+      {
+        "type": "传统 / 架空工艺人物",
+        "description": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: A mature 65-year-old male map-and-tower craftsman, weathered square face, grey stubble and hair tied short. Original unbleached linen short work coat, charcoal apron and loose practical trousers; not a reproduction of a specific historical uniform. Deeply bent crouching profile, a narrow tall vermilion folding-wood measuring frame strapped to his back and a horizontal pale brass ridge template over his knees. Adult woodblock-inspired painterly concept art, no front-facing idle pose. Structural palette cues only: 主体为纸白色底面; 左侧有朱红色竖向塔形线图; 右侧可见浅金色山形折线. Do not reproduce the packaging itself.",
+        "score": null
+      },
+      {
+        "type": "实验版画装置",
+        "description": "备选方向，先做不同轮廓，不自动沿用主方向身体结构。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-470",
+    "name": "红塔山(硬经典100)",
+    "visualBasis": "浅橙红金山峰线",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-2273",
+    "name": "七匹狼(纯境)",
+    "visualBasis": "米白银灰矩形小徽",
+    "evidence": "local-pack-inspected",
+    "directions": [
+      {
+        "type": "动物 / 拟人",
+        "description": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: A mature grey-white wolf in realistic elongated quadrupedal anatomy, long muzzle, upright ears, powerful low shoulders, thin rectangular grey stone slab held by an abstract harness on its back and one short dark red woven band on a foreleg. Paused mid-step with head low and tail sweeping sideways. Sophisticated fantasy wildlife concept art with textured pale fur, not cute, not a mascot, no cigarette or package. Structural palette cues only: 大部分幅面为浅米白色; 中央有较小的灰色矩形徽章; 徽章内部可见红色小图形. Do not reproduce the packaging itself.",
+        "score": null
+      },
+      {
+        "type": "极简装置",
+        "description": "备选方向，先做不同轮廓，不自动沿用主方向身体结构。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-92957",
+    "name": "七匹狼(蓝新版)",
+    "visualBasis": "湖蓝卷曲浮雕波纹",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-1621",
+    "name": "七匹狼(软红1995)",
+    "visualBasis": "深红银白飞鸟形符号",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-1623",
+    "name": "七匹狼(白)",
+    "visualBasis": "灰白红框细小格点",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-94071",
+    "name": "七匹狼(纯境中支)",
+    "visualBasis": "青蓝白金海岸波浪",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-248",
+    "name": "黄山(新制皖烟)",
+    "visualBasis": "灰金绿色圆形窗格",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-5616",
+    "name": "黄山(记忆)",
+    "visualBasis": "淡红山水松树与云",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-5611",
+    "name": "黄山(红方印)",
+    "visualBasis": "纸灰朱红方形版画",
+    "evidence": "local-pack-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: A small nonhuman folded-paper mountain entity, low triangular terraced silhouette rising from ivory paper-rock feet. Square vermilion print-like abstract grooves form the folding peaks; sparse vertical black cut slits, no readable writing. Walking sideways with one fold raised. Refined paper-sculpture concept rendering, weathered ink, no face, no person and no commercial packaging. Structural palette cues only: 正面底色为浅灰白; 上半部有朱红色方形印章式图案; 方形图案上方与右侧分布黑色竖向文字. Do not reproduce the packaging itself.",
+        "score": null
+      },
+      {
+        "type": "传统人物",
+        "description": "备选方向，先做不同轮廓，不自动沿用主方向身体结构。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-94086",
+    "name": "黄山(小红方印中支)",
+    "visualBasis": "米白朱红细密印纹",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-247",
+    "name": "黄山(金皖烟)",
+    "visualBasis": "麦黄金银圆形徽章",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-1690",
+    "name": "泰山(白将军)",
+    "visualBasis": "银白朱红盾形结构",
+    "evidence": "local-pack-inspected",
+    "directions": [
+      {
+        "type": "幻想 / 科幻人物",
+        "description": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: A mature 45-year-old androgynous night guard with broad jaw and cropped grey hair, bulky asymmetrical upper red armor, low wide silver-grey greaves and an empty shield-shaped articulated chest plate opened as a soft lantern. Kneeling sideways in a protective low stance, no weapon, no emblems. Refined science-fiction armor concept painting, adult proportions, no skirt or long robe. Structural palette cues only: 上方为饱和红色色块; 下方为银灰色区域; 中央有红金相间的盾形图案. Do not reproduce the packaging itself.",
+        "score": null
+      },
+      {
+        "type": "传统 / 架空守卫",
+        "description": "备选方向，先做不同轮廓，不自动沿用主方向身体结构。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-92894",
+    "name": "泰山（白将军细支）",
+    "visualBasis": "白金红细长盾片",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-93224",
+    "name": "泰山（颜悦）蓝色版",
+    "visualBasis": "宝蓝金黄卷叶白花",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-1699",
+    "name": "泰山(心悦)",
+    "visualBasis": "浅白青蓝淡粉叶影",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-1181",
+    "name": "泰山(望岳)",
+    "visualBasis": "米灰深红细山线",
+    "evidence": "local-pack-inspected",
+    "directions": [
+      {
+        "type": "动物 / 自然幻想",
+        "description": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: One mature slow stone tortoise, very low wide quadrupedal profile, pale grey multifaceted shell whose edge rises into a miniature abstract mountain ridge, a separate narrow dark rectangular rain canopy floating just over the shell. One heavy front foot lifted, neck extended to the side. Grounded geological creature concept art, not a miniature landscape background, no face stylization or cute eyes. Structural palette cues only: 主体为浅灰白色; 上部有深色小矩形区域; 文字附近可见细灰色山形与建筑式线条. Do not reproduce the packaging itself.",
+        "score": null
+      },
+      {
+        "type": "器物 / 山形装置",
+        "description": "备选方向，先做不同轮廓，不自动沿用主方向身体结构。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-899",
+    "name": "泰山(儒风)",
+    "visualBasis": "银灰墨红疏淡山水",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-3033",
+    "name": "钻石(荷花)",
+    "visualBasis": "草绿淡黄荷叶粉花",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-5700",
+    "name": "钻石(细支荷花)",
+    "visualBasis": "深绿金黄纤细荷茎",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-295",
+    "name": "黄金叶(黄金眼)",
+    "visualBasis": "浓黄墨黑均匀点阵",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-92751",
+    "name": "黄金叶(乐途)",
+    "visualBasis": "米白金红古典小格画框",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-290",
+    "name": "黄金叶(天叶)",
+    "visualBasis": "纸白橘红叶脉细线",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-92796",
+    "name": "贵烟(跨越)",
+    "visualBasis": "黑银星河斜向弧",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-2277",
+    "name": "贵烟(国酒香·30)",
+    "visualBasis": "橘金亮绿对称花边",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-93273",
+    "name": "娇子(宽窄逍遥)",
+    "visualBasis": "灰白朱红黑色拱桥曲线",
+    "evidence": "local-pack-inspected",
+    "directions": [
+      {
+        "type": "幻想 / 科幻人物",
+        "description": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: A nonhuman tall navigation machine made of two black symmetrical arch-shaped mechanical shoulder shells around a narrow vertical ivory ceramic core. Small plain vermilion square beacon suspended above it; one arch open while the other closed, hovering tilted three-quarter. No face or human limbs, modern science-fiction industrial concept art with intricate joints. Structural palette cues only: 灰白底面上部有朱红方形区域; 中央黑色纹样由对称的弧线与圆形组成; 主文字纵向排列在黑色纹样下方. Do not reproduce the packaging itself.",
+        "score": null
+      },
+      {
+        "type": "几何装置",
+        "description": "备选方向，先做不同轮廓，不自动沿用主方向身体结构。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-532",
+    "name": "娇子(X)",
+    "visualBasis": "纸白金黄交叉几何线",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-105518",
+    "name": "娇子(宽窄如意细支)",
+    "visualBasis": "银灰虹彩拱形镂空花饰",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-637",
+    "name": "兰州(硬珍品)",
+    "visualBasis": "墨黑金线鹿形弧",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-635",
+    "name": "兰州(硬吉祥)",
+    "visualBasis": "红黑金色鹿形曲线",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-3165",
+    "name": "兰州(桥)",
+    "visualBasis": "米白暖红桥线水纹",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-3",
+    "name": "长白山(人参)",
+    "visualBasis": "明黄金色人参根须曲线",
+    "evidence": "local-pack-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: One nonhuman root-walker assembled from many twisting dry golden-yellow wooden tendrils of different lengths, empty central coil, no human head or torso, several translucent amber fins near the ground. Strong asymmetric spiral silhouette, a few tiny fibrous offshoots. Adult botanical speculative sculpture illustration, finely observed dry wood grain; do not claim any health benefit or show medicinal products. Structural palette cues only: 上半部以黄色为主; 下部为橙色横向区域; 左侧有细长分叉的根形线图. Do not reproduce the packaging itself.",
+        "score": null
+      },
+      {
+        "type": "实验雕塑",
+        "description": "备选方向，先做不同轮廓，不自动沿用主方向身体结构。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-40",
+    "name": "长白山(神韵)",
+    "visualBasis": "朱红青绿小方窗",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-1311",
+    "name": "真龙(海韵)",
+    "visualBasis": "深蓝金色盘龙卷纹",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-5693",
+    "name": "真龙(凌云)",
+    "visualBasis": "橙黄红金盘旋云纹",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-197",
+    "name": "红河(软甲)",
+    "visualBasis": "朱红纸白横向弧带",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-189",
+    "name": "红河(硬甲)",
+    "visualBasis": "深红银灰窄金边",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-414",
+    "name": "黄果树(长征)",
+    "visualBasis": "朱红金色建筑框",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-94945",
+    "name": "红旗渠(银河新版)",
+    "visualBasis": "金灰朱红柔和波纹",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-851",
+    "name": "牡丹(软)",
+    "visualBasis": "明红粉白牡丹绿叶",
+    "evidence": "local-pack-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: A nonhuman hovering peony rotor: many layered pink-and-ivory petals revolve around an exposed deep crimson suspended spherical core. Three asymmetric dark-green structural leaf wings support the lower petals. No human face, no arms, no humanoid legs. Mature sculptural botanical fantasy concept art, dramatic open negative spaces, no adorable flower character or commercial label. Structural palette cues only: 主体为鲜红底色; 上部有粉白色多瓣花朵; 花朵周围分布绿色叶片. Do not reproduce the packaging itself.",
+        "score": null
+      },
+      {
+        "type": "都市 / 舞台人物",
+        "description": "备选方向，先做不同轮廓，不自动沿用主方向身体结构。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-1177",
+    "name": "双喜(硬经典)",
+    "visualBasis": "朱红浅金圆形镂空纹",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-1148",
+    "name": "双喜(硬经典1906)",
+    "visualBasis": "赭红金青纵横细框",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-1150",
+    "name": "双喜(软经典)",
+    "visualBasis": "鲜红纸白圆花边",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-343",
+    "name": "红双喜(硬)",
+    "visualBasis": "红白金色横向花窗",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-134",
+    "name": "大前门(软)",
+    "visualBasis": "米金浅蓝拱门图形",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-333",
+    "name": "红梅(软黄)",
+    "visualBasis": "明黄朱红梅花枝",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-1294",
+    "name": "中南海(5mg)",
+    "visualBasis": "浅灰青蓝书法式抽象弧线",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-1298",
+    "name": "中南海(8mg)",
+    "visualBasis": "浅蓝深蓝橙色小方块",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-95086",
+    "name": "恒大(硬中支)",
+    "visualBasis": "米黄金色卷叶框、橙色下摆、深蓝圆徽",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-92774",
+    "name": "恒大(记忆1949)",
+    "visualBasis": "银灰浅蓝竖条纹、墨蓝建筑细线",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-94012",
+    "name": "人民大会堂(盛京中支)",
+    "visualBasis": "明黄金红建筑檐线、祥云",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-94844",
+    "name": "人民大会堂(辽宁16细支)",
+    "visualBasis": "冰白银灰细线、红蓝黄细小矩形",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-94996",
+    "name": "哈尔滨(老巴夺红中支)",
+    "visualBasis": "朱红金色卷叶、圆形金徽",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-92934",
+    "name": "哈尔滨(龙烟呈祥)",
+    "visualBasis": "亮黄宝蓝花边、方形回纹",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-95669",
+    "name": "冬虫夏草(红中支)",
+    "visualBasis": "朱红金色宽横带、圆形花饰",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-98973",
+    "name": "冬虫夏草(金细支)",
+    "visualBasis": "沙金压纹、红色小圆徽",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-93985",
+    "name": "好猫(中支金丝猴)",
+    "visualBasis": "海蓝橙金、山脊与灵动动物曲线",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-93726",
+    "name": "好猫(金丝猴)",
+    "visualBasis": "宝蓝金橙、绿山与跳跃弧线",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-94728",
+    "name": "金圣(青瓷)",
+    "visualBasis": "青瓷蓝绿、金色圆形花窗",
+    "evidence": "local-pack-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: One faceless acoustic listening artifact assembled from several asymmetrical celadon-green glazed ceramic horn shards, an empty gold ring floating in the central gap and translucent pale flowing air channels embedded in the glaze. Wide funnel opening tilted sideways on three uneven ceramic points. Elegant highly detailed ceramic and brass concept art, hairline glaze texture, no face, no torso, no vessel label. Structural palette cues only: 主体为明亮青绿色; 上半部中央有金色圆形装饰; 圆形周围可见浅色卷曲纹样. Do not reproduce the packaging itself.",
+        "score": null
+      },
+      {
+        "type": "幻想 / 科幻人物",
+        "description": "备选方向，先做不同轮廓，不自动沿用主方向身体结构。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-95956",
+    "name": "金圣(青瓷中支)",
+    "visualBasis": "深青绿金色细卷叶浮雕",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-93967",
+    "name": "天子(中支)",
+    "visualBasis": "金黄同色龙形抽象卷纹",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-112044",
+    "name": "天子(千里江山青绿中支)",
+    "visualBasis": "浅蓝米金、青绿山水与圆月",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-94032",
+    "name": "紫气东来(汾清香)",
+    "visualBasis": "纸白浅金、紫色细线花枝",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-5755",
+    "name": "紫气东来(祥瑞)",
+    "visualBasis": "银白紫金祥云斜向卷纹",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-92590",
+    "name": "雪莲(尚禧)",
+    "visualBasis": "米白朱红、彩色小格与放射花朵",
+    "evidence": "local-pack-inspected",
+    "directions": [
+      {
+        "type": "幻想 / 科幻装置",
+        "description": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: One nonhuman octagonal snow-crystal sensor drone: eight uneven radial metallic wings fold around a hollow frosted-ivory ceramic central hub; small deep-red locator and an off-axis vertical sequence of colored glass plates. Three wings folded inward, remaining wings spread as angular lattice, asymmetrical mechanical silhouette. Precise mature science-fiction industrial concept art, not a toy or childish snowflake mascot. Structural palette cues only: 主体底色为浅米白; 左侧竖向排列多色小格与放射形图案; 右上分布红色文字与细小点阵. Do not reproduce the packaging itself.",
+        "score": null
+      },
+      {
+        "type": "动物 / 幻想水母",
+        "description": "备选方向，先做不同轮廓，不自动沿用主方向身体结构。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-93814",
+    "name": "雪莲(细支1960)",
+    "visualBasis": "朱红金边、绿叶白莲花",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-94039",
+    "name": "三沙(金)",
+    "visualBasis": "象牙白浅金、青绿波浪线",
+    "evidence": "local-pack-inspected",
+    "directions": [
+      {
+        "type": "动物 / 自然幻想",
+        "description": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: One mature fantastical manta ray with wide asymmetrical ivory translucent wings, a diagonal restrained green-blue-gold iridescent wave band across its upper surface, fine branching flow channels within its wings and long tapered tail curling upward. Hovering dynamic three-quarter view, one wing lifted high, no cartoon face and no clothing. Elegant marine creature concept painting with luminous membrane texture. Structural palette cues only: 主体为浅米白色; 一条多色波浪带斜穿上半部; 浅色细线纹样分布在空白区域. Do not reproduce the packaging itself.",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "备选方向，先做不同轮廓，不自动沿用主方向身体结构。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-94056",
+    "name": "三沙(中支)",
+    "visualBasis": "浅米金与金色细线、龟背几何纹",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-1842",
+    "name": "长寿(尊爵7号)",
+    "visualBasis": "银灰彩虹细弧线、紫色点缀",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-1843",
+    "name": "长寿(尊爵10号)",
+    "visualBasis": "深蓝银边、红黄蓝斜向光带",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-1829",
+    "name": "红双喜南洋(软)",
+    "visualBasis": "古铜金、朱红双层几何结",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-yanpk-94213",
+    "name": "红双喜(南洋1905)",
+    "visualBasis": "米褐复古暗红建筑线与卷叶边",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "器物 / 自然概念",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "实验平面角色",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-winning-59",
+    "name": "WINNING · GOLDEN WINTERSWEET",
+    "visualBasis": "金黄黄铜、细密菱形压纹与梅枝",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  },
+  {
+    "id": "sku-winning-60",
+    "name": "WINNING · MAGNIFICENT",
+    "visualBasis": "紫红金色细框、朱红印章式几何纹",
+    "evidence": "legacy-description-not-yet-inspected",
+    "directions": [
+      {
+        "type": "都市 / 时装人物",
+        "description": "基于原描述的待核实候选；必须查看源图再定形。",
+        "score": null
+      },
+      {
+        "type": "动物 / 机械幻想",
+        "description": "用非人形或装置轮廓与第一方向拉开差异，源图尚待逐件核对。",
+        "score": null
+      }
+    ],
+    "productionApproved": false
+  }
+]
