@@ -4,5 +4,3 @@
 !index.html
 !dist/
 !dist/**
-# 原始立绘保留在Git中，网页使用WebP，静态发布不上传PNG备份
-/dist/assets/characters/**/*.png

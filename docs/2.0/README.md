@@ -1,3 +1,7 @@
+# 当前主站已迁入main / dist
+
+2026-10-15按负责人要求，主文件为dist/index.html，直接在main修改；预览npm run preview → http://127.0.0.1:4175/ 。构建npm run build、校验npm test。site-v2与下方内容为历史阶段记录，部署以docs/DEPLOYMENT.md为准。
+
 # Smoke Archive 2.0 当前展示版
 
 入口：http://127.0.0.1:4180/ （自动进入site-v2）。运行node tools/serve-v2.mjs。

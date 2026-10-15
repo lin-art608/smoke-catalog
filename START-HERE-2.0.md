@@ -1,13 +1,14 @@
-# Smoke Archive 2.0 展示入口
+# 当前主站入口
 
-在本目录运行 `node tools/serve-v2.mjs`，打开 http://127.0.0.1:4180/ 。首页自动进入当前B版，A/B原型继续留档。
+现在直接在 main 分支修改主站，不再创建开发分支。
 
-当前分支：`feat/smoke-archive-2.0`。地图首页 → 省份入口 → 省内烟标/角色 → 展品详情。首页不混排展品卡片。
+- 主文件：dist/index.html
+- 页面逻辑与样式：dist/shared/
+- 图片：dist/assets/
+- 本地预览：npm run preview，然后打开 http://127.0.0.1:4175/
+- 检查：npm run build 与 npm test
+- 部署：生产分支main、输出目录dist。
 
-126件档案全部接入，34张已完成的新图固定保存，92件沿用原有立绘。后续不生成或替换图片。34件有精修虚构故事，92件保留原作设计札记，不冒充完成了全部故事精修。
+GitHub Desktop中Current Branch应为main；本次改动已本地提交，点Push origin即可同步GitHub。如部署平台未连接GitHub，需要按docs/DEPLOYMENT.md执行原有手动上传流程，push本身不会代替上传。
 
-搜索、品牌/地域/主题筛选、分页、收藏、双件比较、剪影揭示、立绘放大和声明均可实际操作。“设计记忆”是策展入口，真实公众投票未开放。
-
-我方本地提交完成后，在GitHub Desktop保持此分支，点击 **Push origin** 同步。若显示 **Fetch origin** 且没有待推送提交，则当前已同步。**Preview Pull Request** 是预览代码差异和发起合并的入口，不是网页预览；本次展示无需合并main。
-
-本地预览仅供这台电脑使用。尚未部署新站，旧版dist、main与回退分支保留。运行记录和检查见 `docs/2.0/reviews/G6.md`。
+34张新图、92张原图保持不变。旧站保留在dist/legacy.html。site-v2与A/B原型是历史预览，后续以dist主文件为准。

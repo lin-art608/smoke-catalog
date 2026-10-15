@@ -1,0 +1,11 @@
+{
+  "name": "smoke-archive",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node tools/build-current-gallery.mjs",
+    "test": "node tools/validate-main-site.mjs",
+    "preview": "node tools/serve-current-gallery.mjs"
+  },
+  "engines": {"node": ">=18"}
+}

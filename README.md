@@ -1,24 +1,17 @@
-# Smoke Archive · 香烟图鉴
+# Smoke Archive 2.0
 
-当前本地交付：100款主清单 + 26款地区补充，共126款、126张独立原创立绘，覆盖31个地区。更新日期：2026-10-14。
+当前主站直接位于 main 分支的 dist 目录。正式首页为 dist/index.html，不再依赖 site-v2 或原型目录。后续页面修改直接编辑 dist/index.html、dist/shared 下的脚本和样式。
 
-公开网址：https://smoke.inneros.asia/ 。手机版使用WebP卡片缩略图，点开详情才加载较清晰的图片；卡片图片比原PNG减少约97%，原稿继续保留。转换与统计见 `docs/IMAGE_PERFORMANCE.md`。
+地图首页 → 省份展厅 → 烟标/角色 → 详情。126件档案，34张新立绘和92张原有立绘固定保留，不再生成或替换。
 
-主网页保留地图、角色剪影揭示、规格与包装来源详情、本地收藏；原画总览提供名称/条码搜索、品牌/地域/支型联合筛选。
+## 本地检查与预览
 
-手机交互更新：收藏使用居中SVG爱心与44px点击区域；详情声明可展开；主页面与原画总览均支持立绘细看、100%–300%缩放、双击放大、滑动查看和原图入口。部分品牌详情增加带出处的民间烟语；用户提供的黄皖段子明确标注待核实，段子价格不作为产品售价。
+运行 npm run build 和 npm test；运行 npm run preview 后打开 http://127.0.0.1:4175/ 。这些命令不会把首页覆盖回旧站。
 
-打开dist/index.html，或运行 `node tools/serve-current-gallery.mjs` 后访问 http://127.0.0.1:4175/ 。
+## 部署
 
-- 构建：`node tools/build-current-gallery.mjs`（`build-catalog.mjs`同样构建当前图鉴）
-- 校验：`node tools/validate-current-gallery.mjs`
-- 图片透明与去重：`./tools/check-current-art.ps1`
-- 主清单：`data/current-20261013/catalog.json`
-- 地区补充：`data/current-20261013/regional-supplement.json`
-- 提示词与完成记录：`data/current-20261013/character-jobs.json`
-- 图片：`dist/assets/characters/sku-current-20261013/`
-- 资料与交付说明：`docs/REGIONAL_SUPPLEMENT_20261014.md`
+生产分支 main，构建命令 npm run build，输出目录 dist。也可省略构建命令，直接发布已提交的dist文件。完整说明见 docs/DEPLOYMENT.md。
 
-清单为常见规格与地区代表选集，未证实全国销量排名。明确停产或待上市的条目排除；上市状态、条码和包装来自资料页声明，不等于实时库存或实物认证。包装参考图的高清与转载许可尚未完成认证。澳门条目的地域是企业品牌关联，未认证逐款制造地。
+GitHub Desktop保持main，本地提交完成后点Push origin。Git关联部署与手动上传是两种方式；如果Pages项目仍是直接上传模式，仅push不会自动更新该项目。
 
-西藏、青海、宁夏本轮缺少可靠现售本地规格证据，页面明确说明资料缺口。所有角色为非官方原创成年人物，事实资料与创作设定分开保存。旧资料与历史进度文件保留回退，不参与当前展示。
+原站保留于 dist/legacy.html；site-v2和prototypes只作历史预览，不是部署入口。图片参考许可与清晰度仍按档案标记，角色与故事为非官方原创。公众投票未开放，未提供购买或消费推荐。
