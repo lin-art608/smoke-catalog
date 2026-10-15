@@ -1,0 +1,47 @@
+{
+  "status": "pass",
+  "exhibits": 126,
+  "newArt": 34,
+  "retainedArt": 92,
+  "regions": 34,
+  "regionsWithExhibits": 31,
+  "baselineFilesUnchanged": 672,
+  "frozenArtUnchanged": 126,
+  "checks": [
+    "27 responsive page combinations",
+    "all 126 details, images and declaration controls",
+    "map/province hierarchy: separate script",
+    "compound filters, pagination and empty/reset",
+    "centered 44px SVG card hearts and persistence",
+    "two-item comparison",
+    "local collection",
+    "province package/character mode",
+    "original art zoom/native link/Escape",
+    "empty region honest state",
+    "34 preserved new images on comparison board"
+  ],
+  "shots": [
+    "G6-presentation-home-390.png",
+    "G6-presentation-labels-390.png",
+    "G6-presentation-characters-390.png",
+    "G6-presentation-detail-390.png",
+    "G6-presentation-themes-390.png",
+    "G6-presentation-votes-390.png",
+    "G6-presentation-home-1440.png",
+    "G6-presentation-labels-1440.png",
+    "G6-presentation-characters-1440.png",
+    "G6-presentation-detail-1440.png",
+    "G6-presentation-themes-1440.png",
+    "G6-presentation-votes-1440.png",
+    "G6-presentation-heart-390.png",
+    "G6-presentation-original-detail-390.png",
+    "G6-presentation-province-characters-390.png"
+  ],
+  "errors": [],
+  "failed": [],
+  "limitations": [
+    "Edge模拟尺寸，不冒充实体手机验收",
+    "92件沿用原作，其中92件保留设计札记而非已精修虚构故事",
+    "公众投票未开放，未部署或合并main"
+  ]
+}

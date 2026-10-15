@@ -1,5 +1,5 @@
 (() => {
- const items=window.v2Exhibits,grid=document.querySelector('#samples');
+ const items=window.v2Exhibits.filter(d=>d.artVersion==='v2'),grid=document.querySelector('#samples');
  const asset=p=>p.startsWith('v2:')?p.slice(3):'../dist/'+p;
  const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
  let blind=false,order=[...items];

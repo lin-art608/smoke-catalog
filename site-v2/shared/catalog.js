@@ -57,7 +57,7 @@ window.v2Exhibits = [
       "reviewed": "2026-10-15",
       "method": "本地原始参考照片人工目视；不扩展小字、历史或版权结论"
     },
-    "characterStatus": "v2原创样板 · G5待负责人确认",
+    "characterStatus": "v2原创 · G5方向已确认",
     "folkSayings": [],
     "relatedIds": [
       "sku-yanpk-213",
@@ -140,7 +140,7 @@ window.v2Exhibits = [
       "reviewed": "2026-10-15",
       "method": "本地原始参考照片人工目视；不扩展小字、历史或版权结论"
     },
-    "characterStatus": "v2原创样板 · G5待负责人确认",
+    "characterStatus": "v2原创 · G5方向已确认",
     "folkSayings": [],
     "relatedIds": [
       "sku-yanpk-929",
@@ -232,7 +232,7 @@ window.v2Exhibits = [
       "reviewed": "2026-10-15",
       "method": "本地原始参考照片人工目视；不扩展小字、历史或版权结论"
     },
-    "characterStatus": "v2原创样板 · G5待负责人确认",
+    "characterStatus": "v2原创 · G5方向已确认",
     "folkSayings": [],
     "relatedIds": [
       "sku-yanpk-5611",
@@ -315,7 +315,7 @@ window.v2Exhibits = [
       "reviewed": "2026-10-15",
       "method": "本地原始参考照片人工目视；不扩展小字、历史或版权结论"
     },
-    "characterStatus": "v2原创样板 · G5待负责人确认",
+    "characterStatus": "v2原创 · G5方向已确认",
     "folkSayings": [],
     "relatedIds": [
       "sku-yanpk-661",
@@ -407,7 +407,7 @@ window.v2Exhibits = [
       "reviewed": "2026-10-15",
       "method": "本地原始参考照片人工目视；不扩展小字、历史或版权结论"
     },
-    "characterStatus": "v2原创样板 · G5待负责人确认",
+    "characterStatus": "v2原创 · G5方向已确认",
     "folkSayings": [],
     "relatedIds": [
       "sku-yanpk-1101",
@@ -490,7 +490,7 @@ window.v2Exhibits = [
       "reviewed": "2026-10-15",
       "method": "本地原始参考照片人工目视；不扩展小字、历史或版权结论"
     },
-    "characterStatus": "v2原创样板 · G5待负责人确认",
+    "characterStatus": "v2原创 · G5方向已确认",
     "folkSayings": [],
     "relatedIds": [
       "sku-yanpk-661",
@@ -573,7 +573,7 @@ window.v2Exhibits = [
       "reviewed": "2026-10-15",
       "method": "本地原始照片人工目视；不辨认模糊小字"
     },
-    "characterStatus": "v2原创样板 · G5待负责人确认",
+    "characterStatus": "v2原创 · G5方向已确认",
     "folkSayings": [],
     "loreKind": "original-fiction",
     "themes": [
@@ -656,7 +656,7 @@ window.v2Exhibits = [
       "reviewed": "2026-10-15",
       "method": "本地原始照片人工目视；不辨认模糊小字"
     },
-    "characterStatus": "v2原创样板 · G5待负责人确认",
+    "characterStatus": "v2原创 · G5方向已确认",
     "folkSayings": [],
     "loreKind": "original-fiction",
     "themes": [
@@ -739,7 +739,7 @@ window.v2Exhibits = [
       "reviewed": "2026-10-15",
       "method": "本地原始照片人工目视；不辨认模糊小字"
     },
-    "characterStatus": "v2原创样板 · G5待负责人确认",
+    "characterStatus": "v2原创 · G5方向已确认",
     "folkSayings": [
       {
         "text": "抽烟只抽煊赫门，一生只爱一个人。",
@@ -830,7 +830,7 @@ window.v2Exhibits = [
       "reviewed": "2026-10-15",
       "method": "本地原始照片人工目视；不辨认模糊小字"
     },
-    "characterStatus": "v2原创样板 · G5待负责人确认",
+    "characterStatus": "v2原创 · G5方向已确认",
     "folkSayings": [],
     "loreKind": "original-fiction",
     "themes": [
@@ -913,7 +913,7 @@ window.v2Exhibits = [
       "reviewed": "2026-10-15",
       "method": "本地原始照片人工目视；不辨认模糊小字"
     },
-    "characterStatus": "v2原创样板 · G5待负责人确认",
+    "characterStatus": "v2原创 · G5方向已确认",
     "folkSayings": [],
     "loreKind": "original-fiction",
     "themes": [
@@ -996,7 +996,7 @@ window.v2Exhibits = [
       "reviewed": "2026-10-15",
       "method": "本地原始照片人工目视；不辨认模糊小字"
     },
-    "characterStatus": "v2原创样板 · G5待负责人确认",
+    "characterStatus": "v2原创 · G5方向已确认",
     "folkSayings": [],
     "loreKind": "original-fiction",
     "themes": [
@@ -1079,7 +1079,7 @@ window.v2Exhibits = [
       "reviewed": "2026-10-15",
       "method": "本地原始照片人工目视；不辨认模糊小字"
     },
-    "characterStatus": "v2原创样板 · G5待负责人确认",
+    "characterStatus": "v2原创 · G5方向已确认",
     "folkSayings": [],
     "loreKind": "original-fiction",
     "themes": [
@@ -1162,7 +1162,7 @@ window.v2Exhibits = [
       "reviewed": "2026-10-15",
       "method": "本地原始照片人工目视；不辨认模糊小字"
     },
-    "characterStatus": "v2原创样板 · G5待负责人确认",
+    "characterStatus": "v2原创 · G5方向已确认",
     "folkSayings": [],
     "loreKind": "original-fiction",
     "themes": [
@@ -1245,7 +1245,7 @@ window.v2Exhibits = [
       "reviewed": "2026-10-15",
       "method": "本地原始照片人工目视；不辨认模糊小字"
     },
-    "characterStatus": "v2原创样板 · G5待负责人确认",
+    "characterStatus": "v2原创 · G5方向已确认",
     "folkSayings": [],
     "loreKind": "original-fiction",
     "themes": [
@@ -1328,7 +1328,7 @@ window.v2Exhibits = [
       "reviewed": "2026-10-15",
       "method": "本地原始照片人工目视；不辨认模糊小字"
     },
-    "characterStatus": "v2原创样板 · G5待负责人确认",
+    "characterStatus": "v2原创 · G5方向已确认",
     "folkSayings": [],
     "loreKind": "original-fiction",
     "themes": [
@@ -1420,7 +1420,7 @@ window.v2Exhibits = [
       "reviewed": "2026-10-15",
       "method": "本地原始照片人工目视；不辨认模糊小字"
     },
-    "characterStatus": "v2原创样板 · G5待负责人确认",
+    "characterStatus": "v2原创 · G5方向已确认",
     "folkSayings": [],
     "loreKind": "original-fiction",
     "themes": [
@@ -1512,7 +1512,7 @@ window.v2Exhibits = [
       "reviewed": "2026-10-15",
       "method": "本地原始照片人工目视；不辨认模糊小字"
     },
-    "characterStatus": "v2原创样板 · G5待负责人确认",
+    "characterStatus": "v2原创 · G5方向已确认",
     "folkSayings": [],
     "loreKind": "original-fiction",
     "themes": [
@@ -1595,7 +1595,7 @@ window.v2Exhibits = [
       "reviewed": "2026-10-15",
       "method": "本地原始照片人工目视；不辨认模糊小字"
     },
-    "characterStatus": "v2原创样板 · G5待负责人确认",
+    "characterStatus": "v2原创 · G5方向已确认",
     "folkSayings": [],
     "loreKind": "original-fiction",
     "themes": [
@@ -1678,7 +1678,7 @@ window.v2Exhibits = [
       "reviewed": "2026-10-15",
       "method": "本地原始照片人工目视；不辨认模糊小字"
     },
-    "characterStatus": "v2原创样板 · G5待负责人确认",
+    "characterStatus": "v2原创 · G5方向已确认",
     "folkSayings": [],
     "loreKind": "original-fiction",
     "themes": [
@@ -1702,5 +1702,10221 @@ window.v2Exhibits = [
     "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-94061-v1-thumb.webp",
     "nativeArt": "v2:assets/characters/v2/sku-yanpk-94061-v2.png",
     "artVersion": "v2"
+  },
+  {
+    "id": "sku-yanpk-104364",
+    "number": "21",
+    "name": "中华(硬)",
+    "brand": "中华",
+    "region": "上海",
+    "provinceId": "shanghai",
+    "title": "银线量过的距离",
+    "theme": "印刷的秩序",
+    "themes": [
+      "印刷的秩序"
+    ],
+    "color": "#b84435",
+    "observations": [
+      "红色占据正面",
+      "上部有银色横线",
+      "建筑式金色轮廓横向展开"
+    ],
+    "reading": "红色占据正面，上部有银色横线，建筑式金色轮廓横向展开。这里从色块、轮廓和留白的关系出发，把银色横线读成双钳的平直量尺的空间骨架；这是策展解读，不是包装年代或官方设计意图的认定。",
+    "type": "折刃机械兽",
+    "alternative": "折叠建筑装置",
+    "translations": [
+      [
+        "银色横线",
+        "双钳的平直量尺"
+      ],
+      [
+        "朱红色面",
+        "厚重的红色甲片"
+      ],
+      [
+        "横向楼阁轮廓",
+        "低矮的屋脊背壳"
+      ]
+    ],
+    "lore": "银线守门员每天把桥头的缝隙量一遍。它有两把不同长短的钳尺，却从不把两岸量成相同的距离。有一天，桥上的人都走完了，最后只剩一只纸船卡在缝里。它收起长钳，用短钳轻轻拨开一片木屑。纸船顺水离开，背壳上的刻度少了一格。第二天有人发现那处空白，问它是否量错了。它把背上的横梁降下来，让早晨第一阵风先过去。",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-104364.jpg",
+    "portrait": "v2:assets/characters/v2/sku-yanpk-104364-v2.webp",
+    "preview": "v2:assets/characters/v2/sku-yanpk-104364-v2-thumb.webp",
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "sourceReferences": [
+      {
+        "title": "中华(硬) · 原始规格与包装资料",
+        "url": "https://m.yanpk.com/item-104364.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-104364.jpg",
+      "reviewed": "2026-10-15",
+      "method": "逐件目视G6-02-pack-reference联系表及原参考照片，不补小字与历史"
+    },
+    "characterStatus": "原创立绘 · 已保留",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-661",
+      "sku-yanpk-5611",
+      "sku-yanpk-1483"
+    ],
+    "loreKind": "original-fiction",
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "具体沿革、设计作者及包装版本待核实，暂不陈述。"
+    },
+    "culturalContext": [],
+    "hotspots": [
+      [
+        60,
+        23,
+        0,
+        0
+      ],
+      [
+        50,
+        42,
+        1,
+        1
+      ],
+      [
+        50,
+        64,
+        2,
+        2
+      ]
+    ],
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-104364-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-104364-v1-thumb.webp",
+    "nativeArt": "v2:assets/characters/v2/sku-yanpk-104364-v2.png",
+    "artVersion": "v2",
+    "batch": "G6-02"
+  },
+  {
+    "id": "sku-yanpk-93483",
+    "number": "22",
+    "name": "中华(双中支)",
+    "brand": "中华",
+    "region": "上海",
+    "provinceId": "shanghai",
+    "title": "两扇门一起转动",
+    "theme": "印刷的秩序",
+    "themes": [
+      "印刷的秩序"
+    ],
+    "color": "#b84d32",
+    "observations": [
+      "红色底面较明亮",
+      "四周有细金色边框",
+      "中央建筑呈近似对称的横向结构"
+    ],
+    "reading": "红色底面较明亮，四周有细金色边框，中央建筑呈近似对称的横向结构。这里从色块、轮廓和留白的关系出发，把对称建筑读成两片偏轴门架的空间骨架；这是策展解读，不是包装年代或官方设计意图的认定。",
+    "type": "双轴转门",
+    "alternative": "折纸双生体",
+    "translations": [
+      [
+        "对称建筑",
+        "两片偏轴门架"
+      ],
+      [
+        "细金色边框",
+        "可转动的金属铰线"
+      ],
+      [
+        "明亮红底",
+        "两扇漆红门面"
+      ]
+    ],
+    "lore": "值夜的转门只记得来过的人怎样停步，不记得他们的名字。左边的门总慢半拍，右边的门便替它挡一会儿风。某晚，一位赶路人没有进门，只把一封没有地址的信放在门槛上。两扇门为这封信转了整夜，终于让晨光照见信纸背面的一枚小小手印。它们没有猜收信人是谁，只把门槛升高一点，好让下一场雨绕过去。那封信至今还能从两扇门之间看见。",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-93483.jpg",
+    "portrait": "v2:assets/characters/v2/sku-yanpk-93483-v2.webp",
+    "preview": "v2:assets/characters/v2/sku-yanpk-93483-v2-thumb.webp",
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "sourceReferences": [
+      {
+        "title": "中华(双中支) · 原始规格与包装资料",
+        "url": "https://m.yanpk.com/item-93483.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-93483.jpg",
+      "reviewed": "2026-10-15",
+      "method": "逐件目视G6-02-pack-reference联系表及原参考照片，不补小字与历史"
+    },
+    "characterStatus": "原创立绘 · 已保留",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-661",
+      "sku-yanpk-5611",
+      "sku-yanpk-1483"
+    ],
+    "loreKind": "original-fiction",
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "具体沿革、设计作者及包装版本待核实，暂不陈述。"
+    },
+    "culturalContext": [],
+    "hotspots": [
+      [
+        60,
+        23,
+        0,
+        0
+      ],
+      [
+        50,
+        42,
+        1,
+        1
+      ],
+      [
+        50,
+        64,
+        2,
+        2
+      ]
+    ],
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-93483-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-93483-v1-thumb.webp",
+    "nativeArt": "v2:assets/characters/v2/sku-yanpk-93483-v2.png",
+    "artVersion": "v2",
+    "batch": "G6-02"
+  },
+  {
+    "id": "sku-yanpk-92911",
+    "number": "23",
+    "name": "中华(金中支)",
+    "brand": "中华",
+    "region": "上海",
+    "provinceId": "shanghai",
+    "title": "把金边举高一点",
+    "theme": "印刷的秩序",
+    "themes": [
+      "印刷的秩序"
+    ],
+    "color": "#b03737",
+    "observations": [
+      "正面为鲜红色块",
+      "底部有金色横向收边",
+      "中央楼阁上缘形成阶梯轮廓"
+    ],
+    "reading": "正面为鲜红色块，底部有金色横向收边，中央楼阁上缘形成阶梯轮廓。这里从色块、轮廓和留白的关系出发，把金色收边读成细长高足的空间骨架；这是策展解读，不是包装年代或官方设计意图的认定。",
+    "type": "高足薄翼体",
+    "alternative": "都市装置人物",
+    "translations": [
+      [
+        "金色收边",
+        "细长高足"
+      ],
+      [
+        "阶梯楼阁",
+        "阶梯状薄翼"
+      ],
+      [
+        "红色块面",
+        "三角帆腹"
+      ]
+    ],
+    "lore": "抬线者住在被洪水划掉的街名上方。它的脚很长，能越过低洼，却总要为一枚落在水面的树叶停下来。今天它把一段金线从旧屋檐带到新桥头，没有拉紧，而是留成一弯低低的弧。孩子们已经搬走，桥下只留下会倒映红帆的水。它不知道这条线以后会被叫作什么。入夜后它抬起一只脚，把自己的倒影让给经过的船，等船声走远才继续跨出下一步。",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-92911.jpg",
+    "portrait": "v2:assets/characters/v2/sku-yanpk-92911-v2.webp",
+    "preview": "v2:assets/characters/v2/sku-yanpk-92911-v2-thumb.webp",
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "sourceReferences": [
+      {
+        "title": "中华(金中支) · 原始规格与包装资料",
+        "url": "https://m.yanpk.com/item-92911.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-92911.jpg",
+      "reviewed": "2026-10-15",
+      "method": "逐件目视G6-02-pack-reference联系表及原参考照片，不补小字与历史"
+    },
+    "characterStatus": "原创立绘 · 已保留",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-661",
+      "sku-yanpk-5611",
+      "sku-yanpk-1483"
+    ],
+    "loreKind": "original-fiction",
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "具体沿革、设计作者及包装版本待核实，暂不陈述。"
+    },
+    "culturalContext": [],
+    "hotspots": [
+      [
+        60,
+        23,
+        0,
+        0
+      ],
+      [
+        50,
+        42,
+        1,
+        1
+      ],
+      [
+        50,
+        64,
+        2,
+        2
+      ]
+    ],
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-92911-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-92911-v1-thumb.webp",
+    "nativeArt": "v2:assets/characters/v2/sku-yanpk-92911-v2.png",
+    "artVersion": "v2",
+    "batch": "G6-02"
+  },
+  {
+    "id": "sku-yanpk-94926",
+    "number": "24",
+    "name": "中华(细支)",
+    "brand": "中华",
+    "region": "上海",
+    "provinceId": "shanghai",
+    "title": "窄巷的送信人",
+    "theme": "印刷的秩序",
+    "themes": [
+      "印刷的秩序"
+    ],
+    "color": "#902e33",
+    "observations": [
+      "红色正面呈窄长比例",
+      "四周为细金色框线",
+      "金色楼阁集中在上半部"
+    ],
+    "reading": "红色正面呈窄长比例，四周为细金色框线，金色楼阁集中在上半部。这里从色块、轮廓和留白的关系出发，把窄长比例读成窄肩奔跑剪影的空间骨架；这是策展解读，不是包装年代或官方设计意图的认定。",
+    "type": "现代窄肩信使",
+    "alternative": "悬浮测绘笔",
+    "translations": [
+      [
+        "窄长比例",
+        "窄肩奔跑剪影"
+      ],
+      [
+        "金色细框",
+        "背部开放式递信架"
+      ],
+      [
+        "上部楼阁",
+        "衣领的折叠层次"
+      ]
+    ],
+    "lore": "他送的信都很薄，薄得可以穿过没有门牌的巷口。每次跑到一处拐弯，他都会把背架倾斜一点，让纸张先听见另一边的脚步。今天的信没有文字，只有一道未完成的折痕。他走过所有狭窄的街，最后在一位修窗人的桌上找到另一半纸。两张纸并起来，并不是地图，而是一张足够宽的椅面。他没有问寄信人的去向，只坐下等了一会儿，第一次听见这条巷子在午后慢慢安静。",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-94926.jpg",
+    "portrait": "v2:assets/characters/v2/sku-yanpk-94926-v2.webp",
+    "preview": "v2:assets/characters/v2/sku-yanpk-94926-v2-thumb.webp",
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "sourceReferences": [
+      {
+        "title": "中华(细支) · 原始规格与包装资料",
+        "url": "https://m.yanpk.com/item-94926.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-94926.jpg",
+      "reviewed": "2026-10-15",
+      "method": "逐件目视G6-02-pack-reference联系表及原参考照片，不补小字与历史"
+    },
+    "characterStatus": "原创立绘 · 已保留",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-661",
+      "sku-yanpk-5611",
+      "sku-yanpk-1483"
+    ],
+    "loreKind": "original-fiction",
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "具体沿革、设计作者及包装版本待核实，暂不陈述。"
+    },
+    "culturalContext": [],
+    "hotspots": [
+      [
+        60,
+        23,
+        0,
+        0
+      ],
+      [
+        50,
+        42,
+        1,
+        1
+      ],
+      [
+        50,
+        64,
+        2,
+        2
+      ]
+    ],
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-94926-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-94926-v1-thumb.webp",
+    "nativeArt": "v2:assets/characters/v2/sku-yanpk-94926-v2.png",
+    "artVersion": "v2",
+    "batch": "G6-02"
+  },
+  {
+    "id": "sku-yanpk-1237",
+    "number": "25",
+    "name": "云烟(紫)",
+    "brand": "云烟",
+    "region": "云南",
+    "provinceId": "yunnan",
+    "title": "云纹绕过一只耳朵",
+    "theme": "形态的回声",
+    "themes": [
+      "形态的回声"
+    ],
+    "color": "#7e3636",
+    "observations": [
+      "红褐色面有层次变化",
+      "中部为圆角云形轮廓",
+      "云形内部有金黄色色块"
+    ],
+    "reading": "红褐色面有层次变化，中部为圆角云形轮廓，云形内部有金黄色色块。这里从色块、轮廓和留白的关系出发，把云形外缘读成起伏的螺壳口的空间骨架；这是策展解读，不是包装年代或官方设计意图的认定。",
+    "type": "云壳听风体",
+    "alternative": "曲线书写者",
+    "translations": [
+      [
+        "云形外缘",
+        "起伏的螺壳口"
+      ],
+      [
+        "金黄色中心",
+        "内部听风腔"
+      ],
+      [
+        "红褐色层次",
+        "螺壳明暗层叠"
+      ]
+    ],
+    "lore": "云壳收藏的不是声音，而是声音到来以前的停顿。它在旧车站的长椅下听过一夜，没有听见火车，只听见一位旅人反复折起又展开车票。清晨，它把那一小段停顿装进空腔，送到山另一边的新站台。那里的人正等着第一次报站。云壳没有留下来，它怕自己的壳声盖过真正的声音。转身时，一只触须碰到了门边的风铃，旅人便在很远的地方抬了一下头。",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-1237.jpg",
+    "portrait": "v2:assets/characters/v2/sku-yanpk-1237-v2.webp",
+    "preview": "v2:assets/characters/v2/sku-yanpk-1237-v2-thumb.webp",
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "sourceReferences": [
+      {
+        "title": "云烟(紫) · 原始规格与包装资料",
+        "url": "https://m.yanpk.com/item-1237.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-1237.jpg",
+      "reviewed": "2026-10-15",
+      "method": "逐件目视G6-02-pack-reference联系表及原参考照片，不补小字与历史"
+    },
+    "characterStatus": "原创立绘 · 已保留",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-1234",
+      "sku-yanpk-93798",
+      "sku-yanpk-929"
+    ],
+    "loreKind": "original-fiction",
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "具体沿革、设计作者及包装版本待核实，暂不陈述。"
+    },
+    "culturalContext": [],
+    "hotspots": [
+      [
+        60,
+        23,
+        0,
+        0
+      ],
+      [
+        50,
+        42,
+        1,
+        1
+      ],
+      [
+        50,
+        64,
+        2,
+        2
+      ]
+    ],
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-1237-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-1237-v1-thumb.webp",
+    "nativeArt": "v2:assets/characters/v2/sku-yanpk-1237-v2.png",
+    "artVersion": "v2",
+    "batch": "G6-02"
+  },
+  {
+    "id": "sku-yanpk-1234",
+    "number": "26",
+    "name": "云烟(软珍品)",
+    "brand": "云烟",
+    "region": "云南",
+    "provinceId": "yunnan",
+    "title": "修补圆角的人",
+    "theme": "形态的回声",
+    "themes": [
+      "形态的回声"
+    ],
+    "color": "#924537",
+    "observations": [
+      "红褐底部覆盖大部分正面",
+      "中央有浅金色圆角面板",
+      "上部有一块深色区域"
+    ],
+    "reading": "红褐底部覆盖大部分正面，中央有浅金色圆角面板，上部有一块深色区域。这里从色块、轮廓和留白的关系出发，把浅金圆角面板读成手中的修补框的空间骨架；这是策展解读，不是包装年代或官方设计意图的认定。",
+    "type": "成年女性修补师",
+    "alternative": "圆角甲虫",
+    "translations": [
+      [
+        "浅金圆角面板",
+        "手中的修补框"
+      ],
+      [
+        "红褐底色",
+        "耐磨工作服"
+      ],
+      [
+        "深色顶部",
+        "短围裙的深色肩片"
+      ]
+    ],
+    "lore": "修补师从不把裂缝修得看不见。她只给每条裂缝留一个圆角，让后来的人知道手应该在哪里停下。今天送来的器物没有碎片，只有一圈浅浅的印子。来客说，那是小时候放过一只杯子的地方。她找不到能够填进去的陶片，便把修补框放在桌上，沿着印子慢慢擦去灰尘。窗外的光转过半个圆，她请来客再放一只杯子。新的杯底很小，桌面却重新有了等待的形状。",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-1234.jpg",
+    "portrait": "v2:assets/characters/v2/sku-yanpk-1234-v2.webp",
+    "preview": "v2:assets/characters/v2/sku-yanpk-1234-v2-thumb.webp",
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "sourceReferences": [
+      {
+        "title": "云烟(软珍品) · 原始规格与包装资料",
+        "url": "https://m.yanpk.com/item-1234.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-1234.jpg",
+      "reviewed": "2026-10-15",
+      "method": "逐件目视G6-02-pack-reference联系表及原参考照片，不补小字与历史"
+    },
+    "characterStatus": "原创立绘 · 已保留",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-1237",
+      "sku-yanpk-93798",
+      "sku-yanpk-929"
+    ],
+    "loreKind": "original-fiction",
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "具体沿革、设计作者及包装版本待核实，暂不陈述。"
+    },
+    "culturalContext": [],
+    "hotspots": [
+      [
+        60,
+        23,
+        0,
+        0
+      ],
+      [
+        50,
+        42,
+        1,
+        1
+      ],
+      [
+        50,
+        64,
+        2,
+        2
+      ]
+    ],
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-1234-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-1234-v1-thumb.webp",
+    "nativeArt": "v2:assets/characters/v2/sku-yanpk-1234-v2.png",
+    "artVersion": "v2",
+    "batch": "G6-02"
+  },
+  {
+    "id": "sku-yanpk-92691",
+    "number": "27",
+    "name": "云烟(细支云龙)",
+    "brand": "云烟",
+    "region": "云南",
+    "provinceId": "yunnan",
+    "title": "空白处盘着一阵风",
+    "theme": "印刷的秩序",
+    "themes": [
+      "印刷的秩序"
+    ],
+    "color": "#c4af7c",
+    "observations": [
+      "大面积米白色底",
+      "浅金细线构成弯曲纹样",
+      "中部有小块红金色云形区"
+    ],
+    "reading": "大面积米白色底，浅金细线构成弯曲纹样，中部有小块红金色云形区。这里从色块、轮廓和留白的关系出发，把米白留白读成开放的纸鳍间隙的空间骨架；这是策展解读，不是包装年代或官方设计意图的认定。",
+    "type": "空腔纸蛇",
+    "alternative": "白金风向装置",
+    "translations": [
+      [
+        "米白留白",
+        "开放的纸鳍间隙"
+      ],
+      [
+        "浅金弯线",
+        "弯曲中轴"
+      ],
+      [
+        "红金色小块",
+        "中轴上唯一红色关节"
+      ]
+    ],
+    "lore": "空鳍只在没有字的纸上休息。它穿过一页页废弃的草稿，把风从字与字之间带走，却从不碰已经写好的句子。某天，一位抄书人留下一整页空白，旁边没有批注。空鳍绕着这页纸盘了三圈，终于明白自己不必填满它。它把尾尖放在页角，等窗缝里的风吹来。第二天，纸上仍没有字，只多了一道不愿压平的折痕。抄书人翻到那里时，听见了很轻的一次呼吸。",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-92691.jpg",
+    "portrait": "v2:assets/characters/v2/sku-yanpk-92691-v2.webp",
+    "preview": "v2:assets/characters/v2/sku-yanpk-92691-v2-thumb.webp",
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "sourceReferences": [
+      {
+        "title": "云烟(细支云龙) · 原始规格与包装资料",
+        "url": "https://m.yanpk.com/item-92691.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-92691.jpg",
+      "reviewed": "2026-10-15",
+      "method": "逐件目视G6-02-pack-reference联系表及原参考照片，不补小字与历史"
+    },
+    "characterStatus": "原创立绘 · 已保留",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-661",
+      "sku-yanpk-5611",
+      "sku-yanpk-1483"
+    ],
+    "loreKind": "original-fiction",
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "具体沿革、设计作者及包装版本待核实，暂不陈述。"
+    },
+    "culturalContext": [],
+    "hotspots": [
+      [
+        60,
+        23,
+        0,
+        0
+      ],
+      [
+        50,
+        42,
+        1,
+        1
+      ],
+      [
+        50,
+        64,
+        2,
+        2
+      ]
+    ],
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-92691-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-92691-v1-thumb.webp",
+    "nativeArt": "v2:assets/characters/v2/sku-yanpk-92691-v2.png",
+    "artVersion": "v2",
+    "batch": "G6-02"
+  },
+  {
+    "id": "sku-yanpk-93768",
+    "number": "28",
+    "name": "云烟(小熊猫家园)",
+    "brand": "云烟",
+    "region": "云南",
+    "provinceId": "yunnan",
+    "title": "把竹影背到城里",
+    "theme": "印刷的秩序",
+    "themes": [
+      "印刷的秩序"
+    ],
+    "color": "#478e7b",
+    "observations": [
+      "正面主体为青绿色",
+      "画面可见竹叶状细线",
+      "中部有圆形动物图案区"
+    ],
+    "reading": "正面主体为青绿色，画面可见竹叶状细线，中部有圆形动物图案区。这里从色块、轮廓和留白的关系出发，把竹叶细线读成背架的细竹肋的空间骨架；这是策展解读，不是包装年代或官方设计意图的认定。",
+    "type": "都市植物观察员",
+    "alternative": "竹节轮足兽",
+    "translations": [
+      [
+        "竹叶细线",
+        "背架的细竹肋"
+      ],
+      [
+        "青绿色面",
+        "短外套主色"
+      ],
+      [
+        "圆形动物图区",
+        "圆形观察镜结构"
+      ]
+    ],
+    "lore": "她的背架里没有盆栽，只有每天收来的几段影子。高楼下的竹影很短，她便蹲得低一点，把观察镜贴近地面。今天一片叶子的影子跨过了三块不同颜色的砖。她在本子上画下那道弯，没有给它写植物的名字。傍晚回去时，背架上挂满的透明圆片依次亮起，像一条可以携带的小路。有人问她是不是找到了新的品种，她说还没有，今天只是找到了一个能让叶子慢慢转身的地方。",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-93768.jpg",
+    "portrait": "v2:assets/characters/v2/sku-yanpk-93768-v2.webp",
+    "preview": "v2:assets/characters/v2/sku-yanpk-93768-v2-thumb.webp",
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "sourceReferences": [
+      {
+        "title": "云烟(小熊猫家园) · 原始规格与包装资料",
+        "url": "https://m.yanpk.com/item-93768.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-93768.jpg",
+      "reviewed": "2026-10-15",
+      "method": "逐件目视G6-02-pack-reference联系表及原参考照片，不补小字与历史"
+    },
+    "characterStatus": "原创立绘 · 已保留",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-661",
+      "sku-yanpk-5611",
+      "sku-yanpk-1483"
+    ],
+    "loreKind": "original-fiction",
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "具体沿革、设计作者及包装版本待核实，暂不陈述。"
+    },
+    "culturalContext": [],
+    "hotspots": [
+      [
+        60,
+        23,
+        0,
+        0
+      ],
+      [
+        50,
+        42,
+        1,
+        1
+      ],
+      [
+        50,
+        64,
+        2,
+        2
+      ]
+    ],
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-93768-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-93768-v1-thumb.webp",
+    "nativeArt": "v2:assets/characters/v2/sku-yanpk-93768-v2.png",
+    "artVersion": "v2",
+    "batch": "G6-02"
+  },
+  {
+    "id": "sku-yanpk-93534",
+    "number": "29",
+    "name": "云烟(细支珍品)",
+    "brand": "云烟",
+    "region": "云南",
+    "provinceId": "yunnan",
+    "title": "窄框外还有一步",
+    "theme": "印刷的秩序",
+    "themes": [
+      "印刷的秩序"
+    ],
+    "color": "#783c32",
+    "observations": [
+      "正面为棕红色",
+      "中央金色装饰集中成框",
+      "上部有深色小矩形"
+    ],
+    "reading": "正面为棕红色，中央金色装饰集中成框，上部有深色小矩形。这里从色块、轮廓和留白的关系出发，把金色框区读成悬空的椭圆接口的空间骨架；这是策展解读，不是包装年代或官方设计意图的认定。",
+    "type": "长脚框架行者",
+    "alternative": "低矮折叠甲",
+    "translations": [
+      [
+        "金色框区",
+        "悬空的椭圆接口"
+      ],
+      [
+        "窄长棕红面",
+        "三根细高支杆"
+      ],
+      [
+        "深色矩形",
+        "偏轴平衡片"
+      ]
+    ],
+    "lore": "框行者总在跨出去以后才发现自己的边界。它把长脚放到街灯下，短脚却还留在阴影里，于是整条路都像一个尚未合拢的括号。今晚它遇见一位总爱站在线内的人。那人看了很久，终于问，框外是否也能停下。框行者没有回答，只把平衡片转向另一侧，在地上留下第二道影子。两道影子之间宽出一步。那人把包放在那里，坐到天亮，没有谁催他继续往前走。",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-93534.jpg",
+    "portrait": "v2:assets/characters/v2/sku-yanpk-93534-v2.webp",
+    "preview": "v2:assets/characters/v2/sku-yanpk-93534-v2-thumb.webp",
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "sourceReferences": [
+      {
+        "title": "云烟(细支珍品) · 原始规格与包装资料",
+        "url": "https://m.yanpk.com/item-93534.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-93534.jpg",
+      "reviewed": "2026-10-15",
+      "method": "逐件目视G6-02-pack-reference联系表及原参考照片，不补小字与历史"
+    },
+    "characterStatus": "原创立绘 · 已保留",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-661",
+      "sku-yanpk-5611",
+      "sku-yanpk-1483"
+    ],
+    "loreKind": "original-fiction",
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "具体沿革、设计作者及包装版本待核实，暂不陈述。"
+    },
+    "culturalContext": [],
+    "hotspots": [
+      [
+        60,
+        23,
+        0,
+        0
+      ],
+      [
+        50,
+        42,
+        1,
+        1
+      ],
+      [
+        50,
+        64,
+        2,
+        2
+      ]
+    ],
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-93534-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-93534-v1-thumb.webp",
+    "nativeArt": "v2:assets/characters/v2/sku-yanpk-93534-v2.png",
+    "artVersion": "v2",
+    "batch": "G6-02"
+  },
+  {
+    "id": "sku-yanpk-93798",
+    "number": "30",
+    "name": "云烟(软珍品红韵)",
+    "brand": "云烟",
+    "region": "云南",
+    "provinceId": "yunnan",
+    "title": "红翼里的绿色回声",
+    "theme": "形态的回声",
+    "themes": [
+      "形态的回声"
+    ],
+    "color": "#b13231",
+    "observations": [
+      "正面为鲜红底色",
+      "中央有金绿相间的圆角云形",
+      "顶部呈黑色窄块"
+    ],
+    "reading": "正面为鲜红底色，中央有金绿相间的圆角云形，顶部呈黑色窄块。这里从色块、轮廓和留白的关系出发，把金绿云弧读成翅壳内侧弯线的空间骨架；这是策展解读，不是包装年代或官方设计意图的认定。",
+    "type": "云弧甲虫",
+    "alternative": "软壳舞者",
+    "translations": [
+      [
+        "金绿云弧",
+        "翅壳内侧弯线"
+      ],
+      [
+        "鲜红底色",
+        "两片漆红翅鞘"
+      ],
+      [
+        "顶部黑块",
+        "头部小型护甲"
+      ]
+    ],
+    "lore": "弧翅飞得很慢，因为它要听见自己的翅壳怎样合上。每逢有人在城里试一扇新门，它就停在附近的屋檐下，把那声轻响记在绿色的内翼。今天的一扇门没有锁舌，推开以后便再也关不严。它试着收紧翅膀，门缝里的风却仍在唱。最后它只留下一片旧壳，让门靠住一个舒服的角度。屋里的人出门时没有发现它，只发现那道曾经刺耳的响声，变成了每次回来都会听见的招呼。",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-93798.jpg",
+    "portrait": "v2:assets/characters/v2/sku-yanpk-93798-v2.webp",
+    "preview": "v2:assets/characters/v2/sku-yanpk-93798-v2-thumb.webp",
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "sourceReferences": [
+      {
+        "title": "云烟(软珍品红韵) · 原始规格与包装资料",
+        "url": "https://m.yanpk.com/item-93798.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-93798.jpg",
+      "reviewed": "2026-10-15",
+      "method": "逐件目视G6-02-pack-reference联系表及原参考照片，不补小字与历史"
+    },
+    "characterStatus": "原创立绘 · 已保留",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-1237",
+      "sku-yanpk-1234",
+      "sku-yanpk-929"
+    ],
+    "loreKind": "original-fiction",
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "具体沿革、设计作者及包装版本待核实，暂不陈述。"
+    },
+    "culturalContext": [],
+    "hotspots": [
+      [
+        60,
+        23,
+        0,
+        0
+      ],
+      [
+        50,
+        42,
+        1,
+        1
+      ],
+      [
+        50,
+        64,
+        2,
+        2
+      ]
+    ],
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-93798-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-93798-v1-thumb.webp",
+    "nativeArt": "v2:assets/characters/v2/sku-yanpk-93798-v2.png",
+    "artVersion": "v2",
+    "batch": "G6-02"
+  },
+  {
+    "id": "sku-yanpk-1233",
+    "number": "31",
+    "name": "云烟(印象)",
+    "brand": "云烟",
+    "region": "云南",
+    "provinceId": "yunnan",
+    "title": "一条银线不肯落地",
+    "theme": "印刷的秩序",
+    "themes": [
+      "印刷的秩序"
+    ],
+    "color": "#655343",
+    "observations": [
+      "正面深棕色接近均匀",
+      "细浅色横线分出留白区",
+      "上部文字区域较为空疏"
+    ],
+    "reading": "正面深棕色接近均匀，细浅色横线分出留白区，上部文字区域较为空疏。这里从色块、轮廓和留白的关系出发，把深棕面读成两块哑光悬帆的空间骨架；这是策展解读，不是包装年代或官方设计意图的认定。",
+    "type": "留白悬帆",
+    "alternative": "成年舞台裁片师",
+    "translations": [
+      [
+        "深棕面",
+        "两块哑光悬帆"
+      ],
+      [
+        "浅色横线",
+        "银色悬索"
+      ],
+      [
+        "空疏文字区",
+        "帆间开放负形"
+      ]
+    ],
+    "lore": "悬帆不需要风，它靠两块布之间的空白移动。夜间的剧场散场以后，它替幕布留住最后一道细线，免得黑暗把所有出口都收走。今天舞台上没有演员，只摆着一张翻过来的椅子。悬帆试着为它让出位置，把自己拉成一道窄缝。清洁员从窄缝里看见了远处的灯，便没有关掉那盏灯。到了早上，幕布重新合起，椅子还在原处，可剧场第一次像一间可以安静坐下的房间。",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-1233.jpg",
+    "portrait": "v2:assets/characters/v2/sku-yanpk-1233-v2.webp",
+    "preview": "v2:assets/characters/v2/sku-yanpk-1233-v2-thumb.webp",
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "sourceReferences": [
+      {
+        "title": "云烟(印象) · 原始规格与包装资料",
+        "url": "https://m.yanpk.com/item-1233.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-1233.jpg",
+      "reviewed": "2026-10-15",
+      "method": "逐件目视G6-02-pack-reference联系表及原参考照片，不补小字与历史"
+    },
+    "characterStatus": "原创立绘 · 已保留",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-661",
+      "sku-yanpk-5611",
+      "sku-yanpk-1483"
+    ],
+    "loreKind": "original-fiction",
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "具体沿革、设计作者及包装版本待核实，暂不陈述。"
+    },
+    "culturalContext": [],
+    "hotspots": [
+      [
+        60,
+        23,
+        0,
+        0
+      ],
+      [
+        50,
+        42,
+        1,
+        1
+      ],
+      [
+        50,
+        64,
+        2,
+        2
+      ]
+    ],
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-1233-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-1233-v1-thumb.webp",
+    "nativeArt": "v2:assets/characters/v2/sku-yanpk-1233-v2.png",
+    "artVersion": "v2",
+    "batch": "G6-02"
+  },
+  {
+    "id": "sku-yanpk-1065",
+    "number": "32",
+    "name": "玉溪(软)",
+    "brand": "玉溪",
+    "region": "云南",
+    "provinceId": "yunnan",
+    "title": "棋点走进林子",
+    "theme": "印刷的秩序",
+    "themes": [
+      "印刷的秩序"
+    ],
+    "color": "#b2534d",
+    "observations": [
+      "上部为红色块",
+      "中间有红白点阵",
+      "点阵中心为菱形图案"
+    ],
+    "reading": "上部为红色块，中间有红白点阵，点阵中心为菱形图案。这里从色块、轮廓和留白的关系出发，把红白点阵读成肋侧疏密点纹的空间骨架；这是策展解读，不是包装年代或官方设计意图的认定。",
+    "type": "点阵鹿",
+    "alternative": "菱面舞者",
+    "translations": [
+      [
+        "红白点阵",
+        "肋侧疏密点纹"
+      ],
+      [
+        "中央菱形",
+        "菱形胸甲"
+      ],
+      [
+        "上部红块",
+        "背部红色折面"
+      ]
+    ],
+    "lore": "点鹿每走一步，就把身上的一个小点留给路面。它以为这样总能回到原来的林子，后来才发现雨会把点连成河。今天它在河边看见一块菱形的空地，那里没有树，也没有脚印。它没有补上新的点，只低头等一阵风。风把倒影吹成许多白色的小格，河对岸便出现了另一条路。它抬起后脚，决定这次不做记号。也许有一天它还会回来，也许林子会先学会怎样认出它的脚步。",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-1065.jpg",
+    "portrait": "v2:assets/characters/v2/sku-yanpk-1065-v2.webp",
+    "preview": "v2:assets/characters/v2/sku-yanpk-1065-v2-thumb.webp",
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "sourceReferences": [
+      {
+        "title": "玉溪(软) · 原始规格与包装资料",
+        "url": "https://m.yanpk.com/item-1065.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-1065.jpg",
+      "reviewed": "2026-10-15",
+      "method": "逐件目视G6-02-pack-reference联系表及原参考照片，不补小字与历史"
+    },
+    "characterStatus": "原创立绘 · 已保留",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-661",
+      "sku-yanpk-5611",
+      "sku-yanpk-1483"
+    ],
+    "loreKind": "original-fiction",
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "具体沿革、设计作者及包装版本待核实，暂不陈述。"
+    },
+    "culturalContext": [],
+    "hotspots": [
+      [
+        60,
+        23,
+        0,
+        0
+      ],
+      [
+        50,
+        42,
+        1,
+        1
+      ],
+      [
+        50,
+        64,
+        2,
+        2
+      ]
+    ],
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-1065-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-1065-v1-thumb.webp",
+    "nativeArt": "v2:assets/characters/v2/sku-yanpk-1065-v2.png",
+    "artVersion": "v2",
+    "batch": "G6-02"
+  },
+  {
+    "id": "sku-yanpk-1252",
+    "number": "33",
+    "name": "玉溪(硬)",
+    "brand": "玉溪",
+    "region": "云南",
+    "provinceId": "yunnan",
+    "title": "把方块敲成圆声",
+    "theme": "印刷的秩序",
+    "themes": [
+      "印刷的秩序"
+    ],
+    "color": "#ab4c40",
+    "observations": [
+      "红色顶部面积明显",
+      "中部为密集红白点纹",
+      "中央有金边菱形"
+    ],
+    "reading": "红色顶部面积明显，中部为密集红白点纹，中央有金边菱形。这里从色块、轮廓和留白的关系出发，把金边菱形读成手持打击框的空间骨架；这是策展解读，不是包装年代或官方设计意图的认定。",
+    "type": "成年节奏记录员",
+    "alternative": "红白几何鸟",
+    "translations": [
+      [
+        "金边菱形",
+        "手持打击框"
+      ],
+      [
+        "密集点纹",
+        "框上的白色节拍栓"
+      ],
+      [
+        "红色顶部",
+        "短背心主色"
+      ]
+    ],
+    "lore": "她记录节奏的方法，是先听完一整条街的脚步，再敲下最慢的那一下。老人走过，推车走过，停下系鞋带的人也算一拍。今天工地围墙撤走了，她常用的回声忽然不见。她把打击框举高，又慢慢放低，发现新空地里的声音没有四面墙那么整齐。于是她在记录纸上留了许多不等大的空格。傍晚有人跟着她敲起节拍，快的慢的都能进来，街口第一次没有人为了赶上别人而加快脚步。",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-1252.jpg",
+    "portrait": "v2:assets/characters/v2/sku-yanpk-1252-v2.webp",
+    "preview": "v2:assets/characters/v2/sku-yanpk-1252-v2-thumb.webp",
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "sourceReferences": [
+      {
+        "title": "玉溪(硬) · 原始规格与包装资料",
+        "url": "https://m.yanpk.com/item-1252.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-1252.jpg",
+      "reviewed": "2026-10-15",
+      "method": "逐件目视G6-02-pack-reference联系表及原参考照片，不补小字与历史"
+    },
+    "characterStatus": "原创立绘 · 已保留",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-661",
+      "sku-yanpk-5611",
+      "sku-yanpk-1483"
+    ],
+    "loreKind": "original-fiction",
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "具体沿革、设计作者及包装版本待核实，暂不陈述。"
+    },
+    "culturalContext": [],
+    "hotspots": [
+      [
+        60,
+        23,
+        0,
+        0
+      ],
+      [
+        50,
+        42,
+        1,
+        1
+      ],
+      [
+        50,
+        64,
+        2,
+        2
+      ]
+    ],
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-1252-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-1252-v1-thumb.webp",
+    "nativeArt": "v2:assets/characters/v2/sku-yanpk-1252-v2.png",
+    "artVersion": "v2",
+    "batch": "G6-02"
+  },
+  {
+    "id": "sku-yanpk-93336",
+    "number": "34",
+    "name": "玉溪(初心)",
+    "brand": "玉溪",
+    "region": "云南",
+    "provinceId": "yunnan",
+    "title": "蓝边划出转弯",
+    "theme": "印刷的秩序",
+    "themes": [
+      "印刷的秩序"
+    ],
+    "color": "#dc4a38",
+    "observations": [
+      "主体为高饱和红色",
+      "上下边缘有青蓝窄条",
+      "中间为点纹与菱形组合"
+    ],
+    "reading": "主体为高饱和红色，上下边缘有青蓝窄条，中间为点纹与菱形组合。这里从色块、轮廓和留白的关系出发，把青蓝窄条读成转向边鳍的空间骨架；这是策展解读，不是包装年代或官方设计意图的认定。",
+    "type": "转弯机械鸟",
+    "alternative": "双色短装信号员",
+    "translations": [
+      [
+        "青蓝窄条",
+        "转向边鳍"
+      ],
+      [
+        "菱形与点纹",
+        "透空胸格"
+      ],
+      [
+        "鲜红主面",
+        "折面鸟身"
+      ]
+    ],
+    "lore": "转弯鸟守着一条废弃的跑道，它的工作是告诉风哪里可以减速。两片蓝鳍每转一次，跑道上的细沙便换一个方向。今天有一架纸做的飞行器落在边线上，没有损坏，却再也飞不起来。它没有替飞行器加速，只沿着边线跑了很长的一段，把一处急弯慢慢磨圆。纸翼终于抬起来时，它已经停住。它听见远处有人鼓掌，便把头转向别处，继续检查那些还没有学会缓慢转身的风。",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-93336.jpg",
+    "portrait": "v2:assets/characters/v2/sku-yanpk-93336-v2.webp",
+    "preview": "v2:assets/characters/v2/sku-yanpk-93336-v2-thumb.webp",
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "sourceReferences": [
+      {
+        "title": "玉溪(初心) · 原始规格与包装资料",
+        "url": "https://m.yanpk.com/item-93336.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-93336.jpg",
+      "reviewed": "2026-10-15",
+      "method": "逐件目视G6-02-pack-reference联系表及原参考照片，不补小字与历史"
+    },
+    "characterStatus": "原创立绘 · 已保留",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-661",
+      "sku-yanpk-5611",
+      "sku-yanpk-1483"
+    ],
+    "loreKind": "original-fiction",
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "具体沿革、设计作者及包装版本待核实，暂不陈述。"
+    },
+    "culturalContext": [],
+    "hotspots": [
+      [
+        60,
+        23,
+        0,
+        0
+      ],
+      [
+        50,
+        42,
+        1,
+        1
+      ],
+      [
+        50,
+        64,
+        2,
+        2
+      ]
+    ],
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-93336-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-93336-v1-thumb.webp",
+    "nativeArt": "v2:assets/characters/v2/sku-yanpk-93336-v2.png",
+    "artVersion": "v2",
+    "batch": "G6-02"
+  },
+  {
+    "id": "sku-yanpk-111388",
+    "number": "35",
+    "name": "玉溪(细支)",
+    "brand": "玉溪",
+    "provinceId": "yunnan",
+    "region": "云南",
+    "title": "玉溪(细支) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#9e3034",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-111388.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-111388-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-111388-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-111388-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-111388-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-111388-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：玉溪(细支)（沿用原资料）",
+      "地域关联：云南；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为细支"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-111388.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "玉溪(细支) · 原资料页",
+        "url": "https://m.yanpk.com/item-111388.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“深绿金色方框与白点阵”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "深绿金色方框与白点阵"
+      ],
+      [
+        "原作服装结构",
+        "双层侧开长裙搭短靴，用参考包装主色控制大色块，以深绿金色方框与白点阵作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "双腿稳站，抬手调整眼镜、另一手自然下垂"
+      ]
+    ],
+    "lore": "人物：青黑及肩直发；圆方脸、浓眉、开朗笑；成年正常比例。服装：双层侧开长裙搭短靴，用参考包装主色控制大色块，以深绿金色方框与白点阵作少量抽象衣缘和饰物，不把包装贴成衣服。动作：双腿稳站，抬手调整眼镜、另一手自然下垂。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-1483",
+      "sku-yanpk-469",
+      "sku-yanpk-1237"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028323970",
+      "stickType": "细支",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-95056",
+    "number": "36",
+    "name": "玉溪(鑫中支)",
+    "brand": "玉溪",
+    "provinceId": "yunnan",
+    "region": "云南",
+    "title": "玉溪(鑫中支) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#9e3034",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-95056.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-95056-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-95056-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-95056-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-95056-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-95056-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：玉溪(鑫中支)（沿用原资料）",
+      "地域关联：云南；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为中支"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-95056.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "玉溪(鑫中支) · 原资料页",
+        "url": "https://m.yanpk.com/item-95056.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“红白金色密小圆点”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "红白金色密小圆点"
+      ],
+      [
+        "原作服装结构",
+        "小翻领夹克搭中长裙，用参考包装主色控制大色块，以红白金色密小圆点作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "宽步站立，双臂交叉但不遮住服装主体"
+      ]
+    ],
+    "lore": "人物：银灰齐颈波波头；宽椭圆脸、垂眼、沉静微笑；成年正常比例。服装：小翻领夹克搭中长裙，用参考包装主色控制大色块，以红白金色密小圆点作少量抽象衣缘和饰物，不把包装贴成衣服。动作：宽步站立，双臂交叉但不遮住服装主体。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-1483",
+      "sku-yanpk-469",
+      "sku-yanpk-1237"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028322850",
+      "stickType": "中支",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-93461",
+    "number": "37",
+    "name": "芙蓉王(硬细支)",
+    "brand": "芙蓉王",
+    "provinceId": "hunan",
+    "region": "湖南",
+    "title": "芙蓉王(硬细支) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#b9a077",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-93461.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-93461-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-93461-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-93461-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-93461-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-93461-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：芙蓉王(硬细支)（沿用原资料）",
+      "地域关联：湖南；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为细支"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-93461.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "芙蓉王(硬细支) · 原资料页",
+        "url": "https://m.yanpk.com/item-93461.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“象牙白细金圆花章”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "象牙白细金圆花章"
+      ],
+      [
+        "原作服装结构",
+        "紧凑马甲搭宽直裤，用参考包装主色控制大色块，以象牙白细金圆花章作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "斜倚无背景的窄木杖，另一手指向远处"
+      ]
+    ],
+    "lore": "人物：灰棕不对称短发；心形脸、上挑眼、轻快表情；成年正常比例。服装：紧凑马甲搭宽直裤，用参考包装主色控制大色块，以象牙白细金圆花章作少量抽象衣缘和饰物，不把包装贴成衣服。动作：斜倚无背景的窄木杖，另一手指向远处。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-139",
+      "sku-yanpk-13",
+      "sku-yanpk-93722"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028201711",
+      "stickType": "细支",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-93722",
+    "number": "38",
+    "name": "芙蓉王(硬蓝新版)",
+    "brand": "芙蓉王",
+    "provinceId": "hunan",
+    "region": "湖南",
+    "title": "芙蓉王(硬蓝新版) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#b9a077",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-93722.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-93722-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-93722-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-93722-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-93722-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-93722-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：芙蓉王(硬蓝新版)（沿用原资料）",
+      "地域关联：湖南；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-93722.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "芙蓉王(硬蓝新版) · 原资料页",
+        "url": "https://m.yanpk.com/item-93722.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“深蓝大块金色花瓣”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "深蓝大块金色花瓣"
+      ],
+      [
+        "原作服装结构",
+        "无袖短上衣搭扇形及膝裙，用参考包装主色控制大色块，以深蓝大块金色花瓣作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "宽步站立，双臂交叉但不遮住服装主体"
+      ]
+    ],
+    "lore": "人物：银灰齐颈波波头；菱形脸、细长杏眼、敏锐神情；成年正常比例。服装：无袖短上衣搭扇形及膝裙，用参考包装主色控制大色块，以深蓝大块金色花瓣作少量抽象衣缘和饰物，不把包装贴成衣服。动作：宽步站立，双臂交叉但不遮住服装主体。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-139",
+      "sku-yanpk-13",
+      "sku-yanpk-93461"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028063876",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-140",
+    "number": "39",
+    "name": "芙蓉王(软蓝)",
+    "brand": "芙蓉王",
+    "provinceId": "hunan",
+    "region": "湖南",
+    "title": "芙蓉王(软蓝) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#b9a077",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-140.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-140-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-140-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-140-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-140-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-140-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：芙蓉王(软蓝)（沿用原资料）",
+      "地域关联：湖南；不代表实物制造地",
+      "包装类型：条盒软盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-140.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "芙蓉王(软蓝) · 原资料页",
+        "url": "https://m.yanpk.com/item-140.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“深蓝金色细点束线”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "深蓝金色细点束线"
+      ],
+      [
+        "原作服装结构",
+        "圆肩针织短衫搭A字长裙，用参考包装主色控制大色块，以深蓝金色细点束线作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "轻盈前跨一步，双手一高一低展开"
+      ]
+    ],
+    "lore": "人物：赤棕松散长辫；丰润圆脸、杏眼、自然笑；成年正常比例。服装：圆肩针织短衫搭A字长裙，用参考包装主色控制大色块，以深蓝金色细点束线作少量抽象衣缘和饰物，不把包装贴成衣服。动作：轻盈前跨一步，双手一高一低展开。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-139",
+      "sku-yanpk-13",
+      "sku-yanpk-93461"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028193917",
+      "stickType": "常规",
+      "boxType": "条盒软盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-115294",
+    "number": "40",
+    "name": "芙蓉王(硬中支新版)",
+    "brand": "芙蓉王",
+    "provinceId": "hunan",
+    "region": "湖南",
+    "title": "芙蓉王(硬中支新版) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#b9a077",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-115294.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-115294-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-115294-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-115294-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-115294-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-115294-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：芙蓉王(硬中支新版)（沿用原资料）",
+      "地域关联：湖南；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为中支"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-115294.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "芙蓉王(硬中支新版) · 原资料页",
+        "url": "https://m.yanpk.com/item-115294.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“银灰细金花脉纹”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "银灰细金花脉纹"
+      ],
+      [
+        "原作服装结构",
+        "短款开襟衣搭及膝褶裙，用参考包装主色控制大色块，以银灰细金花脉纹作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "斜倚无背景的窄木杖，另一手指向远处"
+      ]
+    ],
+    "lore": "人物：灰棕不对称短发；方下颌、窄眼、坚毅表情；成年正常比例。服装：短款开襟衣搭及膝褶裙，用参考包装主色控制大色块，以银灰细金花脉纹作少量抽象衣缘和饰物，不把包装贴成衣服。动作：斜倚无背景的窄木杖，另一手指向远处。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-139",
+      "sku-yanpk-13",
+      "sku-yanpk-93461"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028275651",
+      "stickType": "中支",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-15",
+    "number": "41",
+    "name": "白沙硬",
+    "brand": "白沙",
+    "provinceId": "hunan",
+    "region": "湖南",
+    "title": "白沙硬 · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#b9a077",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-15.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-15-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-15-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-15-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-15-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-15-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：白沙硬（沿用原资料）",
+      "地域关联：湖南；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-15.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "白沙硬 · 原资料页",
+        "url": "https://m.yanpk.com/item-15.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“白红绿横边水鸟图案”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "白红绿横边水鸟图案"
+      ],
+      [
+        "原作服装结构",
+        "无袖高领搭多片短裙，用参考包装主色控制大色块，以白红绿横边水鸟图案作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "回眸半转身，一手整理披片边缘"
+      ]
+    ],
+    "lore": "人物：墨蓝耳下短卷发；宽椭圆脸、垂眼、沉静微笑；成年正常比例。服装：无袖高领搭多片短裙，用参考包装主色控制大色块，以白红绿横边水鸟图案作少量抽象衣缘和饰物，不把包装贴成衣服。动作：回眸半转身，一手整理披片边缘。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-139",
+      "sku-yanpk-13",
+      "sku-yanpk-93461"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028191029",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-93487",
+    "number": "42",
+    "name": "白沙硬新精品二代",
+    "brand": "白沙",
+    "provinceId": "hunan",
+    "region": "湖南",
+    "title": "白沙硬新精品二代 · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#b9a077",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-93487.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-93487-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-93487-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-93487-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-93487-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-93487-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：白沙硬新精品二代（沿用原资料）",
+      "地域关联：湖南；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-93487.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "白沙硬新精品二代 · 原资料页",
+        "url": "https://m.yanpk.com/item-93487.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“深蓝金色双鸟几何纹”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "深蓝金色双鸟几何纹"
+      ],
+      [
+        "原作服装结构",
+        "方形短披片搭素色连衣裤，用参考包装主色控制大色块，以深蓝金色双鸟几何纹作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "低位屈膝但全身可见，一手托空花盆"
+      ]
+    ],
+    "lore": "人物：黑色利落寸发；宽颧骨、凤眼、从容神态；成年正常比例。服装：方形短披片搭素色连衣裤，用参考包装主色控制大色块，以深蓝金色双鸟几何纹作少量抽象衣缘和饰物，不把包装贴成衣服。动作：低位屈膝但全身可见，一手托空花盆。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-139",
+      "sku-yanpk-13",
+      "sku-yanpk-93461"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028063364",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-8",
+    "number": "43",
+    "name": "白沙精品二代",
+    "brand": "白沙",
+    "provinceId": "hunan",
+    "region": "湖南",
+    "title": "白沙精品二代 · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#b9a077",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-8.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-8-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-8-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-8-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-8-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-8-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：白沙精品二代（沿用原资料）",
+      "地域关联：湖南；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-8.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "白沙精品二代 · 原资料页",
+        "url": "https://m.yanpk.com/item-8.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“黑蓝金框偏侧构图”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "黑蓝金框偏侧构图"
+      ],
+      [
+        "原作服装结构",
+        "斜襟长背心搭窄裤，用参考包装主色控制大色块，以黑蓝金框偏侧构图作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "稳站三分之四，一手夹无字地图卷，另一手轻搭腰侧"
+      ]
+    ],
+    "lore": "人物：乌黑侧分短发；心形脸、上挑眼、轻快表情；成年正常比例。服装：斜襟长背心搭窄裤，用参考包装主色控制大色块，以黑蓝金框偏侧构图作少量抽象衣缘和饰物，不把包装贴成衣服。动作：稳站三分之四，一手夹无字地图卷，另一手轻搭腰侧。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-139",
+      "sku-yanpk-13",
+      "sku-yanpk-93461"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028191098",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-4",
+    "number": "44",
+    "name": "白沙和天下",
+    "brand": "白沙",
+    "provinceId": "hunan",
+    "region": "湖南",
+    "title": "白沙和天下 · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#b9a077",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-4.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-4-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-4-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-4-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-4-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-4-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：白沙和天下（沿用原资料）",
+      "地域关联：湖南；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-4.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "白沙和天下 · 原资料页",
+        "url": "https://m.yanpk.com/item-4.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“深褐玫红碎花纹”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "深褐玫红碎花纹"
+      ],
+      [
+        "原作服装结构",
+        "宽袖短衫搭束脚长裤，用参考包装主色控制大色块，以深褐玫红碎花纹作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "单脚踏低石块，手握无字折叠测绘尺"
+      ]
+    ],
+    "lore": "人物：深棕高马尾；长方脸、深眼窝、理性表情；成年正常比例。服装：宽袖短衫搭束脚长裤，用参考包装主色控制大色块，以深褐玫红碎花纹作少量抽象衣缘和饰物，不把包装贴成衣服。动作：单脚踏低石块，手握无字折叠测绘尺。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-139",
+      "sku-yanpk-13",
+      "sku-yanpk-93461"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028196925",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-5729",
+    "number": "45",
+    "name": "白沙硬细支和气生财",
+    "brand": "白沙",
+    "provinceId": "hunan",
+    "region": "湖南",
+    "title": "白沙硬细支和气生财 · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#b9a077",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-5729.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-5729-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-5729-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-5729-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-5729-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-5729-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：白沙硬细支和气生财（沿用原资料）",
+      "地域关联：湖南；不代表实物制造地",
+      "包装类型：条盒硬盒细支；来源规格标记为细支"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-5729.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "白沙硬细支和气生财 · 原资料页",
+        "url": "https://m.yanpk.com/item-5729.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“米金红细线古典花边”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "米金红细线古典花边"
+      ],
+      [
+        "原作服装结构",
+        "简洁短衫搭大裙摆，用参考包装主色控制大色块，以米金红细线古典花边作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "自然站立，双手托一个抽象几何饰物"
+      ]
+    ],
+    "lore": "人物：浅金低盘发；三角脸、锐眼、专注表情；成年正常比例。服装：简洁短衫搭大裙摆，用参考包装主色控制大色块，以米金红细线古典花边作少量抽象衣缘和饰物，不把包装贴成衣服。动作：自然站立，双手托一个抽象几何饰物。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-139",
+      "sku-yanpk-13",
+      "sku-yanpk-93461"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028201148",
+      "stickType": "细支",
+      "boxType": "条盒硬盒细支",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-215",
+    "number": "46",
+    "name": "黄鹤楼(硬珍品)",
+    "brand": "黄鹤楼",
+    "provinceId": "hubei",
+    "region": "湖北",
+    "title": "黄鹤楼(硬珍品) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#c5a16f",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-215.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-215-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-215-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-215-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-215-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-215-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：黄鹤楼(硬珍品)（沿用原资料）",
+      "地域关联：湖北；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-215.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "黄鹤楼(硬珍品) · 原资料页",
+        "url": "https://m.yanpk.com/item-215.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“深青银白对称建筑线”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "深青银白对称建筑线"
+      ],
+      [
+        "原作服装结构",
+        "交叉腰带长上衣搭直裤，用参考包装主色控制大色块，以深青银白对称建筑线作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "单脚踏低石块，手握无字折叠测绘尺"
+      ]
+    ],
+    "lore": "人物：深棕高马尾；圆方脸、浓眉、开朗笑；成年正常比例。服装：交叉腰带长上衣搭直裤，用参考包装主色控制大色块，以深青银白对称建筑线作少量抽象衣缘和饰物，不把包装贴成衣服。动作：单脚踏低石块，手握无字折叠测绘尺。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-213",
+      "sku-yanpk-212",
+      "sku-yanpk-206"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028179317",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-212",
+    "number": "47",
+    "name": "黄鹤楼(软珍品)",
+    "brand": "黄鹤楼",
+    "provinceId": "hubei",
+    "region": "湖北",
+    "title": "黄鹤楼(软珍品) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#c5a16f",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-212.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-212-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-212-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-212-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-212-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-212-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：黄鹤楼(软珍品)（沿用原资料）",
+      "地域关联：湖北；不代表实物制造地",
+      "包装类型：条盒软盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-212.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "黄鹤楼(软珍品) · 原资料页",
+        "url": "https://m.yanpk.com/item-212.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“深褐淡粉建筑剪影”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "深褐淡粉建筑剪影"
+      ],
+      [
+        "原作服装结构",
+        "横向肩饰搭窄长衣身，用参考包装主色控制大色块，以深褐淡粉建筑剪影作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "自然站立，双手托一个抽象几何饰物"
+      ]
+    ],
+    "lore": "人物：浅金低盘发；宽椭圆脸、垂眼、沉静微笑；成年正常比例。服装：横向肩饰搭窄长衣身，用参考包装主色控制大色块，以深褐淡粉建筑剪影作少量抽象衣缘和饰物，不把包装贴成衣服。动作：自然站立，双手托一个抽象几何饰物。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-213",
+      "sku-yanpk-215",
+      "sku-yanpk-206"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028180016",
+      "stickType": "常规",
+      "boxType": "条盒软盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-206",
+    "number": "48",
+    "name": "黄鹤楼(硬1916)",
+    "brand": "黄鹤楼",
+    "provinceId": "hubei",
+    "region": "湖北",
+    "title": "黄鹤楼(硬1916) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#c5a16f",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-206.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-206-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-206-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-206-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-206-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-206-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：黄鹤楼(硬1916)（沿用原资料）",
+      "地域关联：湖北；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-206.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "黄鹤楼(硬1916) · 原资料页",
+        "url": "https://m.yanpk.com/item-206.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“沙金建筑速写细框”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "沙金建筑速写细框"
+      ],
+      [
+        "原作服装结构",
+        "卷袖衬衫搭背带长裤，用参考包装主色控制大色块，以沙金建筑速写细框作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "双腿稳站，抬手调整眼镜、另一手自然下垂"
+      ]
+    ],
+    "lore": "人物：青黑及肩直发；宽颧骨、凤眼、从容神态；成年正常比例。服装：卷袖衬衫搭背带长裤，用参考包装主色控制大色块，以沙金建筑速写细框作少量抽象衣缘和饰物，不把包装贴成衣服。动作：双腿稳站，抬手调整眼镜、另一手自然下垂。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-213",
+      "sku-yanpk-215",
+      "sku-yanpk-212"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028184243",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-92700",
+    "number": "49",
+    "name": "黄鹤楼(硬峡谷柔情)",
+    "brand": "黄鹤楼",
+    "provinceId": "hubei",
+    "region": "湖北",
+    "title": "黄鹤楼(硬峡谷柔情) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#c5a16f",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-92700.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-92700-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-92700-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-92700-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-92700-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-92700-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：黄鹤楼(硬峡谷柔情)（沿用原资料）",
+      "地域关联：湖北；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为细支"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-92700.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "黄鹤楼(硬峡谷柔情) · 原资料页",
+        "url": "https://m.yanpk.com/item-92700.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“浅绿极简楼阁浅金纹”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "浅绿极简楼阁浅金纹"
+      ],
+      [
+        "原作服装结构",
+        "双层侧开长裙搭短靴，用参考包装主色控制大色块，以浅绿极简楼阁浅金纹作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "宽步站立，双臂交叉但不遮住服装主体"
+      ]
+    ],
+    "lore": "人物：银灰齐颈波波头；心形脸、上挑眼、轻快表情；成年正常比例。服装：双层侧开长裙搭短靴，用参考包装主色控制大色块，以浅绿极简楼阁浅金纹作少量抽象衣缘和饰物，不把包装贴成衣服。动作：宽步站立，双臂交叉但不遮住服装主体。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-213",
+      "sku-yanpk-215",
+      "sku-yanpk-212"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028181440",
+      "stickType": "细支",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-209",
+    "number": "50",
+    "name": "黄鹤楼(硬雅香)",
+    "brand": "黄鹤楼",
+    "provinceId": "hubei",
+    "region": "湖北",
+    "title": "黄鹤楼(硬雅香) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#c5a16f",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-209.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-209-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-209-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-209-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-209-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-209-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：黄鹤楼(硬雅香)（沿用原资料）",
+      "地域关联：湖北；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-209.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "黄鹤楼(硬雅香) · 原资料页",
+        "url": "https://m.yanpk.com/item-209.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“橙金墨黑厚边框”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "橙金墨黑厚边框"
+      ],
+      [
+        "原作服装结构",
+        "小翻领夹克搭中长裙，用参考包装主色控制大色块，以橙金墨黑厚边框作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "轻盈前跨一步，双手一高一低展开"
+      ]
+    ],
+    "lore": "人物：赤棕松散长辫；长方脸、深眼窝、理性表情；成年正常比例。服装：小翻领夹克搭中长裙，用参考包装主色控制大色块，以橙金墨黑厚边框作少量抽象衣缘和饰物，不把包装贴成衣服。动作：轻盈前跨一步，双手一高一低展开。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-213",
+      "sku-yanpk-215",
+      "sku-yanpk-212"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028179874",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-1092",
+    "number": "51",
+    "name": "南京(红)",
+    "brand": "南京",
+    "provinceId": "jiangsu",
+    "region": "江苏",
+    "title": "南京(红) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#c27c52",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-1092.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-1092-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-1092-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-1092-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-1092-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-1092-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：南京(红)（沿用原资料）",
+      "地域关联：江苏；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-1092.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "南京(红) · 原资料页",
+        "url": "https://m.yanpk.com/item-1092.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“朱红圆金徽与方边”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "朱红圆金徽与方边"
+      ],
+      [
+        "原作服装结构",
+        "紧凑马甲搭宽直裤，用参考包装主色控制大色块，以朱红圆金徽与方边作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "身体微侧，一手向外轻展，一手夹空白画册"
+      ]
+    ],
+    "lore": "人物：栗色低束长发；长椭圆脸、柔和眼、温和微笑；成年正常比例。服装：紧凑马甲搭宽直裤，用参考包装主色控制大色块，以朱红圆金徽与方边作少量抽象衣缘和饰物，不把包装贴成衣服。动作：身体微侧，一手向外轻展，一手夹空白画册。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-1101",
+      "sku-yanpk-2501",
+      "sku-yanpk-94061"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028300056",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-884",
+    "number": "52",
+    "name": "南京(九五)",
+    "brand": "南京",
+    "provinceId": "jiangsu",
+    "region": "江苏",
+    "title": "南京(九五) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#c27c52",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-884.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-884-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-884-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-884-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-884-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-884-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：南京(九五)（沿用原资料）",
+      "地域关联：江苏；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-884.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "南京(九五) · 原资料页",
+        "url": "https://m.yanpk.com/item-884.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“明黄深蓝细密对称卷纹”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "明黄深蓝细密对称卷纹"
+      ],
+      [
+        "原作服装结构",
+        "方肩短夹克搭宽短裤和高靴，用参考包装主色控制大色块，以明黄深蓝细密对称卷纹作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "低位屈膝但全身可见，一手托空花盆"
+      ]
+    ],
+    "lore": "人物：黑色利落寸发；丰润圆脸、杏眼、自然笑；成年正常比例。服装：方肩短夹克搭宽短裤和高靴，用参考包装主色控制大色块，以明黄深蓝细密对称卷纹作少量抽象衣缘和饰物，不把包装贴成衣服。动作：低位屈膝但全身可见，一手托空花盆。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-1101",
+      "sku-yanpk-2501",
+      "sku-yanpk-94061"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028112772",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-1107",
+    "number": "53",
+    "name": "南京金陵十二钗烤烟",
+    "brand": "南京",
+    "provinceId": "jiangsu",
+    "region": "江苏",
+    "title": "南京金陵十二钗烤烟 · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#c27c52",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-1107.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-1107-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-1107-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-1107-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-1107-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-1107-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：南京金陵十二钗烤烟（沿用原资料）",
+      "地域关联：江苏；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为细支"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-1107.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "南京金陵十二钗烤烟 · 原资料页",
+        "url": "https://m.yanpk.com/item-1107.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“暖黄朱红纵向长画幅”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "暖黄朱红纵向长画幅"
+      ],
+      [
+        "原作服装结构",
+        "宽领披围搭修长便服，用参考包装主色控制大色块，以暖黄朱红纵向长画幅作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "稳站三分之四，一手夹无字地图卷，另一手轻搭腰侧"
+      ]
+    ],
+    "lore": "人物：乌黑侧分短发；方下颌、窄眼、坚毅表情；成年正常比例。服装：宽领披围搭修长便服，用参考包装主色控制大色块，以暖黄朱红纵向长画幅作少量抽象衣缘和饰物，不把包装贴成衣服。动作：稳站三分之四，一手夹无字地图卷，另一手轻搭腰侧。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-1101",
+      "sku-yanpk-2501",
+      "sku-yanpk-94061"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028062312",
+      "stickType": "细支",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-888",
+    "number": "54",
+    "name": "苏烟(软金砂)",
+    "brand": "苏烟",
+    "provinceId": "jiangsu",
+    "region": "江苏",
+    "title": "苏烟(软金砂) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#c27c52",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-888.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-888-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-888-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-888-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-888-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-888-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：苏烟(软金砂)（沿用原资料）",
+      "地域关联：江苏；不代表实物制造地",
+      "包装类型：条盒软盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-888.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "苏烟(软金砂) · 原资料页",
+        "url": "https://m.yanpk.com/item-888.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“淡粉金线竖向光影”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "淡粉金线竖向光影"
+      ],
+      [
+        "原作服装结构",
+        "无袖高领搭多片短裙，用参考包装主色控制大色块，以淡粉金线竖向光影作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "低位屈膝但全身可见，一手托空花盆"
+      ]
+    ],
+    "lore": "人物：黑色利落寸发；长方脸、深眼窝、理性表情；成年正常比例。服装：无袖高领搭多片短裙，用参考包装主色控制大色块，以淡粉金线竖向光影作少量抽象衣缘和饰物，不把包装贴成衣服。动作：低位屈膝但全身可见，一手托空花盆。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-1101",
+      "sku-yanpk-2501",
+      "sku-yanpk-94061"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028114448",
+      "stickType": "常规",
+      "boxType": "条盒软盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-1146",
+    "number": "55",
+    "name": "苏烟(五星红杉树)",
+    "brand": "苏烟",
+    "provinceId": "jiangsu",
+    "region": "江苏",
+    "title": "苏烟(五星红杉树) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#c27c52",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-1146.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-1146-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-1146-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-1146-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-1146-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-1146-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：苏烟(五星红杉树)（沿用原资料）",
+      "地域关联：江苏；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-1146.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "苏烟(五星红杉树) · 原资料页",
+        "url": "https://m.yanpk.com/item-1146.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“朱红金色圆扣与竖线”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "朱红金色圆扣与竖线"
+      ],
+      [
+        "原作服装结构",
+        "方形短披片搭素色连衣裤，用参考包装主色控制大色块，以朱红金色圆扣与竖线作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "稳站三分之四，一手夹无字地图卷，另一手轻搭腰侧"
+      ]
+    ],
+    "lore": "人物：乌黑侧分短发；三角脸、锐眼、专注表情；成年正常比例。服装：方形短披片搭素色连衣裤，用参考包装主色控制大色块，以朱红金色圆扣与竖线作少量抽象衣缘和饰物，不把包装贴成衣服。动作：稳站三分之四，一手夹无字地图卷，另一手轻搭腰侧。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-1101",
+      "sku-yanpk-2501",
+      "sku-yanpk-94061"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028062008",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-95656",
+    "number": "56",
+    "name": "苏烟(晶彩中支)",
+    "brand": "苏烟",
+    "provinceId": "jiangsu",
+    "region": "江苏",
+    "title": "苏烟(晶彩中支) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#c27c52",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-95656.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-95656-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-95656-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-95656-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-95656-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-95656-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：苏烟(晶彩中支)（沿用原资料）",
+      "地域关联：江苏；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为中支"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-95656.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "苏烟(晶彩中支) · 原资料页",
+        "url": "https://m.yanpk.com/item-95656.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“香槟金玫红渐变和六边形”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "香槟金玫红渐变和六边形"
+      ],
+      [
+        "原作服装结构",
+        "斜襟长背心搭窄裤，用参考包装主色控制大色块，以香槟金玫红渐变和六边形作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "单脚踏低石块，手握无字折叠测绘尺"
+      ]
+    ],
+    "lore": "人物：深棕高马尾；长椭圆脸、柔和眼、温和微笑；成年正常比例。服装：斜襟长背心搭窄裤，用参考包装主色控制大色块，以香槟金玫红渐变和六边形作少量抽象衣缘和饰物，不把包装贴成衣服。动作：单脚踏低石块，手握无字折叠测绘尺。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-1101",
+      "sku-yanpk-2501",
+      "sku-yanpk-94061"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028111621",
+      "stickType": "中支",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-742",
+    "number": "57",
+    "name": "利群软红长嘴",
+    "brand": "利群",
+    "provinceId": "zhejiang",
+    "region": "浙江",
+    "title": "利群软红长嘴 · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#7c8a78",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-742.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-742-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-742-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-742-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-742-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-742-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：利群软红长嘴（沿用原资料）",
+      "地域关联：浙江；不代表实物制造地",
+      "包装类型：条盒软盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-742.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "利群软红长嘴 · 原资料页",
+        "url": "https://m.yanpk.com/item-742.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“乳金红色中心大块”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "乳金红色中心大块"
+      ],
+      [
+        "原作服装结构",
+        "简洁短衫搭大裙摆，用参考包装主色控制大色块，以乳金红色中心大块作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "双腿稳站，抬手调整眼镜、另一手自然下垂"
+      ]
+    ],
+    "lore": "人物：青黑及肩直发；丰润圆脸、杏眼、自然笑；成年正常比例。服装：简洁短衫搭大裙摆，用参考包装主色控制大色块，以乳金红色中心大块作少量抽象衣缘和饰物，不把包装贴成衣服。动作：双腿稳站，抬手调整眼镜、另一手自然下垂。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-661",
+      "sku-yanpk-744",
+      "sku-yanpk-662"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028207492",
+      "stickType": "常规",
+      "boxType": "条盒软盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-744",
+    "number": "58",
+    "name": "利群长嘴",
+    "brand": "利群",
+    "provinceId": "zhejiang",
+    "region": "浙江",
+    "title": "利群长嘴 · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#7c8a78",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-744.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-744-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-744-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-744-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-744-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-744-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：利群长嘴（沿用原资料）",
+      "地域关联：浙江；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-744.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "利群长嘴 · 原资料页",
+        "url": "https://m.yanpk.com/item-744.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“米金黑纹边与宽红腰带”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "米金黑纹边与宽红腰带"
+      ],
+      [
+        "原作服装结构",
+        "短斗篷搭错层长裙，用参考包装主色控制大色块，以米金黑纹边与宽红腰带作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "宽步站立，双臂交叉但不遮住服装主体"
+      ]
+    ],
+    "lore": "人物：银灰齐颈波波头；方下颌、窄眼、坚毅表情；成年正常比例。服装：短斗篷搭错层长裙，用参考包装主色控制大色块，以米金黑纹边与宽红腰带作少量抽象衣缘和饰物，不把包装贴成衣服。动作：宽步站立，双臂交叉但不遮住服装主体。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-661",
+      "sku-yanpk-742",
+      "sku-yanpk-662"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028118811",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-662",
+    "number": "59",
+    "name": "利群软阳光",
+    "brand": "利群",
+    "provinceId": "zhejiang",
+    "region": "浙江",
+    "title": "利群软阳光 · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#7c8a78",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-662.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-662-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-662-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-662-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-662-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-662-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：利群软阳光（沿用原资料）",
+      "地域关联：浙江；不代表实物制造地",
+      "包装类型：条盒软盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-662.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "利群软阳光 · 原资料页",
+        "url": "https://m.yanpk.com/item-662.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“墨黑暗红微亮带”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "墨黑暗红微亮带"
+      ],
+      [
+        "原作服装结构",
+        "交叉腰带长上衣搭直裤，用参考包装主色控制大色块，以墨黑暗红微亮带作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "轻盈前跨一步，双手一高一低展开"
+      ]
+    ],
+    "lore": "人物：赤棕松散长辫；圆方脸、浓眉、开朗笑；成年正常比例。服装：交叉腰带长上衣搭直裤，用参考包装主色控制大色块，以墨黑暗红微亮带作少量抽象衣缘和饰物，不把包装贴成衣服。动作：轻盈前跨一步，双手一高一低展开。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-661",
+      "sku-yanpk-742",
+      "sku-yanpk-744"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028120692",
+      "stickType": "常规",
+      "boxType": "条盒软盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-659",
+    "number": "60",
+    "name": "利群阳光",
+    "brand": "利群",
+    "provinceId": "zhejiang",
+    "region": "浙江",
+    "title": "利群阳光 · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#7c8a78",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-659.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-659-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-659-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-659-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-659-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-659-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：利群阳光（沿用原资料）",
+      "地域关联：浙江；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-659.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "利群阳光 · 原资料页",
+        "url": "https://m.yanpk.com/item-659.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“深褐金色极简横线”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "深褐金色极简横线"
+      ],
+      [
+        "原作服装结构",
+        "横向肩饰搭窄长衣身，用参考包装主色控制大色块，以深褐金色极简横线作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "斜倚无背景的窄木杖，另一手指向远处"
+      ]
+    ],
+    "lore": "人物：灰棕不对称短发；宽椭圆脸、垂眼、沉静微笑；成年正常比例。服装：横向肩饰搭窄长衣身，用参考包装主色控制大色块，以深褐金色极简横线作少量抽象衣缘和饰物，不把包装贴成衣服。动作：斜倚无背景的窄木杖，另一手指向远处。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-661",
+      "sku-yanpk-742",
+      "sku-yanpk-744"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028117333",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-93977",
+    "number": "61",
+    "name": "利群楼外楼",
+    "brand": "利群",
+    "provinceId": "zhejiang",
+    "region": "浙江",
+    "title": "利群楼外楼 · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#7c8a78",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-93977.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-93977-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-93977-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-93977-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-93977-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-93977-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：利群楼外楼（沿用原资料）",
+      "地域关联：浙江；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为中支"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-93977.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "利群楼外楼 · 原资料页",
+        "url": "https://m.yanpk.com/item-93977.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“橙金古建屋檐细纹”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "橙金古建屋檐细纹"
+      ],
+      [
+        "原作服装结构",
+        "卷袖衬衫搭背带长裤，用参考包装主色控制大色块，以橙金古建屋檐细纹作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "身体微侧，一手向外轻展，一手夹空白画册"
+      ]
+    ],
+    "lore": "人物：栗色低束长发；宽颧骨、凤眼、从容神态；成年正常比例。服装：卷袖衬衫搭背带长裤，用参考包装主色控制大色块，以橙金古建屋檐细纹作少量抽象衣缘和饰物，不把包装贴成衣服。动作：身体微侧，一手向外轻展，一手夹空白画册。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-661",
+      "sku-yanpk-742",
+      "sku-yanpk-744"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028121729",
+      "stickType": "中支",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-93974",
+    "number": "62",
+    "name": "利群(江南韵)",
+    "brand": "利群",
+    "provinceId": "zhejiang",
+    "region": "浙江",
+    "title": "利群(江南韵) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#7c8a78",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-93974.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-93974-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-93974-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-93974-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-93974-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-93974-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：利群(江南韵)（沿用原资料）",
+      "地域关联：浙江；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为细支"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-93974.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "利群(江南韵) · 原资料页",
+        "url": "https://m.yanpk.com/item-93974.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“浅蓝墨黑细枝与月圆”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "浅蓝墨黑细枝与月圆"
+      ],
+      [
+        "原作服装结构",
+        "双层侧开长裙搭短靴，用参考包装主色控制大色块，以浅蓝墨黑细枝与月圆作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "轻盈前跨一步，双手一高一低展开"
+      ]
+    ],
+    "lore": "人物：赤棕松散长辫；长椭圆脸、柔和眼、温和微笑；成年正常比例。服装：双层侧开长裙搭短靴，用参考包装主色控制大色块，以浅蓝墨黑细枝与月圆作少量抽象衣缘和饰物，不把包装贴成衣服。动作：轻盈前跨一步，双手一高一低展开。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-661",
+      "sku-yanpk-742",
+      "sku-yanpk-744"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028121811",
+      "stickType": "细支",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-94924",
+    "number": "63",
+    "name": "红塔山(大经典1956)",
+    "brand": "红塔山",
+    "provinceId": "yunnan",
+    "region": "云南",
+    "title": "红塔山(大经典1956) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#9e3034",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-94924.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-94924-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-94924-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-94924-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-94924-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-94924-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：红塔山(大经典1956)（沿用原资料）",
+      "地域关联：云南；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-94924.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "红塔山(大经典1956) · 原资料页",
+        "url": "https://m.yanpk.com/item-94924.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“白红塔形竖线浅金山脊”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "白红塔形竖线浅金山脊"
+      ],
+      [
+        "原作服装结构",
+        "小翻领夹克搭中长裙，用参考包装主色控制大色块，以白红塔形竖线浅金山脊作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "斜倚无背景的窄木杖，另一手指向远处"
+      ]
+    ],
+    "lore": "人物：灰棕不对称短发；菱形脸、细长杏眼、敏锐神情；成年正常比例。服装：小翻领夹克搭中长裙，用参考包装主色控制大色块，以白红塔形竖线浅金山脊作少量抽象衣缘和饰物，不把包装贴成衣服。动作：斜倚无背景的窄木杖，另一手指向远处。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-1483",
+      "sku-yanpk-469",
+      "sku-yanpk-1237"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028322522",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-470",
+    "number": "64",
+    "name": "红塔山(硬经典100)",
+    "brand": "红塔山",
+    "provinceId": "yunnan",
+    "region": "云南",
+    "title": "红塔山(硬经典100) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#9e3034",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-470.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-470-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-470-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-470-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-470-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-470-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：红塔山(硬经典100)（沿用原资料）",
+      "地域关联：云南；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-470.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "红塔山(硬经典100) · 原资料页",
+        "url": "https://m.yanpk.com/item-470.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“浅橙红金山峰线”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "浅橙红金山峰线"
+      ],
+      [
+        "原作服装结构",
+        "紧凑马甲搭宽直裤，用参考包装主色控制大色块，以浅橙红金山峰线作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "回眸半转身，一手整理披片边缘"
+      ]
+    ],
+    "lore": "人物：墨蓝耳下短卷发；方下颌、窄眼、坚毅表情；成年正常比例。服装：紧凑马甲搭宽直裤，用参考包装主色控制大色块，以浅橙红金山峰线作少量抽象衣缘和饰物，不把包装贴成衣服。动作：回眸半转身，一手整理披片边缘。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-1483",
+      "sku-yanpk-469",
+      "sku-yanpk-1237"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028315425",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-92957",
+    "number": "65",
+    "name": "七匹狼(蓝新版)",
+    "brand": "七匹狼",
+    "provinceId": "fujian",
+    "region": "福建",
+    "title": "七匹狼(蓝新版) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#7b9ab1",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-92957.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-92957-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-92957-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-92957-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-92957-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-92957-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：七匹狼(蓝新版)（沿用原资料）",
+      "地域关联：福建；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-92957.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "七匹狼(蓝新版) · 原资料页",
+        "url": "https://m.yanpk.com/item-92957.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“湖蓝卷曲浮雕波纹”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "湖蓝卷曲浮雕波纹"
+      ],
+      [
+        "原作服装结构",
+        "方肩短夹克搭宽短裤和高靴，用参考包装主色控制大色块，以湖蓝卷曲浮雕波纹作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "稳站三分之四，一手夹无字地图卷，另一手轻搭腰侧"
+      ]
+    ],
+    "lore": "人物：乌黑侧分短发；宽椭圆脸、垂眼、沉静微笑；成年正常比例。服装：方肩短夹克搭宽短裤和高靴，用参考包装主色控制大色块，以湖蓝卷曲浮雕波纹作少量抽象衣缘和饰物，不把包装贴成衣服。动作：稳站三分之四，一手夹无字地图卷，另一手轻搭腰侧。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-2273",
+      "sku-yanpk-1621",
+      "sku-yanpk-1623"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028141130",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-1621",
+    "number": "66",
+    "name": "七匹狼(软红1995)",
+    "brand": "七匹狼",
+    "provinceId": "fujian",
+    "region": "福建",
+    "title": "七匹狼(软红1995) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#7b9ab1",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-1621.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-1621-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-1621-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-1621-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-1621-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-1621-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：七匹狼(软红1995)（沿用原资料）",
+      "地域关联：福建；不代表实物制造地",
+      "包装类型：条盒软盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-1621.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "七匹狼(软红1995) · 原资料页",
+        "url": "https://m.yanpk.com/item-1621.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“深红银白飞鸟形符号”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "深红银白飞鸟形符号"
+      ],
+      [
+        "原作服装结构",
+        "宽领披围搭修长便服，用参考包装主色控制大色块，以深红银白飞鸟形符号作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "单脚踏低石块，手握无字折叠测绘尺"
+      ]
+    ],
+    "lore": "人物：深棕高马尾；宽颧骨、凤眼、从容神态；成年正常比例。服装：宽领披围搭修长便服，用参考包装主色控制大色块，以深红银白飞鸟形符号作少量抽象衣缘和饰物，不把包装贴成衣服。动作：单脚踏低石块，手握无字折叠测绘尺。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-2273",
+      "sku-yanpk-92957",
+      "sku-yanpk-1623"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028137683",
+      "stickType": "常规",
+      "boxType": "条盒软盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-1623",
+    "number": "67",
+    "name": "七匹狼(白)",
+    "brand": "七匹狼",
+    "provinceId": "fujian",
+    "region": "福建",
+    "title": "七匹狼(白) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#7b9ab1",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-1623.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-1623-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-1623-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-1623-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-1623-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-1623-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：七匹狼(白)（沿用原资料）",
+      "地域关联：福建；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-1623.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "七匹狼(白) · 原资料页",
+        "url": "https://m.yanpk.com/item-1623.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“灰白红框细小格点”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "灰白红框细小格点"
+      ],
+      [
+        "原作服装结构",
+        "无袖短上衣搭扇形及膝裙，用参考包装主色控制大色块，以灰白红框细小格点作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "自然站立，双手托一个抽象几何饰物"
+      ]
+    ],
+    "lore": "人物：浅金低盘发；心形脸、上挑眼、轻快表情；成年正常比例。服装：无袖短上衣搭扇形及膝裙，用参考包装主色控制大色块，以灰白红框细小格点作少量抽象衣缘和饰物，不把包装贴成衣服。动作：自然站立，双手托一个抽象几何饰物。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-2273",
+      "sku-yanpk-92957",
+      "sku-yanpk-1621"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028137287",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-94071",
+    "number": "68",
+    "name": "七匹狼(纯境中支)",
+    "brand": "七匹狼",
+    "provinceId": "fujian",
+    "region": "福建",
+    "title": "七匹狼(纯境中支) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#7b9ab1",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-94071.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-94071-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-94071-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-94071-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-94071-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-94071-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：七匹狼(纯境中支)（沿用原资料）",
+      "地域关联：福建；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为中支"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-94071.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "七匹狼(纯境中支) · 原资料页",
+        "url": "https://m.yanpk.com/item-94071.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“青蓝白金海岸波浪”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "青蓝白金海岸波浪"
+      ],
+      [
+        "原作服装结构",
+        "圆肩针织短衫搭A字长裙，用参考包装主色控制大色块，以青蓝白金海岸波浪作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "双腿稳站，抬手调整眼镜、另一手自然下垂"
+      ]
+    ],
+    "lore": "人物：青黑及肩直发；长方脸、深眼窝、理性表情；成年正常比例。服装：圆肩针织短衫搭A字长裙，用参考包装主色控制大色块，以青蓝白金海岸波浪作少量抽象衣缘和饰物，不把包装贴成衣服。动作：双腿稳站，抬手调整眼镜、另一手自然下垂。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-2273",
+      "sku-yanpk-92957",
+      "sku-yanpk-1621"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028211345",
+      "stickType": "中支",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-248",
+    "number": "69",
+    "name": "黄山(新制皖烟)",
+    "brand": "黄山",
+    "provinceId": "anhui",
+    "region": "安徽",
+    "title": "黄山(新制皖烟) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#b59b66",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-248.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-248-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-248-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-248-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-248-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-248-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：黄山(新制皖烟)（沿用原资料）",
+      "地域关联：安徽；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-248.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "黄山(新制皖烟) · 原资料页",
+        "url": "https://m.yanpk.com/item-248.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“灰金绿色圆形窗格”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "灰金绿色圆形窗格"
+      ],
+      [
+        "原作服装结构",
+        "短款开襟衣搭及膝褶裙，用参考包装主色控制大色块，以灰金绿色圆形窗格作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "宽步站立，双臂交叉但不遮住服装主体"
+      ]
+    ],
+    "lore": "人物：银灰齐颈波波头；三角脸、锐眼、专注表情；成年正常比例。服装：短款开襟衣搭及膝褶裙，用参考包装主色控制大色块，以灰金绿色圆形窗格作少量抽象衣缘和饰物，不把包装贴成衣服。动作：宽步站立，双臂交叉但不遮住服装主体。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [
+      {
+        "text": "安徽没有情与爱，只有黄皖十八块。",
+        "source": "?view=about#sources",
+        "title": "用户提供 · 流传出处与规格对应待核实",
+        "certainty": "user-provided-unverified",
+        "note": "保留用户提供的地方段子版本。“黄皖”对应哪款规格尚未核实；数字只属于原句，不是本件售价，也不是官方广告。"
+      }
+    ],
+    "relatedIds": [
+      "sku-yanpk-5611",
+      "sku-yanpk-5616",
+      "sku-yanpk-94086"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028225168",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-5616",
+    "number": "70",
+    "name": "黄山(记忆)",
+    "brand": "黄山",
+    "provinceId": "anhui",
+    "region": "安徽",
+    "title": "黄山(记忆) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#b59b66",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-5616.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-5616-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-5616-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-5616-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-5616-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-5616-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：黄山(记忆)（沿用原资料）",
+      "地域关联：安徽；不代表实物制造地",
+      "包装类型：条盒软盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-5616.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "黄山(记忆) · 原资料页",
+        "url": "https://m.yanpk.com/item-5616.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“淡红山水松树与云”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "淡红山水松树与云"
+      ],
+      [
+        "原作服装结构",
+        "斜襟长背心搭窄裤，用参考包装主色控制大色块，以淡红山水松树与云作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "自然站立，双手托一个抽象几何饰物"
+      ]
+    ],
+    "lore": "人物：浅金低盘发；方下颌、窄眼、坚毅表情；成年正常比例。服装：斜襟长背心搭窄裤，用参考包装主色控制大色块，以淡红山水松树与云作少量抽象衣缘和饰物，不把包装贴成衣服。动作：自然站立，双手托一个抽象几何饰物。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-5611",
+      "sku-yanpk-248",
+      "sku-yanpk-94086"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028223751",
+      "stickType": "常规",
+      "boxType": "条盒软盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-94086",
+    "number": "71",
+    "name": "黄山(小红方印中支)",
+    "brand": "黄山",
+    "provinceId": "anhui",
+    "region": "安徽",
+    "title": "黄山(小红方印中支) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#b59b66",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-94086.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-94086-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-94086-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-94086-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-94086-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-94086-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：黄山(小红方印中支)（沿用原资料）",
+      "地域关联：安徽；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为中支"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-94086.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "黄山(小红方印中支) · 原资料页",
+        "url": "https://m.yanpk.com/item-94086.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“米白朱红细密印纹”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "米白朱红细密印纹"
+      ],
+      [
+        "原作服装结构",
+        "简洁短衫搭大裙摆，用参考包装主色控制大色块，以米白朱红细密印纹作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "宽步站立，双臂交叉但不遮住服装主体"
+      ]
+    ],
+    "lore": "人物：银灰齐颈波波头；宽椭圆脸、垂眼、沉静微笑；成年正常比例。服装：简洁短衫搭大裙摆，用参考包装主色控制大色块，以米白朱红细密印纹作少量抽象衣缘和饰物，不把包装贴成衣服。动作：宽步站立，双臂交叉但不遮住服装主体。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-5611",
+      "sku-yanpk-248",
+      "sku-yanpk-5616"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028124881",
+      "stickType": "中支",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-247",
+    "number": "72",
+    "name": "黄山(金皖烟)",
+    "brand": "黄山",
+    "provinceId": "anhui",
+    "region": "安徽",
+    "title": "黄山(金皖烟) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#b59b66",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-247.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-247-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-247-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-247-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-247-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-247-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：黄山(金皖烟)（沿用原资料）",
+      "地域关联：安徽；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-247.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "黄山(金皖烟) · 原资料页",
+        "url": "https://m.yanpk.com/item-247.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“麦黄金银圆形徽章”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "麦黄金银圆形徽章"
+      ],
+      [
+        "原作服装结构",
+        "短斗篷搭错层长裙，用参考包装主色控制大色块，以麦黄金银圆形徽章作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "轻盈前跨一步，双手一高一低展开"
+      ]
+    ],
+    "lore": "人物：赤棕松散长辫；宽颧骨、凤眼、从容神态；成年正常比例。服装：短斗篷搭错层长裙，用参考包装主色控制大色块，以麦黄金银圆形徽章作少量抽象衣缘和饰物，不把包装贴成衣服。动作：轻盈前跨一步，双手一高一低展开。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [
+      {
+        "text": "安徽没有情与爱，只有黄皖十八块。",
+        "source": "?view=about#sources",
+        "title": "用户提供 · 流传出处与规格对应待核实",
+        "certainty": "user-provided-unverified",
+        "note": "保留用户提供的地方段子版本。“黄皖”对应哪款规格尚未核实；数字只属于原句，不是本件售价，也不是官方广告。"
+      }
+    ],
+    "relatedIds": [
+      "sku-yanpk-5611",
+      "sku-yanpk-248",
+      "sku-yanpk-5616"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028225106",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-92894",
+    "number": "73",
+    "name": "泰山（白将军细支）",
+    "brand": "泰山",
+    "provinceId": "shandong",
+    "region": "山东",
+    "title": "泰山（白将军细支） · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#91a5af",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-92894.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-92894-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-92894-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-92894-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-92894-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-92894-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：泰山（白将军细支）（沿用原资料）",
+      "地域关联：山东；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为细支"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-92894.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "泰山（白将军细支） · 原资料页",
+        "url": "https://m.yanpk.com/item-92894.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“白金红细长盾片”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "白金红细长盾片"
+      ],
+      [
+        "原作服装结构",
+        "横向肩饰搭窄长衣身，用参考包装主色控制大色块，以白金红细长盾片作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "身体微侧，一手向外轻展，一手夹空白画册"
+      ]
+    ],
+    "lore": "人物：栗色低束长发；长方脸、深眼窝、理性表情；成年正常比例。服装：横向肩饰搭窄长衣身，用参考包装主色控制大色块，以白金红细长盾片作少量抽象衣缘和饰物，不把包装贴成衣服。动作：身体微侧，一手向外轻展，一手夹空白画册。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-1690",
+      "sku-yanpk-1181",
+      "sku-yanpk-93224"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028154642",
+      "stickType": "细支",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-93224",
+    "number": "74",
+    "name": "泰山（颜悦）蓝色版",
+    "brand": "泰山",
+    "provinceId": "shandong",
+    "region": "山东",
+    "title": "泰山（颜悦）蓝色版 · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#91a5af",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-93224.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-93224-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-93224-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-93224-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-93224-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-93224-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：泰山（颜悦）蓝色版（沿用原资料）",
+      "地域关联：山东；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为细支"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-93224.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "泰山（颜悦）蓝色版 · 原资料页",
+        "url": "https://m.yanpk.com/item-93224.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“宝蓝金黄卷叶白花”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "宝蓝金黄卷叶白花"
+      ],
+      [
+        "原作服装结构",
+        "卷袖衬衫搭背带长裤，用参考包装主色控制大色块，以宝蓝金黄卷叶白花作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "回眸半转身，一手整理披片边缘"
+      ]
+    ],
+    "lore": "人物：墨蓝耳下短卷发；三角脸、锐眼、专注表情；成年正常比例。服装：卷袖衬衫搭背带长裤，用参考包装主色控制大色块，以宝蓝金黄卷叶白花作少量抽象衣缘和饰物，不把包装贴成衣服。动作：回眸半转身，一手整理披片边缘。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-1690",
+      "sku-yanpk-1181",
+      "sku-yanpk-92894"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028155540",
+      "stickType": "细支",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-1699",
+    "number": "75",
+    "name": "泰山(心悦)",
+    "brand": "泰山",
+    "provinceId": "shandong",
+    "region": "山东",
+    "title": "泰山(心悦) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#91a5af",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-1699.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-1699-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-1699-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-1699-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-1699-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-1699-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：泰山(心悦)（沿用原资料）",
+      "地域关联：山东；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-1699.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "泰山(心悦) · 原资料页",
+        "url": "https://m.yanpk.com/item-1699.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“浅白青蓝淡粉叶影”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "浅白青蓝淡粉叶影"
+      ],
+      [
+        "原作服装结构",
+        "双层侧开长裙搭短靴，用参考包装主色控制大色块，以浅白青蓝淡粉叶影作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "低位屈膝但全身可见，一手托空花盆"
+      ]
+    ],
+    "lore": "人物：黑色利落寸发；长椭圆脸、柔和眼、温和微笑；成年正常比例。服装：双层侧开长裙搭短靴，用参考包装主色控制大色块，以浅白青蓝淡粉叶影作少量抽象衣缘和饰物，不把包装贴成衣服。动作：低位屈膝但全身可见，一手托空花盆。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-1690",
+      "sku-yanpk-1181",
+      "sku-yanpk-92894"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028159746",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-899",
+    "number": "76",
+    "name": "泰山(儒风)",
+    "brand": "泰山",
+    "provinceId": "shandong",
+    "region": "山东",
+    "title": "泰山(儒风) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#91a5af",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-899.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-899-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-899-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-899-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-899-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-899-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：泰山(儒风)（沿用原资料）",
+      "地域关联：山东；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-899.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "泰山(儒风) · 原资料页",
+        "url": "https://m.yanpk.com/item-899.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“银灰墨红疏淡山水”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "银灰墨红疏淡山水"
+      ],
+      [
+        "原作服装结构",
+        "不对称单肩披片搭连体裤，用参考包装主色控制大色块，以银灰墨红疏淡山水作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "单脚踏低石块，手握无字折叠测绘尺"
+      ]
+    ],
+    "lore": "人物：深棕高马尾；丰润圆脸、杏眼、自然笑；成年正常比例。服装：不对称单肩披片搭连体裤，用参考包装主色控制大色块，以银灰墨红疏淡山水作少量抽象衣缘和饰物，不把包装贴成衣服。动作：单脚踏低石块，手握无字折叠测绘尺。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-1690",
+      "sku-yanpk-1181",
+      "sku-yanpk-92894"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028150255",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-3033",
+    "number": "77",
+    "name": "钻石(荷花)",
+    "brand": "钻石",
+    "provinceId": "hebei",
+    "region": "河北",
+    "title": "钻石(荷花) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#b29b8c",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-3033.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-3033-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-3033-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-3033-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-3033-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-3033-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：钻石(荷花)（沿用原资料）",
+      "地域关联：河北；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-3033.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "钻石(荷花) · 原资料页",
+        "url": "https://m.yanpk.com/item-3033.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“草绿淡黄荷叶粉花”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "草绿淡黄荷叶粉花"
+      ],
+      [
+        "原作服装结构",
+        "紧凑马甲搭宽直裤，用参考包装主色控制大色块，以草绿淡黄荷叶粉花作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "低位屈膝但全身可见，一手托空花盆"
+      ]
+    ],
+    "lore": "人物：黑色利落寸发；宽颧骨、凤眼、从容神态；成年正常比例。服装：紧凑马甲搭宽直裤，用参考包装主色控制大色块，以草绿淡黄荷叶粉花作少量抽象衣缘和饰物，不把包装贴成衣服。动作：低位屈膝但全身可见，一手托空花盆。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-5700",
+      "sku-yanpk-929",
+      "sku-yanpk-213"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028079952",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-5700",
+    "number": "78",
+    "name": "钻石(细支荷花)",
+    "brand": "钻石",
+    "provinceId": "hebei",
+    "region": "河北",
+    "title": "钻石(细支荷花) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#b29b8c",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-5700.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-5700-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-5700-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-5700-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-5700-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-5700-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：钻石(细支荷花)（沿用原资料）",
+      "地域关联：河北；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为细支"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-5700.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "钻石(细支荷花) · 原资料页",
+        "url": "https://m.yanpk.com/item-5700.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“深绿金黄纤细荷茎”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "深绿金黄纤细荷茎"
+      ],
+      [
+        "原作服装结构",
+        "短披肩搭直筒长裤，用参考包装主色控制大色块，以深绿金黄纤细荷茎作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "稳站三分之四，一手夹无字地图卷，另一手轻搭腰侧"
+      ]
+    ],
+    "lore": "人物：乌黑侧分短发；心形脸、上挑眼、轻快表情；成年正常比例。服装：短披肩搭直筒长裤，用参考包装主色控制大色块，以深绿金黄纤细荷茎作少量抽象衣缘和饰物，不把包装贴成衣服。动作：稳站三分之四，一手夹无字地图卷，另一手轻搭腰侧。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-3033",
+      "sku-yanpk-929",
+      "sku-yanpk-213"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028080514",
+      "stickType": "细支",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-295",
+    "number": "79",
+    "name": "黄金叶(黄金眼)",
+    "brand": "黄金叶",
+    "provinceId": "henan",
+    "region": "河南",
+    "title": "黄金叶(黄金眼) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#b5a186",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-295.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-295-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-295-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-295-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-295-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-295-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：黄金叶(黄金眼)（沿用原资料）",
+      "地域关联：河南；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-295.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "黄金叶(黄金眼) · 原资料页",
+        "url": "https://m.yanpk.com/item-295.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“浓黄墨黑均匀点阵”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "浓黄墨黑均匀点阵"
+      ],
+      [
+        "原作服装结构",
+        "方肩短夹克搭宽短裤和高靴，用参考包装主色控制大色块，以浓黄墨黑均匀点阵作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "单脚踏低石块，手握无字折叠测绘尺"
+      ]
+    ],
+    "lore": "人物：深棕高马尾；长方脸、深眼窝、理性表情；成年正常比例。服装：方肩短夹克搭宽短裤和高靴，用参考包装主色控制大色块，以浓黄墨黑均匀点阵作少量抽象衣缘和饰物，不把包装贴成衣服。动作：单脚踏低石块，手握无字折叠测绘尺。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-92751",
+      "sku-yanpk-290",
+      "sku-yanpk-94945"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028163613",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-92751",
+    "number": "80",
+    "name": "黄金叶(乐途)",
+    "brand": "黄金叶",
+    "provinceId": "henan",
+    "region": "河南",
+    "title": "黄金叶(乐途) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#b5a186",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-92751.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-92751-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-92751-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-92751-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-92751-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-92751-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：黄金叶(乐途)（沿用原资料）",
+      "地域关联：河南；不代表实物制造地",
+      "包装类型：条盒软盒；来源规格标记为短支"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-92751.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "黄金叶(乐途) · 原资料页",
+        "url": "https://m.yanpk.com/item-92751.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“米白金红古典小格画框”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "米白金红古典小格画框"
+      ],
+      [
+        "原作服装结构",
+        "宽领披围搭修长便服，用参考包装主色控制大色块，以米白金红古典小格画框作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "自然站立，双手托一个抽象几何饰物"
+      ]
+    ],
+    "lore": "人物：浅金低盘发；三角脸、锐眼、专注表情；成年正常比例。服装：宽领披围搭修长便服，用参考包装主色控制大色块，以米白金红古典小格画框作少量抽象衣缘和饰物，不把包装贴成衣服。动作：自然站立，双手托一个抽象几何饰物。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-295",
+      "sku-yanpk-290",
+      "sku-yanpk-94945"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028160278",
+      "stickType": "短支",
+      "boxType": "条盒软盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-290",
+    "number": "81",
+    "name": "黄金叶(天叶)",
+    "brand": "黄金叶",
+    "provinceId": "henan",
+    "region": "河南",
+    "title": "黄金叶(天叶) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#b5a186",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-290.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-290-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-290-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-290-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-290-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-290-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：黄金叶(天叶)（沿用原资料）",
+      "地域关联：河南；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-290.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "黄金叶(天叶) · 原资料页",
+        "url": "https://m.yanpk.com/item-290.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“纸白橘红叶脉细线”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "纸白橘红叶脉细线"
+      ],
+      [
+        "原作服装结构",
+        "无袖短上衣搭扇形及膝裙，用参考包装主色控制大色块，以纸白橘红叶脉细线作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "双腿稳站，抬手调整眼镜、另一手自然下垂"
+      ]
+    ],
+    "lore": "人物：青黑及肩直发；长椭圆脸、柔和眼、温和微笑；成年正常比例。服装：无袖短上衣搭扇形及膝裙，用参考包装主色控制大色块，以纸白橘红叶脉细线作少量抽象衣缘和饰物，不把包装贴成衣服。动作：双腿稳站，抬手调整眼镜、另一手自然下垂。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-295",
+      "sku-yanpk-92751",
+      "sku-yanpk-94945"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028169998",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-92796",
+    "number": "82",
+    "name": "贵烟(跨越)",
+    "brand": "贵烟",
+    "provinceId": "guizhou",
+    "region": "贵州",
+    "title": "贵烟(跨越) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#9aa595",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-92796.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-92796-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-92796-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-92796-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-92796-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-92796-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：贵烟(跨越)（沿用原资料）",
+      "地域关联：贵州；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为细支"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-92796.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "贵烟(跨越) · 原资料页",
+        "url": "https://m.yanpk.com/item-92796.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“黑银星河斜向弧”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "黑银星河斜向弧"
+      ],
+      [
+        "原作服装结构",
+        "圆肩针织短衫搭A字长裙，用参考包装主色控制大色块，以黑银星河斜向弧作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "宽步站立，双臂交叉但不遮住服装主体"
+      ]
+    ],
+    "lore": "人物：银灰齐颈波波头；菱形脸、细长杏眼、敏锐神情；成年正常比例。服装：圆肩针织短衫搭A字长裙，用参考包装主色控制大色块，以黑银星河斜向弧作少量抽象衣缘和饰物，不把包装贴成衣服。动作：宽步站立，双臂交叉但不遮住服装主体。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-2277",
+      "sku-yanpk-414",
+      "sku-yanpk-929"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028221443",
+      "stickType": "细支",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-2277",
+    "number": "83",
+    "name": "贵烟(国酒香·30)",
+    "brand": "贵烟",
+    "provinceId": "guizhou",
+    "region": "贵州",
+    "title": "贵烟(国酒香·30) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#9aa595",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-2277.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-2277-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-2277-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-2277-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-2277-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-2277-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：贵烟(国酒香·30)（沿用原资料）",
+      "地域关联：贵州；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-2277.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "贵烟(国酒香·30) · 原资料页",
+        "url": "https://m.yanpk.com/item-2277.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“橘金亮绿对称花边”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "橘金亮绿对称花边"
+      ],
+      [
+        "原作服装结构",
+        "短款开襟衣搭及膝褶裙，用参考包装主色控制大色块，以橘金亮绿对称花边作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "轻盈前跨一步，双手一高一低展开"
+      ]
+    ],
+    "lore": "人物：赤棕松散长辫；丰润圆脸、杏眼、自然笑；成年正常比例。服装：短款开襟衣搭及膝褶裙，用参考包装主色控制大色块，以橘金亮绿对称花边作少量抽象衣缘和饰物，不把包装贴成衣服。动作：轻盈前跨一步，双手一高一低展开。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-92796",
+      "sku-yanpk-414",
+      "sku-yanpk-929"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028102827",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-532",
+    "number": "84",
+    "name": "娇子(X)",
+    "brand": "娇子",
+    "provinceId": "sichuan",
+    "region": "四川",
+    "title": "娇子(X) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#819786",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-532.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-532-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-532-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-532-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-532-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-532-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：娇子(X)（沿用原资料）",
+      "地域关联：四川；不代表实物制造地",
+      "包装类型：条盒硬盒中支；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-532.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "娇子(X) · 原资料页",
+        "url": "https://m.yanpk.com/item-532.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“纸白金黄交叉几何线”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "纸白金黄交叉几何线"
+      ],
+      [
+        "原作服装结构",
+        "无袖高领搭多片短裙，用参考包装主色控制大色块，以纸白金黄交叉几何线作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "身体微侧，一手向外轻展，一手夹空白画册"
+      ]
+    ],
+    "lore": "人物：栗色低束长发；圆方脸、浓眉、开朗笑；成年正常比例。服装：无袖高领搭多片短裙，用参考包装主色控制大色块，以纸白金黄交叉几何线作少量抽象衣缘和饰物，不把包装贴成衣服。动作：身体微侧，一手向外轻展，一手夹空白画册。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-93273",
+      "sku-yanpk-105518",
+      "sku-yanpk-929"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028024969",
+      "stickType": "常规",
+      "boxType": "条盒硬盒中支",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-105518",
+    "number": "85",
+    "name": "娇子(宽窄如意细支)",
+    "brand": "娇子",
+    "provinceId": "sichuan",
+    "region": "四川",
+    "title": "娇子(宽窄如意细支) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#819786",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-105518.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-105518-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-105518-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-105518-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-105518-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-105518-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：娇子(宽窄如意细支)（沿用原资料）",
+      "地域关联：四川；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为细支"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-105518.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "娇子(宽窄如意细支) · 原资料页",
+        "url": "https://m.yanpk.com/item-105518.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“银灰虹彩拱形镂空花饰”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "银灰虹彩拱形镂空花饰"
+      ],
+      [
+        "原作服装结构",
+        "方形短披片搭素色连衣裤，用参考包装主色控制大色块，以银灰虹彩拱形镂空花饰作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "回眸半转身，一手整理披片边缘"
+      ]
+    ],
+    "lore": "人物：墨蓝耳下短卷发；宽椭圆脸、垂眼、沉静微笑；成年正常比例。服装：方形短披片搭素色连衣裤，用参考包装主色控制大色块，以银灰虹彩拱形镂空花饰作少量抽象衣缘和饰物，不把包装贴成衣服。动作：回眸半转身，一手整理披片边缘。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-93273",
+      "sku-yanpk-532",
+      "sku-yanpk-929"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028146531",
+      "stickType": "细支",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-637",
+    "number": "86",
+    "name": "兰州(硬珍品)",
+    "brand": "兰州",
+    "provinceId": "gansu",
+    "region": "甘肃",
+    "title": "兰州(硬珍品) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#ac9d88",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-637.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-637-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-637-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-637-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-637-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-637-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：兰州(硬珍品)（沿用原资料）",
+      "地域关联：甘肃；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-637.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "兰州(硬珍品) · 原资料页",
+        "url": "https://m.yanpk.com/item-637.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“墨黑金线鹿形弧”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "墨黑金线鹿形弧"
+      ],
+      [
+        "原作服装结构",
+        "短斗篷搭错层长裙，用参考包装主色控制大色块，以墨黑金线鹿形弧作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "斜倚无背景的窄木杖，另一手指向远处"
+      ]
+    ],
+    "lore": "人物：灰棕不对称短发；三角脸、锐眼、专注表情；成年正常比例。服装：短斗篷搭错层长裙，用参考包装主色控制大色块，以墨黑金线鹿形弧作少量抽象衣缘和饰物，不把包装贴成衣服。动作：斜倚无背景的窄木杖，另一手指向远处。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-635",
+      "sku-yanpk-3165",
+      "sku-yanpk-929"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028065498",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-635",
+    "number": "87",
+    "name": "兰州(硬吉祥)",
+    "brand": "兰州",
+    "provinceId": "gansu",
+    "region": "甘肃",
+    "title": "兰州(硬吉祥) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#ac9d88",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-635.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-635-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-635-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-635-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-635-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-635-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：兰州(硬吉祥)（沿用原资料）",
+      "地域关联：甘肃；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-635.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "兰州(硬吉祥) · 原资料页",
+        "url": "https://m.yanpk.com/item-635.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“红黑金色鹿形曲线”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "红黑金色鹿形曲线"
+      ],
+      [
+        "原作服装结构",
+        "交叉腰带长上衣搭直裤，用参考包装主色控制大色块，以红黑金色鹿形曲线作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "身体微侧，一手向外轻展，一手夹空白画册"
+      ]
+    ],
+    "lore": "人物：栗色低束长发；长椭圆脸、柔和眼、温和微笑；成年正常比例。服装：交叉腰带长上衣搭直裤，用参考包装主色控制大色块，以红黑金色鹿形曲线作少量抽象衣缘和饰物，不把包装贴成衣服。动作：身体微侧，一手向外轻展，一手夹空白画册。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-637",
+      "sku-yanpk-3165",
+      "sku-yanpk-929"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028065801",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-3165",
+    "number": "88",
+    "name": "兰州(桥)",
+    "brand": "兰州",
+    "provinceId": "gansu",
+    "region": "甘肃",
+    "title": "兰州(桥) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#ac9d88",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-3165.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-3165-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-3165-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-3165-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-3165-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-3165-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：兰州(桥)（沿用原资料）",
+      "地域关联：甘肃；不代表实物制造地",
+      "包装类型：条盒硬包细支；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-3165.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "兰州(桥) · 原资料页",
+        "url": "https://m.yanpk.com/item-3165.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“米白暖红桥线水纹”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "米白暖红桥线水纹"
+      ],
+      [
+        "原作服装结构",
+        "横向肩饰搭窄长衣身，用参考包装主色控制大色块，以米白暖红桥线水纹作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "回眸半转身，一手整理披片边缘"
+      ]
+    ],
+    "lore": "人物：墨蓝耳下短卷发；菱形脸、细长杏眼、敏锐神情；成年正常比例。服装：横向肩饰搭窄长衣身，用参考包装主色控制大色块，以米白暖红桥线水纹作少量抽象衣缘和饰物，不把包装贴成衣服。动作：回眸半转身，一手整理披片边缘。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-637",
+      "sku-yanpk-635",
+      "sku-yanpk-929"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028066624",
+      "stickType": "常规",
+      "boxType": "条盒硬包细支",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-40",
+    "number": "89",
+    "name": "长白山(神韵)",
+    "brand": "长白山",
+    "provinceId": "jilin",
+    "region": "吉林",
+    "title": "长白山(神韵) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#9eafa6",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-40.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-40-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-40-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-40-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-40-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-40-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：长白山(神韵)（沿用原资料）",
+      "地域关联：吉林；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-40.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "长白山(神韵) · 原资料页",
+        "url": "https://m.yanpk.com/item-40.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“朱红青绿小方窗”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "朱红青绿小方窗"
+      ],
+      [
+        "原作服装结构",
+        "双层侧开长裙搭短靴，用参考包装主色控制大色块，以朱红青绿小方窗作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "稳站三分之四，一手夹无字地图卷，另一手轻搭腰侧"
+      ]
+    ],
+    "lore": "人物：乌黑侧分短发；方下颌、窄眼、坚毅表情；成年正常比例。服装：双层侧开长裙搭短靴，用参考包装主色控制大色块，以朱红青绿小方窗作少量抽象衣缘和饰物，不把包装贴成衣服。动作：稳站三分之四，一手夹无字地图卷，另一手轻搭腰侧。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-3",
+      "sku-yanpk-929",
+      "sku-yanpk-213"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028099776",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-1311",
+    "number": "90",
+    "name": "真龙(海韵)",
+    "brand": "真龙",
+    "provinceId": "guangxi",
+    "region": "广西",
+    "title": "真龙(海韵) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#a7a893",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-1311.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-1311-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-1311-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-1311-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-1311-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-1311-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：真龙(海韵)（沿用原资料）",
+      "地域关联：广西；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-1311.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "真龙(海韵) · 原资料页",
+        "url": "https://m.yanpk.com/item-1311.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“深蓝金色盘龙卷纹”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "深蓝金色盘龙卷纹"
+      ],
+      [
+        "原作服装结构",
+        "小翻领夹克搭中长裙，用参考包装主色控制大色块，以深蓝金色盘龙卷纹作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "单脚踏低石块，手握无字折叠测绘尺"
+      ]
+    ],
+    "lore": "人物：深棕高马尾；圆方脸、浓眉、开朗笑；成年正常比例。服装：小翻领夹克搭中长裙，用参考包装主色控制大色块，以深蓝金色盘龙卷纹作少量抽象衣缘和饰物，不把包装贴成衣服。动作：单脚踏低石块，手握无字折叠测绘尺。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-5693",
+      "sku-yanpk-929",
+      "sku-yanpk-213"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028013604",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-5693",
+    "number": "91",
+    "name": "真龙(凌云)",
+    "brand": "真龙",
+    "provinceId": "guangxi",
+    "region": "广西",
+    "title": "真龙(凌云) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#a7a893",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-5693.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-5693-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-5693-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-5693-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-5693-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-5693-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：真龙(凌云)（沿用原资料）",
+      "地域关联：广西；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为细支"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-5693.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "真龙(凌云) · 原资料页",
+        "url": "https://m.yanpk.com/item-5693.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“橙黄红金盘旋云纹”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "橙黄红金盘旋云纹"
+      ],
+      [
+        "原作服装结构",
+        "不对称单肩披片搭连体裤，用参考包装主色控制大色块，以橙黄红金盘旋云纹作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "自然站立，双手托一个抽象几何饰物"
+      ]
+    ],
+    "lore": "人物：浅金低盘发；宽椭圆脸、垂眼、沉静微笑；成年正常比例。服装：不对称单肩披片搭连体裤，用参考包装主色控制大色块，以橙黄红金盘旋云纹作少量抽象衣缘和饰物，不把包装贴成衣服。动作：自然站立，双手托一个抽象几何饰物。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-1311",
+      "sku-yanpk-929",
+      "sku-yanpk-213"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028011990",
+      "stickType": "细支",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-197",
+    "number": "92",
+    "name": "红河(软甲)",
+    "brand": "红河",
+    "provinceId": "yunnan",
+    "region": "云南",
+    "title": "红河(软甲) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#9e3034",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-197.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-197-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-197-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-197-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-197-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-197-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：红河(软甲)（沿用原资料）",
+      "地域关联：云南；不代表实物制造地",
+      "包装类型：条盒软盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-197.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "红河(软甲) · 原资料页",
+        "url": "https://m.yanpk.com/item-197.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“朱红纸白横向弧带”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "朱红纸白横向弧带"
+      ],
+      [
+        "原作服装结构",
+        "紧凑马甲搭宽直裤，用参考包装主色控制大色块，以朱红纸白横向弧带作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "双腿稳站，抬手调整眼镜、另一手自然下垂"
+      ]
+    ],
+    "lore": "人物：青黑及肩直发；宽颧骨、凤眼、从容神态；成年正常比例。服装：紧凑马甲搭宽直裤，用参考包装主色控制大色块，以朱红纸白横向弧带作少量抽象衣缘和饰物，不把包装贴成衣服。动作：双腿稳站，抬手调整眼镜、另一手自然下垂。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-1483",
+      "sku-yanpk-469",
+      "sku-yanpk-1237"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028055024",
+      "stickType": "常规",
+      "boxType": "条盒软盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-189",
+    "number": "93",
+    "name": "红河(硬甲)",
+    "brand": "红河",
+    "provinceId": "yunnan",
+    "region": "云南",
+    "title": "红河(硬甲) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#9e3034",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-189.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-189-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-189-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-189-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-189-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-189-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：红河(硬甲)（沿用原资料）",
+      "地域关联：云南；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-189.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "红河(硬甲) · 原资料页",
+        "url": "https://m.yanpk.com/item-189.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“深红银灰窄金边”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "深红银灰窄金边"
+      ],
+      [
+        "原作服装结构",
+        "短披肩搭直筒长裤，用参考包装主色控制大色块，以深红银灰窄金边作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "宽步站立，双臂交叉但不遮住服装主体"
+      ]
+    ],
+    "lore": "人物：银灰齐颈波波头；心形脸、上挑眼、轻快表情；成年正常比例。服装：短披肩搭直筒长裤，用参考包装主色控制大色块，以深红银灰窄金边作少量抽象衣缘和饰物，不把包装贴成衣服。动作：宽步站立，双臂交叉但不遮住服装主体。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-1483",
+      "sku-yanpk-469",
+      "sku-yanpk-1237"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028055048",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-414",
+    "number": "94",
+    "name": "黄果树(长征)",
+    "brand": "黄果树",
+    "provinceId": "guizhou",
+    "region": "贵州",
+    "title": "黄果树(长征) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#9aa595",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-414.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-414-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-414-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-414-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-414-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-414-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：黄果树(长征)（沿用原资料）",
+      "地域关联：贵州；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-414.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "黄果树(长征) · 原资料页",
+        "url": "https://m.yanpk.com/item-414.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“朱红金色建筑框”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "朱红金色建筑框"
+      ],
+      [
+        "原作服装结构",
+        "方肩短夹克搭宽短裤和高靴，用参考包装主色控制大色块，以朱红金色建筑框作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "轻盈前跨一步，双手一高一低展开"
+      ]
+    ],
+    "lore": "人物：赤棕松散长辫；长方脸、深眼窝、理性表情；成年正常比例。服装：方肩短夹克搭宽短裤和高靴，用参考包装主色控制大色块，以朱红金色建筑框作少量抽象衣缘和饰物，不把包装贴成衣服。动作：轻盈前跨一步，双手一高一低展开。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-92796",
+      "sku-yanpk-2277",
+      "sku-yanpk-929"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028095884",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-94945",
+    "number": "95",
+    "name": "红旗渠(银河新版)",
+    "brand": "红旗渠",
+    "provinceId": "henan",
+    "region": "河南",
+    "title": "红旗渠(银河新版) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#b5a186",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-94945.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-94945-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-94945-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-94945-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-94945-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-94945-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：红旗渠(银河新版)（沿用原资料）",
+      "地域关联：河南；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-94945.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "红旗渠(银河新版) · 原资料页",
+        "url": "https://m.yanpk.com/item-94945.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“金灰朱红柔和波纹”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "金灰朱红柔和波纹"
+      ],
+      [
+        "原作服装结构",
+        "宽领披围搭修长便服，用参考包装主色控制大色块，以金灰朱红柔和波纹作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "双腿稳站，抬手调整眼镜、另一手自然下垂"
+      ]
+    ],
+    "lore": "人物：青黑及肩直发；丰润圆脸、杏眼、自然笑；成年正常比例。服装：宽领披围搭修长便服，用参考包装主色控制大色块，以金灰朱红柔和波纹作少量抽象衣缘和饰物，不把包装贴成衣服。动作：双腿稳站，抬手调整眼镜、另一手自然下垂。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-295",
+      "sku-yanpk-92751",
+      "sku-yanpk-290"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028161947",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-1177",
+    "number": "96",
+    "name": "双喜(硬经典)",
+    "brand": "双喜",
+    "provinceId": "guangdong",
+    "region": "广东",
+    "title": "双喜(硬经典) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#9aa9a3",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-1177.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-1177-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-1177-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-1177-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-1177-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-1177-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：双喜(硬经典)（沿用原资料）",
+      "地域关联：广东；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-1177.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "双喜(硬经典) · 原资料页",
+        "url": "https://m.yanpk.com/item-1177.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“朱红浅金圆形镂空纹”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "朱红浅金圆形镂空纹"
+      ],
+      [
+        "原作服装结构",
+        "圆肩针织短衫搭A字长裙，用参考包装主色控制大色块，以朱红浅金圆形镂空纹作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "轻盈前跨一步，双手一高一低展开"
+      ]
+    ],
+    "lore": "人物：赤棕松散长辫；圆方脸、浓眉、开朗笑；成年正常比例。服装：圆肩针织短衫搭A字长裙，用参考包装主色控制大色块，以朱红浅金圆形镂空纹作少量抽象衣缘和饰物，不把包装贴成衣服。动作：轻盈前跨一步，双手一高一低展开。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-1148",
+      "sku-yanpk-1150",
+      "sku-yanpk-929"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028000642",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-1148",
+    "number": "97",
+    "name": "双喜(硬经典1906)",
+    "brand": "双喜",
+    "provinceId": "guangdong",
+    "region": "广东",
+    "title": "双喜(硬经典1906) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#9aa9a3",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-1148.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-1148-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-1148-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-1148-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-1148-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-1148-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：双喜(硬经典1906)（沿用原资料）",
+      "地域关联：广东；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-1148.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "双喜(硬经典1906) · 原资料页",
+        "url": "https://m.yanpk.com/item-1148.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“赭红金青纵横细框”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "赭红金青纵横细框"
+      ],
+      [
+        "原作服装结构",
+        "短款开襟衣搭及膝褶裙，用参考包装主色控制大色块，以赭红金青纵横细框作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "斜倚无背景的窄木杖，另一手指向远处"
+      ]
+    ],
+    "lore": "人物：灰棕不对称短发；宽椭圆脸、垂眼、沉静微笑；成年正常比例。服装：短款开襟衣搭及膝褶裙，用参考包装主色控制大色块，以赭红金青纵横细框作少量抽象衣缘和饰物，不把包装贴成衣服。动作：斜倚无背景的窄木杖，另一手指向远处。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-1177",
+      "sku-yanpk-1150",
+      "sku-yanpk-929"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028001618",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-1150",
+    "number": "98",
+    "name": "双喜(软经典)",
+    "brand": "双喜",
+    "provinceId": "guangdong",
+    "region": "广东",
+    "title": "双喜(软经典) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#9aa9a3",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-1150.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-1150-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-1150-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-1150-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-1150-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-1150-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：双喜(软经典)（沿用原资料）",
+      "地域关联：广东；不代表实物制造地",
+      "包装类型：条盒软盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-1150.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "双喜(软经典) · 原资料页",
+        "url": "https://m.yanpk.com/item-1150.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“鲜红纸白圆花边”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "鲜红纸白圆花边"
+      ],
+      [
+        "原作服装结构",
+        "立领短外套搭阔腿裤，用参考包装主色控制大色块，以鲜红纸白圆花边作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "身体微侧，一手向外轻展，一手夹空白画册"
+      ]
+    ],
+    "lore": "人物：栗色低束长发；宽颧骨、凤眼、从容神态；成年正常比例。服装：立领短外套搭阔腿裤，用参考包装主色控制大色块，以鲜红纸白圆花边作少量抽象衣缘和饰物，不把包装贴成衣服。动作：身体微侧，一手向外轻展，一手夹空白画册。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-1177",
+      "sku-yanpk-1148",
+      "sku-yanpk-929"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028000826",
+      "stickType": "常规",
+      "boxType": "条盒软盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-343",
+    "number": "99",
+    "name": "红双喜(硬)",
+    "brand": "红双喜",
+    "provinceId": "shanghai",
+    "region": "上海",
+    "title": "红双喜(硬) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#c94f48",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-343.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-343-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-343-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-343-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-343-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-343-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：红双喜(硬)（沿用原资料）",
+      "地域关联：上海；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-343.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "红双喜(硬) · 原资料页",
+        "url": "https://m.yanpk.com/item-343.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“红白金色横向花窗”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "红白金色横向花窗"
+      ],
+      [
+        "原作服装结构",
+        "无袖高领搭多片短裙，用参考包装主色控制大色块，以红白金色横向花窗作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "回眸半转身，一手整理披片边缘"
+      ]
+    ],
+    "lore": "人物：墨蓝耳下短卷发；心形脸、上挑眼、轻快表情；成年正常比例。服装：无袖高领搭多片短裙，用参考包装主色控制大色块，以红白金色横向花窗作少量抽象衣缘和饰物，不把包装贴成衣服。动作：回眸半转身，一手整理披片边缘。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-929",
+      "sku-yanpk-851",
+      "sku-yanpk-104364"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028075800",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-134",
+    "number": "100",
+    "name": "大前门(软)",
+    "brand": "大前门",
+    "provinceId": "shanghai",
+    "region": "上海",
+    "title": "大前门(软) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#c94f48",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-134.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-134-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-134-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-134-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-134-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-134-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：大前门(软)（沿用原资料）",
+      "地域关联：上海；不代表实物制造地",
+      "包装类型：条盒软盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-134.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "大前门(软) · 原资料页",
+        "url": "https://m.yanpk.com/item-134.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“米金浅蓝拱门图形”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "米金浅蓝拱门图形"
+      ],
+      [
+        "原作服装结构",
+        "方形短披片搭素色连衣裤，用参考包装主色控制大色块，以米金浅蓝拱门图形作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "低位屈膝但全身可见，一手托空花盆"
+      ]
+    ],
+    "lore": "人物：黑色利落寸发；长方脸、深眼窝、理性表情；成年正常比例。服装：方形短披片搭素色连衣裤，用参考包装主色控制大色块，以米金浅蓝拱门图形作少量抽象衣缘和饰物，不把包装贴成衣服。动作：低位屈膝但全身可见，一手托空花盆。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-929",
+      "sku-yanpk-851",
+      "sku-yanpk-104364"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028075916",
+      "stickType": "常规",
+      "boxType": "条盒软盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-333",
+    "number": "101",
+    "name": "红梅(软黄)",
+    "brand": "红梅",
+    "provinceId": "yunnan",
+    "region": "云南",
+    "title": "红梅(软黄) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#9e3034",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-333.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-333-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-333-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-333-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-333-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-333-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：红梅(软黄)（沿用原资料）",
+      "地域关联：云南；不代表实物制造地",
+      "包装类型：条盒软盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-333.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "红梅(软黄) · 原资料页",
+        "url": "https://m.yanpk.com/item-333.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“明黄朱红梅花枝”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "明黄朱红梅花枝"
+      ],
+      [
+        "原作服装结构",
+        "斜襟长背心搭窄裤，用参考包装主色控制大色块，以明黄朱红梅花枝作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "稳站三分之四，一手夹无字地图卷，另一手轻搭腰侧"
+      ]
+    ],
+    "lore": "人物：乌黑侧分短发；三角脸、锐眼、专注表情；成年正常比例。服装：斜襟长背心搭窄裤，用参考包装主色控制大色块，以明黄朱红梅花枝作少量抽象衣缘和饰物，不把包装贴成衣服。动作：稳站三分之四，一手夹无字地图卷，另一手轻搭腰侧。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-1483",
+      "sku-yanpk-469",
+      "sku-yanpk-1237"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028048125",
+      "stickType": "常规",
+      "boxType": "条盒软盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-1294",
+    "number": "102",
+    "name": "中南海(5mg)",
+    "brand": "中南海",
+    "provinceId": "beijing",
+    "region": "北京",
+    "title": "中南海(5mg) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#b79a79",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-1294.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-1294-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-1294-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-1294-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-1294-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-1294-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：中南海(5mg)（沿用原资料）",
+      "地域关联：北京；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-1294.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "中南海(5mg) · 原资料页",
+        "url": "https://m.yanpk.com/item-1294.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“浅灰青蓝书法式抽象弧线”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "浅灰青蓝书法式抽象弧线"
+      ],
+      [
+        "原作服装结构",
+        "宽袖短衫搭束脚长裤，用参考包装主色控制大色块，以浅灰青蓝书法式抽象弧线作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "单脚踏低石块，手握无字折叠测绘尺"
+      ]
+    ],
+    "lore": "人物：深棕高马尾；长椭圆脸、柔和眼、温和微笑；成年正常比例。服装：宽袖短衫搭束脚长裤，用参考包装主色控制大色块，以浅灰青蓝书法式抽象弧线作少量抽象衣缘和饰物，不把包装贴成衣服。动作：单脚踏低石块，手握无字折叠测绘尺。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-1298",
+      "sku-yanpk-929",
+      "sku-yanpk-213"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028071468",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-1298",
+    "number": "103",
+    "name": "中南海(8mg)",
+    "brand": "中南海",
+    "provinceId": "beijing",
+    "region": "北京",
+    "title": "中南海(8mg) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#b79a79",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-1298.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-1298-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-1298-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-1298-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-1298-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-1298-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：中南海(8mg)（沿用原资料）",
+      "地域关联：北京；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-1298.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "中南海(8mg) · 原资料页",
+        "url": "https://m.yanpk.com/item-1298.html",
+        "accessed": "2026-10-13",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“浅蓝深蓝橙色小方块”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "浅蓝深蓝橙色小方块"
+      ],
+      [
+        "原作服装结构",
+        "简洁短衫搭大裙摆，用参考包装主色控制大色块，以浅蓝深蓝橙色小方块作少量抽象衣缘和饰物，不把包装贴成衣服"
+      ],
+      [
+        "原作动作",
+        "自然站立，双手托一个抽象几何饰物"
+      ]
+    ],
+    "lore": "人物：浅金低盘发；菱形脸、细长杏眼、敏锐神情；成年正常比例。服装：简洁短衫搭大裙摆，用参考包装主色控制大色块，以浅蓝深蓝橙色小方块作少量抽象衣缘和饰物，不把包装贴成衣服。动作：自然站立，双手托一个抽象几何饰物。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-1294",
+      "sku-yanpk-929",
+      "sku-yanpk-213"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028071499",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-13",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-95086",
+    "number": "104",
+    "name": "恒大(硬中支)",
+    "brand": "恒大",
+    "provinceId": "tianjin",
+    "region": "天津",
+    "title": "恒大(硬中支) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#9eabb5",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-95086.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-95086-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-95086-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-95086-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-95086-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-95086-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：恒大(硬中支)（沿用原资料）",
+      "地域关联：天津；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为中支"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-95086.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "恒大(硬中支) · 原资料页",
+        "url": "https://m.yanpk.com/item-95086.html",
+        "accessed": "2026-10-14",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“米黄金色卷叶框、橙色下摆、深蓝圆徽”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "米黄金色卷叶框、橙色下摆、深蓝圆徽"
+      ],
+      [
+        "原作服装结构",
+        "沿用原稿可见的服装与饰物结构"
+      ],
+      [
+        "原作动作",
+        "沿用原稿姿态"
+      ]
+    ],
+    "lore": "这件原作以包装配色与纹样为创作线索。人物、服装和姿态为非官方原创设计；本次保留原图，未另写虚构经历。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-92774",
+      "sku-yanpk-929",
+      "sku-yanpk-213"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028212274",
+      "stickType": "中支",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-14",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-92774",
+    "number": "105",
+    "name": "恒大(记忆1949)",
+    "brand": "恒大",
+    "provinceId": "tianjin",
+    "region": "天津",
+    "title": "恒大(记忆1949) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#9eabb5",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-92774.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-92774-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-92774-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-92774-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-92774-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-92774-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：恒大(记忆1949)（沿用原资料）",
+      "地域关联：天津；不代表实物制造地",
+      "包装类型：条盒软盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-92774.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "恒大(记忆1949) · 原资料页",
+        "url": "https://m.yanpk.com/item-92774.html",
+        "accessed": "2026-10-14",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“银灰浅蓝竖条纹、墨蓝建筑细线”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "银灰浅蓝竖条纹、墨蓝建筑细线"
+      ],
+      [
+        "原作服装结构",
+        "沿用原稿可见的服装与饰物结构"
+      ],
+      [
+        "原作动作",
+        "沿用原稿姿态"
+      ]
+    ],
+    "lore": "这件原作以包装配色与纹样为创作线索。人物、服装和姿态为非官方原创设计；本次保留原图，未另写虚构经历。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-95086",
+      "sku-yanpk-929",
+      "sku-yanpk-213"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028018128",
+      "stickType": "常规",
+      "boxType": "条盒软盒",
+      "sourceDate": "2026-10-14",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-94012",
+    "number": "106",
+    "name": "人民大会堂(盛京中支)",
+    "brand": "人民大会堂",
+    "provinceId": "liaoning",
+    "region": "辽宁",
+    "title": "人民大会堂(盛京中支) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#a3a7aa",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-94012.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-94012-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-94012-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-94012-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-94012-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-94012-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：人民大会堂(盛京中支)（沿用原资料）",
+      "地域关联：辽宁；不代表实物制造地",
+      "包装类型：条盒硬盒中支；来源规格标记为中支"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-94012.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "人民大会堂(盛京中支) · 原资料页",
+        "url": "https://m.yanpk.com/item-94012.html",
+        "accessed": "2026-10-14",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“明黄金红建筑檐线、祥云”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "明黄金红建筑檐线、祥云"
+      ],
+      [
+        "原作服装结构",
+        "沿用原稿可见的服装与饰物结构"
+      ],
+      [
+        "原作动作",
+        "沿用原稿姿态"
+      ]
+    ],
+    "lore": "这件原作以包装配色与纹样为创作线索。人物、服装和姿态为非官方原创设计；本次保留原图，未另写虚构经历。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-94844",
+      "sku-yanpk-929",
+      "sku-yanpk-213"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028090544",
+      "stickType": "中支",
+      "boxType": "条盒硬盒中支",
+      "sourceDate": "2026-10-14",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-94844",
+    "number": "107",
+    "name": "人民大会堂(辽宁16细支)",
+    "brand": "人民大会堂",
+    "provinceId": "liaoning",
+    "region": "辽宁",
+    "title": "人民大会堂(辽宁16细支) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#a3a7aa",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-94844.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-94844-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-94844-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-94844-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-94844-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-94844-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：人民大会堂(辽宁16细支)（沿用原资料）",
+      "地域关联：辽宁；不代表实物制造地",
+      "包装类型：条盒硬盒细支；来源规格标记为细支"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-94844.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "人民大会堂(辽宁16细支) · 原资料页",
+        "url": "https://m.yanpk.com/item-94844.html",
+        "accessed": "2026-10-14",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“冰白银灰细线、红蓝黄细小矩形”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "冰白银灰细线、红蓝黄细小矩形"
+      ],
+      [
+        "原作服装结构",
+        "沿用原稿可见的服装与饰物结构"
+      ],
+      [
+        "原作动作",
+        "沿用原稿姿态"
+      ]
+    ],
+    "lore": "这件原作以包装配色与纹样为创作线索。人物、服装和姿态为非官方原创设计；本次保留原图，未另写虚构经历。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-94012",
+      "sku-yanpk-929",
+      "sku-yanpk-213"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028092647",
+      "stickType": "细支",
+      "boxType": "条盒硬盒细支",
+      "sourceDate": "2026-10-14",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-94996",
+    "number": "108",
+    "name": "哈尔滨(老巴夺红中支)",
+    "brand": "哈尔滨",
+    "provinceId": "heilongjiang",
+    "region": "黑龙江",
+    "title": "哈尔滨(老巴夺红中支) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#a2a8ad",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-94996.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-94996-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-94996-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-94996-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-94996-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-94996-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：哈尔滨(老巴夺红中支)（沿用原资料）",
+      "地域关联：黑龙江；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为中支"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-94996.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "哈尔滨(老巴夺红中支) · 原资料页",
+        "url": "https://m.yanpk.com/item-94996.html",
+        "accessed": "2026-10-14",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“朱红金色卷叶、圆形金徽”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "朱红金色卷叶、圆形金徽"
+      ],
+      [
+        "原作服装结构",
+        "沿用原稿可见的服装与饰物结构"
+      ],
+      [
+        "原作动作",
+        "沿用原稿姿态"
+      ]
+    ],
+    "lore": "这件原作以包装配色与纹样为创作线索。人物、服装和姿态为非官方原创设计；本次保留原图，未另写虚构经历。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-92934",
+      "sku-yanpk-929",
+      "sku-yanpk-213"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028104173",
+      "stickType": "中支",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-14",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-92934",
+    "number": "109",
+    "name": "哈尔滨(龙烟呈祥)",
+    "brand": "哈尔滨",
+    "provinceId": "heilongjiang",
+    "region": "黑龙江",
+    "title": "哈尔滨(龙烟呈祥) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#a2a8ad",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-92934.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-92934-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-92934-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-92934-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-92934-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-92934-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：哈尔滨(龙烟呈祥)（沿用原资料）",
+      "地域关联：黑龙江；不代表实物制造地",
+      "包装类型：条盒硬盒细支；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-92934.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "哈尔滨(龙烟呈祥) · 原资料页",
+        "url": "https://m.yanpk.com/item-92934.html",
+        "accessed": "2026-10-14",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“亮黄宝蓝花边、方形回纹”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "亮黄宝蓝花边、方形回纹"
+      ],
+      [
+        "原作服装结构",
+        "沿用原稿可见的服装与饰物结构"
+      ],
+      [
+        "原作动作",
+        "沿用原稿姿态"
+      ]
+    ],
+    "lore": "这件原作以包装配色与纹样为创作线索。人物、服装和姿态为非官方原创设计；本次保留原图，未另写虚构经历。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-94996",
+      "sku-yanpk-929",
+      "sku-yanpk-213"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028104623",
+      "stickType": "常规",
+      "boxType": "条盒硬盒细支",
+      "sourceDate": "2026-10-14",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-95669",
+    "number": "110",
+    "name": "冬虫夏草(红中支)",
+    "brand": "冬虫夏草",
+    "provinceId": "neimenggu",
+    "region": "内蒙古",
+    "title": "冬虫夏草(红中支) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#a1ad91",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-95669.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-95669-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-95669-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-95669-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-95669-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-95669-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：冬虫夏草(红中支)（沿用原资料）",
+      "地域关联：内蒙古；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为中支"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-95669.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "冬虫夏草(红中支) · 原资料页",
+        "url": "https://m.yanpk.com/item-95669.html",
+        "accessed": "2026-10-14",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“朱红金色宽横带、圆形花饰”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "朱红金色宽横带、圆形花饰"
+      ],
+      [
+        "原作服装结构",
+        "沿用原稿可见的服装与饰物结构"
+      ],
+      [
+        "原作动作",
+        "沿用原稿姿态"
+      ]
+    ],
+    "lore": "这件原作以包装配色与纹样为创作线索。人物、服装和姿态为非官方原创设计；本次保留原图，未另写虚构经历。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-98973",
+      "sku-yanpk-929",
+      "sku-yanpk-213"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028177818",
+      "stickType": "中支",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-14",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-98973",
+    "number": "111",
+    "name": "冬虫夏草(金细支)",
+    "brand": "冬虫夏草",
+    "provinceId": "neimenggu",
+    "region": "内蒙古",
+    "title": "冬虫夏草(金细支) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#a1ad91",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-98973.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-98973-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-98973-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-98973-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-98973-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-98973-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：冬虫夏草(金细支)（沿用原资料）",
+      "地域关联：内蒙古；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为细支"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-98973.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "冬虫夏草(金细支) · 原资料页",
+        "url": "https://m.yanpk.com/item-98973.html",
+        "accessed": "2026-10-14",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“沙金压纹、红色小圆徽”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "沙金压纹、红色小圆徽"
+      ],
+      [
+        "原作服装结构",
+        "沿用原稿可见的服装与饰物结构"
+      ],
+      [
+        "原作动作",
+        "沿用原稿姿态"
+      ]
+    ],
+    "lore": "这件原作以包装配色与纹样为创作线索。人物、服装和姿态为非官方原创设计；本次保留原图，未另写虚构经历。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-95669",
+      "sku-yanpk-929",
+      "sku-yanpk-213"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028177849",
+      "stickType": "细支",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-14",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-93985",
+    "number": "112",
+    "name": "好猫(中支金丝猴)",
+    "brand": "好猫",
+    "provinceId": "shaanxi",
+    "region": "陕西",
+    "title": "好猫(中支金丝猴) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#af9980",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-93985.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-93985-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-93985-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-93985-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-93985-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-93985-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：好猫(中支金丝猴)（沿用原资料）",
+      "地域关联：陕西；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为中支"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-93985.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "好猫(中支金丝猴) · 原资料页",
+        "url": "https://m.yanpk.com/item-93985.html",
+        "accessed": "2026-10-14",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“海蓝橙金、山脊与灵动动物曲线”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "海蓝橙金、山脊与灵动动物曲线"
+      ],
+      [
+        "原作服装结构",
+        "沿用原稿可见的服装与饰物结构"
+      ],
+      [
+        "原作动作",
+        "沿用原稿姿态"
+      ]
+    ],
+    "lore": "这件原作以包装配色与纹样为创作线索。人物、服装和姿态为非官方原创设计；本次保留原图，未另写虚构经历。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-93726",
+      "sku-yanpk-929",
+      "sku-yanpk-213"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028937610",
+      "stickType": "中支",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-14",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-93726",
+    "number": "113",
+    "name": "好猫(金丝猴)",
+    "brand": "好猫",
+    "provinceId": "shaanxi",
+    "region": "陕西",
+    "title": "好猫(金丝猴) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#af9980",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-93726.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-93726-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-93726-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-93726-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-93726-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-93726-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：好猫(金丝猴)（沿用原资料）",
+      "地域关联：陕西；不代表实物制造地",
+      "包装类型：条盒硬盒中支；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-93726.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "好猫(金丝猴) · 原资料页",
+        "url": "https://m.yanpk.com/item-93726.html",
+        "accessed": "2026-10-14",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“宝蓝金橙、绿山与跳跃弧线”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "宝蓝金橙、绿山与跳跃弧线"
+      ],
+      [
+        "原作服装结构",
+        "沿用原稿可见的服装与饰物结构"
+      ],
+      [
+        "原作动作",
+        "沿用原稿姿态"
+      ]
+    ],
+    "lore": "这件原作以包装配色与纹样为创作线索。人物、服装和姿态为非官方原创设计；本次保留原图，未另写虚构经历。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-93985",
+      "sku-yanpk-929",
+      "sku-yanpk-213"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028937498",
+      "stickType": "常规",
+      "boxType": "条盒硬盒中支",
+      "sourceDate": "2026-10-14",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-95956",
+    "number": "114",
+    "name": "金圣(青瓷中支)",
+    "brand": "金圣",
+    "provinceId": "jiangxi",
+    "region": "江西",
+    "title": "金圣(青瓷中支) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#ae8c83",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-95956.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-95956-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-95956-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-95956-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-95956-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-95956-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：金圣(青瓷中支)（沿用原资料）",
+      "地域关联：江西；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为中支"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-95956.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "金圣(青瓷中支) · 原资料页",
+        "url": "https://m.yanpk.com/item-95956.html",
+        "accessed": "2026-10-14",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“深青绿金色细卷叶浮雕”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "深青绿金色细卷叶浮雕"
+      ],
+      [
+        "原作服装结构",
+        "沿用原稿可见的服装与饰物结构"
+      ],
+      [
+        "原作动作",
+        "沿用原稿姿态"
+      ]
+    ],
+    "lore": "这件原作以包装配色与纹样为创作线索。人物、服装和姿态为非官方原创设计；本次保留原图，未另写虚构经历。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-94728",
+      "sku-yanpk-929",
+      "sku-yanpk-213"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028133043",
+      "stickType": "中支",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-14",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-93967",
+    "number": "115",
+    "name": "天子(中支)",
+    "brand": "天子",
+    "provinceId": "chongqing",
+    "region": "重庆",
+    "title": "天子(中支) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#a9978c",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-93967.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-93967-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-93967-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-93967-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-93967-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-93967-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：天子(中支)（沿用原资料）",
+      "地域关联：重庆；不代表实物制造地",
+      "包装类型：条盒硬盒中支；来源规格标记为中支"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-93967.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "天子(中支) · 原资料页",
+        "url": "https://m.yanpk.com/item-93967.html",
+        "accessed": "2026-10-14",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“金黄同色龙形抽象卷纹”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "金黄同色龙形抽象卷纹"
+      ],
+      [
+        "原作服装结构",
+        "沿用原稿可见的服装与饰物结构"
+      ],
+      [
+        "原作动作",
+        "沿用原稿姿态"
+      ]
+    ],
+    "lore": "这件原作以包装配色与纹样为创作线索。人物、服装和姿态为非官方原创设计；本次保留原图，未另写虚构经历。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-112044",
+      "sku-yanpk-929",
+      "sku-yanpk-213"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028229067",
+      "stickType": "中支",
+      "boxType": "条盒硬盒中支",
+      "sourceDate": "2026-10-14",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-112044",
+    "number": "116",
+    "name": "天子(千里江山青绿中支)",
+    "brand": "天子",
+    "provinceId": "chongqing",
+    "region": "重庆",
+    "title": "天子(千里江山青绿中支) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#a9978c",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-112044.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-112044-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-112044-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-112044-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-112044-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-112044-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：天子(千里江山青绿中支)（沿用原资料）",
+      "地域关联：重庆；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为中支"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-112044.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "天子(千里江山青绿中支) · 原资料页",
+        "url": "https://m.yanpk.com/item-112044.html",
+        "accessed": "2026-10-14",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“浅蓝米金、青绿山水与圆月”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "浅蓝米金、青绿山水与圆月"
+      ],
+      [
+        "原作服装结构",
+        "沿用原稿可见的服装与饰物结构"
+      ],
+      [
+        "原作动作",
+        "沿用原稿姿态"
+      ]
+    ],
+    "lore": "这件原作以包装配色与纹样为创作线索。人物、服装和姿态为非官方原创设计；本次保留原图，未另写虚构经历。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-93967",
+      "sku-yanpk-929",
+      "sku-yanpk-213"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028229784",
+      "stickType": "中支",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-14",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-94032",
+    "number": "117",
+    "name": "紫气东来(汾清香)",
+    "brand": "紫气东来",
+    "provinceId": "shanxi",
+    "region": "山西",
+    "title": "紫气东来(汾清香) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#a99989",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-94032.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-94032-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-94032-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-94032-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-94032-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-94032-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：紫气东来(汾清香)（沿用原资料）",
+      "地域关联：山西；不代表实物制造地",
+      "包装类型：条盒硬盒细支；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-94032.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "紫气东来(汾清香) · 原资料页",
+        "url": "https://m.yanpk.com/item-94032.html",
+        "accessed": "2026-10-14",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“纸白浅金、紫色细线花枝”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "纸白浅金、紫色细线花枝"
+      ],
+      [
+        "原作服装结构",
+        "沿用原稿可见的服装与饰物结构"
+      ],
+      [
+        "原作动作",
+        "沿用原稿姿态"
+      ]
+    ],
+    "lore": "这件原作以包装配色与纹样为创作线索。人物、服装和姿态为非官方原创设计；本次保留原图，未另写虚构经历。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-5755",
+      "sku-yanpk-929",
+      "sku-yanpk-213"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028203586",
+      "stickType": "常规",
+      "boxType": "条盒硬盒细支",
+      "sourceDate": "2026-10-14",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-5755",
+    "number": "118",
+    "name": "紫气东来(祥瑞)",
+    "brand": "紫气东来",
+    "provinceId": "shanxi",
+    "region": "山西",
+    "title": "紫气东来(祥瑞) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#a99989",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-5755.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-5755-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-5755-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-5755-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-5755-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-5755-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：紫气东来(祥瑞)（沿用原资料）",
+      "地域关联：山西；不代表实物制造地",
+      "包装类型：条盒硬盒细支；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-5755.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "紫气东来(祥瑞) · 原资料页",
+        "url": "https://m.yanpk.com/item-5755.html",
+        "accessed": "2026-10-14",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“银白紫金祥云斜向卷纹”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "银白紫金祥云斜向卷纹"
+      ],
+      [
+        "原作服装结构",
+        "沿用原稿可见的服装与饰物结构"
+      ],
+      [
+        "原作动作",
+        "沿用原稿姿态"
+      ]
+    ],
+    "lore": "这件原作以包装配色与纹样为创作线索。人物、服装和姿态为非官方原创设计；本次保留原图，未另写虚构经历。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-94032",
+      "sku-yanpk-929",
+      "sku-yanpk-213"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028203968",
+      "stickType": "常规",
+      "boxType": "条盒硬盒细支",
+      "sourceDate": "2026-10-14",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-93814",
+    "number": "119",
+    "name": "雪莲(细支1960)",
+    "brand": "雪莲",
+    "provinceId": "xinjiang",
+    "region": "新疆",
+    "title": "雪莲(细支1960) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#b0a18a",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-93814.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-93814-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-93814-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-93814-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-93814-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-93814-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：雪莲(细支1960)（沿用原资料）",
+      "地域关联：新疆；不代表实物制造地",
+      "包装类型：条盒硬盒细支；来源规格标记为细支"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-93814.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "雪莲(细支1960) · 原资料页",
+        "url": "https://m.yanpk.com/item-93814.html",
+        "accessed": "2026-10-14",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“朱红金边、绿叶白莲花”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "朱红金边、绿叶白莲花"
+      ],
+      [
+        "原作服装结构",
+        "沿用原稿可见的服装与饰物结构"
+      ],
+      [
+        "原作动作",
+        "沿用原稿姿态"
+      ]
+    ],
+    "lore": "这件原作以包装配色与纹样为创作线索。人物、服装和姿态为非官方原创设计；本次保留原图，未另写虚构经历。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-92590",
+      "sku-yanpk-929",
+      "sku-yanpk-213"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028340816",
+      "stickType": "细支",
+      "boxType": "条盒硬盒细支",
+      "sourceDate": "2026-10-14",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-94056",
+    "number": "120",
+    "name": "三沙(中支)",
+    "brand": "三沙",
+    "provinceId": "hainan",
+    "region": "海南",
+    "title": "三沙(中支) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#87a6a0",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-94056.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-94056-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-94056-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-94056-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-94056-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-94056-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：三沙(中支)（沿用原资料）",
+      "地域关联：海南；不代表实物制造地",
+      "包装类型：条盒硬盒中支；来源规格标记为中支"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-94056.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "三沙(中支) · 原资料页",
+        "url": "https://m.yanpk.com/item-94056.html",
+        "accessed": "2026-10-14",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“浅米金与金色细线、龟背几何纹”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "浅米金与金色细线、龟背几何纹"
+      ],
+      [
+        "原作服装结构",
+        "沿用原稿可见的服装与饰物结构"
+      ],
+      [
+        "原作动作",
+        "沿用原稿姿态"
+      ]
+    ],
+    "lore": "这件原作以包装配色与纹样为创作线索。人物、服装和姿态为非官方原创设计；本次保留原图，未另写虚构经历。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-94039",
+      "sku-yanpk-929",
+      "sku-yanpk-213"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "6901028020428",
+      "stickType": "中支",
+      "boxType": "条盒硬盒中支",
+      "sourceDate": "2026-10-14",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-1842",
+    "number": "121",
+    "name": "长寿(尊爵7号)",
+    "brand": "长寿",
+    "provinceId": "taiwan",
+    "region": "台湾",
+    "title": "长寿(尊爵7号) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#93a9a1",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-1842.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-1842-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-1842-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-1842-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-1842-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-1842-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：长寿(尊爵7号)（沿用原资料）",
+      "地域关联：台湾；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-1842.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "长寿(尊爵7号) · 原资料页",
+        "url": "https://m.yanpk.com/item-1842.html",
+        "accessed": "2026-10-14",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“银灰彩虹细弧线、紫色点缀”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "银灰彩虹细弧线、紫色点缀"
+      ],
+      [
+        "原作服装结构",
+        "沿用原稿可见的服装与饰物结构"
+      ],
+      [
+        "原作动作",
+        "沿用原稿姿态"
+      ]
+    ],
+    "lore": "这件原作以包装配色与纹样为创作线索。人物、服装和姿态为非官方原创设计；本次保留原图，未另写虚构经历。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-1843",
+      "sku-yanpk-929",
+      "sku-yanpk-213"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "4711588130701",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-14",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-1843",
+    "number": "122",
+    "name": "长寿(尊爵10号)",
+    "brand": "长寿",
+    "provinceId": "taiwan",
+    "region": "台湾",
+    "title": "长寿(尊爵10号) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#93a9a1",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-1843.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-1843-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-1843-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-1843-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-1843-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-1843-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：长寿(尊爵10号)（沿用原资料）",
+      "地域关联：台湾；不代表实物制造地",
+      "包装类型：条盒硬盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-1843.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "长寿(尊爵10号) · 原资料页",
+        "url": "https://m.yanpk.com/item-1843.html",
+        "accessed": "2026-10-14",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“深蓝银边、红黄蓝斜向光带”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "深蓝银边、红黄蓝斜向光带"
+      ],
+      [
+        "原作服装结构",
+        "沿用原稿可见的服装与饰物结构"
+      ],
+      [
+        "原作动作",
+        "沿用原稿姿态"
+      ]
+    ],
+    "lore": "这件原作以包装配色与纹样为创作线索。人物、服装和姿态为非官方原创设计；本次保留原图，未另写虚构经历。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-1842",
+      "sku-yanpk-929",
+      "sku-yanpk-213"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "4711588115210",
+      "stickType": "常规",
+      "boxType": "条盒硬盒",
+      "sourceDate": "2026-10-14",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-1829",
+    "number": "123",
+    "name": "红双喜南洋(软)",
+    "brand": "南洋红双喜",
+    "provinceId": "xianggang",
+    "region": "香港",
+    "title": "红双喜南洋(软) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#a99091",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-1829.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-1829-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-1829-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-1829-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-1829-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-1829-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：红双喜南洋(软)（沿用原资料）",
+      "地域关联：香港；不代表实物制造地",
+      "包装类型：条盒软盒；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-1829.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "红双喜南洋(软) · 原资料页",
+        "url": "https://m.yanpk.com/item-1829.html",
+        "accessed": "2026-10-14",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“古铜金、朱红双层几何结”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "古铜金、朱红双层几何结"
+      ],
+      [
+        "原作服装结构",
+        "沿用原稿可见的服装与饰物结构"
+      ],
+      [
+        "原作动作",
+        "沿用原稿姿态"
+      ]
+    ],
+    "lore": "这件原作以包装配色与纹样为创作线索。人物、服装和姿态为非官方原创设计；本次保留原图，未另写虚构经历。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-94213",
+      "sku-yanpk-929",
+      "sku-yanpk-213"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "4891132011103",
+      "stickType": "常规",
+      "boxType": "条盒软盒",
+      "sourceDate": "2026-10-14",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-yanpk-94213",
+    "number": "124",
+    "name": "红双喜(南洋1905)",
+    "brand": "南洋红双喜",
+    "provinceId": "xianggang",
+    "region": "香港",
+    "title": "红双喜(南洋1905) · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#a99091",
+    "packFront": "assets/packs/sku-current-20261013/sku-yanpk-94213.jpg",
+    "portrait": "assets/characters/sku-current-20261013/sku-yanpk-94213-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-yanpk-94213-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-yanpk-94213-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-yanpk-94213-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-yanpk-94213-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：红双喜(南洋1905)（沿用原资料）",
+      "地域关联：香港；不代表实物制造地",
+      "包装类型：条盒硬盒细支；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-yanpk-94213.jpg",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "红双喜(南洋1905) · 原资料页",
+        "url": "https://m.yanpk.com/item-94213.html",
+        "accessed": "2026-10-14",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“米褐复古暗红建筑线与卷叶边”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "米褐复古暗红建筑线与卷叶边"
+      ],
+      [
+        "原作服装结构",
+        "沿用原稿可见的服装与饰物结构"
+      ],
+      [
+        "原作动作",
+        "沿用原稿姿态"
+      ]
+    ],
+    "lore": "这件原作以包装配色与纹样为创作线索。人物、服装和姿态为非官方原创设计；本次保留原图，未另写虚构经历。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-yanpk-1829",
+      "sku-yanpk-929",
+      "sku-yanpk-213"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": "4891132580012",
+      "stickType": "常规",
+      "boxType": "条盒硬盒细支",
+      "sourceDate": "2026-10-14",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-winning-59",
+    "number": "125",
+    "name": "WINNING · GOLDEN WINTERSWEET",
+    "brand": "WINNING",
+    "provinceId": "aomen",
+    "region": "澳门",
+    "title": "WINNING · GOLDEN WINTERSWEET · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#a89984",
+    "packFront": "assets/packs/sku-current-20261013/sku-winning-59.png",
+    "portrait": "assets/characters/sku-current-20261013/sku-winning-59-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-winning-59-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-winning-59-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-winning-59-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-winning-59-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：WINNING · GOLDEN WINTERSWEET（沿用原资料）",
+      "地域关联：澳门；不代表实物制造地",
+      "包装类型：资料未列出；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-winning-59.png",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "WINNING · GOLDEN WINTERSWEET · 原资料页",
+        "url": "https://www.winningmacau.co/index.php?route=product/product&product_id=59",
+        "accessed": "2026-10-14",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“金黄黄铜、细密菱形压纹与梅枝”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "金黄黄铜、细密菱形压纹与梅枝"
+      ],
+      [
+        "原作服装结构",
+        "沿用原稿可见的服装与饰物结构"
+      ],
+      [
+        "原作动作",
+        "沿用原稿姿态"
+      ]
+    ],
+    "lore": "这件原作以包装配色与纹样为创作线索。人物、服装和姿态为非官方原创设计；本次保留原图，未另写虚构经历。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-winning-60",
+      "sku-yanpk-929",
+      "sku-yanpk-213"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": null,
+      "stickType": "常规",
+      "boxType": "资料未列出",
+      "sourceDate": "2026-10-14",
+      "certainty": "source-claim"
+    }
+  },
+  {
+    "id": "sku-winning-60",
+    "number": "126",
+    "name": "WINNING · MAGNIFICENT",
+    "brand": "WINNING",
+    "provinceId": "aomen",
+    "region": "澳门",
+    "title": "WINNING · MAGNIFICENT · 原作档案",
+    "theme": "原作档案",
+    "themes": [
+      "原作档案"
+    ],
+    "color": "#a89984",
+    "packFront": "assets/packs/sku-current-20261013/sku-winning-60.png",
+    "portrait": "assets/characters/sku-current-20261013/sku-winning-60-v1.webp",
+    "preview": "assets/characters/sku-current-20261013/sku-winning-60-v1-thumb.webp",
+    "v1Portrait": "assets/characters/sku-current-20261013/sku-winning-60-v1.webp",
+    "v1Preview": "assets/characters/sku-current-20261013/sku-winning-60-v1-thumb.webp",
+    "nativeArt": "assets/characters/sku-current-20261013/sku-winning-60-v1.png",
+    "artVersion": "v1",
+    "archiveImport": true,
+    "observations": [
+      "规格名称：WINNING · MAGNIFICENT（沿用原资料）",
+      "地域关联：澳门；不代表实物制造地",
+      "包装类型：资料未列出；来源规格标记为常规"
+    ],
+    "observationEvidence": {
+      "localPath": "dist/assets/packs/sku-current-20261013/sku-winning-60.png",
+      "reviewed": null,
+      "method": "旧版档案迁入；非本轮新增的包装目视结论"
+    },
+    "sourceReferences": [
+      {
+        "title": "WINNING · MAGNIFICENT · 原资料页",
+        "url": "https://www.winningmacau.co/index.php?route=product/product&product_id=60",
+        "accessed": "2026-10-14",
+        "certainty": "source-claim-not-independently-verified"
+      }
+    ],
+    "reading": "旧版创作记录中的视觉线索为“紫红金色细框、朱红印章式几何纹”。这里保留原有图像与设计札记，便于从包装配色和纹样继续阅读。此记录尚未重新逐项考证，不作为品牌历史或官方设计解释。",
+    "type": "原有角色立绘",
+    "alternative": null,
+    "translations": [
+      [
+        "旧版视觉笔记",
+        "紫红金色细框、朱红印章式几何纹"
+      ],
+      [
+        "原作服装结构",
+        "沿用原稿可见的服装与饰物结构"
+      ],
+      [
+        "原作动作",
+        "沿用原稿姿态"
+      ]
+    ],
+    "lore": "这件原作以包装配色与纹样为创作线索。人物、服装和姿态为非官方原创设计；本次保留原图，未另写虚构经历。",
+    "loreKind": "original-design-note",
+    "characterStatus": "原有立绘 · 保留原作",
+    "folkSayings": [],
+    "relatedIds": [
+      "sku-winning-59",
+      "sku-yanpk-929",
+      "sku-yanpk-213"
+    ],
+    "packagingVersion": null,
+    "imageRights": {
+      "status": "permission-unconfirmed",
+      "publicReplacementAllowed": false
+    },
+    "imageResolution": {
+      "status": "source-thumbnail-not-HD",
+      "hdVerified": false
+    },
+    "brandHistory": {
+      "status": "not-independently-verified",
+      "note": "来源声明尚未独立核验"
+    },
+    "culturalContext": [],
+    "votes": {
+      "status": "not-open",
+      "count": null
+    },
+    "sourceSpecs": {
+      "barcode": null,
+      "stickType": "常规",
+      "boxType": "资料未列出",
+      "sourceDate": "2026-10-14",
+      "certainty": "source-claim"
+    }
+  }
+];
+window.v2Regions = [
+  {
+    "id": "beijing",
+    "name": "北京",
+    "en": "BEIJING",
+    "abbr": "京",
+    "mapName": "Beijing Municipality",
+    "color": "#b79a79",
+    "dark": "#4b4138",
+    "index": "01"
+  },
+  {
+    "id": "tianjin",
+    "name": "天津",
+    "en": "TIANJIN",
+    "abbr": "津",
+    "mapName": "Tianjin Municipality",
+    "color": "#9eabb5",
+    "dark": "#3a4a55",
+    "index": "02"
+  },
+  {
+    "id": "hebei",
+    "name": "河北",
+    "en": "HEBEI",
+    "abbr": "冀",
+    "mapName": "Hebei Province",
+    "color": "#b29b8c",
+    "dark": "#51433c",
+    "index": "03"
+  },
+  {
+    "id": "shanxi",
+    "name": "山西",
+    "en": "SHANXI",
+    "abbr": "晋",
+    "mapName": "Shanxi Province",
+    "color": "#a99989",
+    "dark": "#4a4441",
+    "index": "04"
+  },
+  {
+    "id": "neimenggu",
+    "name": "内蒙古",
+    "en": "INNER MONGOLIA",
+    "abbr": "蒙",
+    "mapName": "Inner Mongolia Autonomous Region",
+    "color": "#a1ad91",
+    "dark": "#414d40",
+    "index": "05"
+  },
+  {
+    "id": "liaoning",
+    "name": "辽宁",
+    "en": "LIAONING",
+    "abbr": "辽",
+    "mapName": "Liaoning Province",
+    "color": "#a3a7aa",
+    "dark": "#43494b",
+    "index": "06"
+  },
+  {
+    "id": "jilin",
+    "name": "吉林",
+    "en": "JILIN",
+    "abbr": "吉",
+    "mapName": "Jilin Province",
+    "color": "#9eafa6",
+    "dark": "#3d4b49",
+    "index": "07"
+  },
+  {
+    "id": "heilongjiang",
+    "name": "黑龙江",
+    "en": "HEILONGJIANG",
+    "abbr": "黑",
+    "mapName": "Heilongjiang Province",
+    "color": "#a2a8ad",
+    "dark": "#3e4750",
+    "index": "08"
+  },
+  {
+    "id": "shanghai",
+    "name": "上海",
+    "en": "SHANGHAI",
+    "index": "09",
+    "place": "海上旧梦",
+    "lead": "老商标、石库门与现代街景，在一座城市里叠成不同年代。",
+    "color": "#c94f48",
+    "dark": "#6d302f",
+    "motif": "窗棂 · 牡丹",
+    "abbr": "沪",
+    "mapName": "Shanghai Municipality"
+  },
+  {
+    "id": "jiangsu",
+    "name": "江苏",
+    "en": "JIANGSU",
+    "index": "10",
+    "place": "金陵水岸",
+    "lead": "江南水线与金陵城廓，形成克制的红、墨、金色层次。",
+    "color": "#c27c52",
+    "dark": "#604032",
+    "motif": "城墙 · 苏绣",
+    "abbr": "苏",
+    "mapName": "Jiangsu Province"
+  },
+  {
+    "id": "zhejiang",
+    "name": "浙江",
+    "en": "ZHEJIANG",
+    "index": "11",
+    "place": "钱塘潮声",
+    "lead": "潮汐、古桥与山海之间，浙江篇使用更轻快的线条。",
+    "color": "#7c8a78",
+    "dark": "#35433d",
+    "motif": "潮线 · 飞翼",
+    "abbr": "浙",
+    "mapName": "Zhejiang Province"
+  },
+  {
+    "id": "anhui",
+    "name": "安徽",
+    "en": "ANHUI",
+    "abbr": "皖",
+    "mapName": "Anhui Province",
+    "color": "#b59b66",
+    "dark": "#534833",
+    "index": "12",
+    "place": "徽州山水",
+    "lead": "山峰、窗棂与纸墨，把安徽篇写成一幅静静展开的山水卷。",
+    "motif": "黄山 · 徽窗"
+  },
+  {
+    "id": "fujian",
+    "name": "福建",
+    "en": "FUJIAN",
+    "abbr": "闽",
+    "mapName": "Fujian Province",
+    "color": "#7b9ab1",
+    "dark": "#32495c",
+    "index": "13",
+    "place": "闽地潮声",
+    "lead": "燕尾脊与海潮纹相遇，福建篇从山海之间的建筑记忆展开。",
+    "motif": "燕尾脊 · 潮纹"
+  },
+  {
+    "id": "jiangxi",
+    "name": "江西",
+    "en": "JIANGXI",
+    "abbr": "赣",
+    "mapName": "Jiangxi Province",
+    "color": "#ae8c83",
+    "dark": "#543e3b",
+    "index": "14"
+  },
+  {
+    "id": "shandong",
+    "name": "山东",
+    "en": "SHANDONG",
+    "abbr": "鲁",
+    "mapName": "Shandong Province",
+    "color": "#91a5af",
+    "dark": "#3d4d58",
+    "index": "15",
+    "place": "岱岳云阶",
+    "lead": "山脊、碑刻与石阶，构成山东篇沉稳的青灰与古金层次。",
+    "motif": "山岳 · 碑刻"
+  },
+  {
+    "id": "henan",
+    "name": "河南",
+    "en": "HENAN",
+    "abbr": "豫",
+    "mapName": "Henan Province",
+    "color": "#b5a186",
+    "dark": "#554839",
+    "index": "16"
+  },
+  {
+    "id": "hubei",
+    "name": "湖北",
+    "en": "HUBEI",
+    "index": "17",
+    "place": "江城旧影",
+    "lead": "楼阁、江水与近代工业记忆，在武汉的城市层次里彼此交叠。",
+    "color": "#c5a16f",
+    "dark": "#5b4936",
+    "motif": "楼阁 · 龙纹",
+    "abbr": "鄂",
+    "mapName": "Hubei Province"
+  },
+  {
+    "id": "hunan",
+    "name": "湖南",
+    "en": "HUNAN",
+    "index": "18",
+    "place": "湘水与湖",
+    "lead": "芙蓉、白沙与湘江水纹，是湖南篇里最鲜明的两组符号。",
+    "color": "#b9a077",
+    "dark": "#58483d",
+    "motif": "芙蓉 · 鹤羽",
+    "abbr": "湘",
+    "mapName": "Hunan Province"
+  },
+  {
+    "id": "guangdong",
+    "name": "广东",
+    "en": "GUANGDONG",
+    "abbr": "粤",
+    "mapName": "Guangzhou Province",
+    "color": "#9aa9a3",
+    "dark": "#43514e",
+    "index": "19"
+  },
+  {
+    "id": "guangxi",
+    "name": "广西",
+    "en": "GUANGXI",
+    "abbr": "桂",
+    "mapName": "Guangxi Zhuang Autonomous Region",
+    "color": "#a7a893",
+    "dark": "#4b5043",
+    "index": "20"
+  },
+  {
+    "id": "hainan",
+    "name": "海南",
+    "en": "HAINAN",
+    "abbr": "琼",
+    "mapName": "Hainan Province",
+    "color": "#87a6a0",
+    "dark": "#3d5550",
+    "index": "21"
+  },
+  {
+    "id": "chongqing",
+    "name": "重庆",
+    "en": "CHONGQING",
+    "abbr": "渝",
+    "mapName": "Chongqing Municipality",
+    "color": "#a9978c",
+    "dark": "#514039",
+    "index": "22"
+  },
+  {
+    "id": "sichuan",
+    "name": "四川",
+    "en": "SICHUAN",
+    "abbr": "川",
+    "mapName": "Sichuan Province",
+    "color": "#819786",
+    "dark": "#304339",
+    "index": "23",
+    "place": "蜀地竹影",
+    "lead": "竹林与蜀锦，在深青色的档案里留下细密的线条。",
+    "motif": "竹叶 · 蜀锦"
+  },
+  {
+    "id": "guizhou",
+    "name": "贵州",
+    "en": "GUIZHOU",
+    "abbr": "黔",
+    "mapName": "Guizhou Province",
+    "color": "#9aa595",
+    "dark": "#3f4d45",
+    "index": "24"
+  },
+  {
+    "id": "yunnan",
+    "name": "云南",
+    "en": "YUNNAN",
+    "index": "25",
+    "place": "云岭山岚",
+    "lead": "高原、茶马古道与层叠山色，为这一卷定下青绿与赭金的基调。",
+    "color": "#9e3034",
+    "dark": "#4c262c",
+    "motif": "山峦 · 云纹",
+    "abbr": "滇",
+    "mapName": "Yunnan Province"
+  },
+  {
+    "id": "xizang",
+    "name": "西藏",
+    "en": "XIZANG",
+    "abbr": "藏",
+    "mapName": "Tibet Autonomous Region",
+    "color": "#a8a2a2",
+    "dark": "#4b474c",
+    "index": "26"
+  },
+  {
+    "id": "shaanxi",
+    "name": "陕西",
+    "en": "SHAANXI",
+    "abbr": "陕",
+    "mapName": "Shaanxi Province",
+    "color": "#af9980",
+    "dark": "#514336",
+    "index": "27"
+  },
+  {
+    "id": "gansu",
+    "name": "甘肃",
+    "en": "GANSU",
+    "abbr": "甘",
+    "mapName": "Gansu Province",
+    "color": "#ac9d88",
+    "dark": "#50473c",
+    "index": "28"
+  },
+  {
+    "id": "qinghai",
+    "name": "青海",
+    "en": "QINGHAI",
+    "abbr": "青",
+    "mapName": "Qinghai Province",
+    "color": "#9eaeb0",
+    "dark": "#445458",
+    "index": "29"
+  },
+  {
+    "id": "ningxia",
+    "name": "宁夏",
+    "en": "NINGXIA",
+    "abbr": "宁",
+    "mapName": "Ningxia Ningxia Hui Autonomous Region",
+    "color": "#a7a596",
+    "dark": "#4b4d43",
+    "index": "30"
+  },
+  {
+    "id": "xinjiang",
+    "name": "新疆",
+    "en": "XINJIANG",
+    "abbr": "新",
+    "mapName": "Xinjiang Uyghur Autonomous Region",
+    "color": "#b0a18a",
+    "dark": "#514637",
+    "index": "31"
+  },
+  {
+    "id": "taiwan",
+    "name": "台湾",
+    "en": "TAIWAN",
+    "abbr": "台",
+    "mapName": "Taiwan Province",
+    "color": "#93a9a1",
+    "dark": "#3f514b",
+    "index": "32"
+  },
+  {
+    "id": "xianggang",
+    "name": "香港",
+    "en": "HONG KONG",
+    "abbr": "港",
+    "mapName": "Hong Kong Special Administrative Region",
+    "color": "#a99091",
+    "dark": "#503e46",
+    "index": "33"
+  },
+  {
+    "id": "aomen",
+    "name": "澳门",
+    "en": "MACAO",
+    "abbr": "澳",
+    "mapName": "Macau Special Administrative Region",
+    "color": "#a89984",
+    "dark": "#50483c",
+    "index": "34"
   }
 ];

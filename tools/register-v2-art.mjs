@@ -1,4 +1,5 @@
 import fs from 'node:fs';import path from 'node:path';import {createRequire} from 'node:module';import crypto from 'node:crypto';
+if(fs.existsSync('data/2.0/art-freeze.json')&&!JSON.parse(fs.readFileSync('data/2.0/art-freeze.json')).generationAllowed)throw Error('Artwork generation and replacement frozen by user; retain existing images.');
 const require=createRequire('C:/Users/HONOR/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/_entry.js'),sharp=require('sharp');
 const index=Number(process.argv[2]),source=process.argv[3],jobs=JSON.parse(fs.readFileSync('data/2.0/character-art-jobs.json')),job=jobs[index];if(!job||!fs.existsSync(source))throw Error('Invalid art registration');
 const dest=`site-v2/assets/characters/v2/${job.id}-v2.png`;if(fs.existsSync(dest))throw Error('Do not overwrite an existing art version');

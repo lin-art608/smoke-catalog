@@ -1,0 +1,2528 @@
+{
+  "reason": "2026-10-15 用户要求已完成不再替换、未完成全部沿用原立绘",
+  "generationAllowed": false,
+  "items": [
+    {
+      "id": "sku-yanpk-929",
+      "version": "v2",
+      "nativePath": "site-v2/assets/characters/v2/sku-yanpk-929-v2.png",
+      "sha256": "d7f2027ffacefe5d4719a239b8e6fb2da0910aec7d9e991c252be90ddf0c251c",
+      "portrait": "v2:assets/characters/v2/sku-yanpk-929-v2.webp",
+      "preview": "v2:assets/characters/v2/sku-yanpk-929-v2-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-213",
+      "version": "v2",
+      "nativePath": "site-v2/assets/characters/v2/sku-yanpk-213-v2.png",
+      "sha256": "324e2dbe92cdf28478fad412badf0912f1f9e26adbd08ec44fd3e0755bbda227",
+      "portrait": "v2:assets/characters/v2/sku-yanpk-213-v2.webp",
+      "preview": "v2:assets/characters/v2/sku-yanpk-213-v2-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-661",
+      "version": "v2",
+      "nativePath": "site-v2/assets/characters/v2/sku-yanpk-661-v2.png",
+      "sha256": "a4dd32148f2ac85bccdd30ff4b742c89a3e1e5de2732bdc3a3fb113a7cc2ff50",
+      "portrait": "v2:assets/characters/v2/sku-yanpk-661-v2.webp",
+      "preview": "v2:assets/characters/v2/sku-yanpk-661-v2-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-5611",
+      "version": "v2",
+      "nativePath": "site-v2/assets/characters/v2/sku-yanpk-5611-v2.png",
+      "sha256": "a1dbf461ea77b6445a0007d731166880305f49b429df73762d632ed1053ebb54",
+      "portrait": "v2:assets/characters/v2/sku-yanpk-5611-v2.webp",
+      "preview": "v2:assets/characters/v2/sku-yanpk-5611-v2-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-93273",
+      "version": "v2",
+      "nativePath": "site-v2/assets/characters/v2/sku-yanpk-93273-v2.png",
+      "sha256": "f8e82f4d65a48e71a1f545cc794ef6afa78a7e2a91b6ebcded2c8fad3506cf6e",
+      "portrait": "v2:assets/characters/v2/sku-yanpk-93273-v2.webp",
+      "preview": "v2:assets/characters/v2/sku-yanpk-93273-v2-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-1483",
+      "version": "v2",
+      "nativePath": "site-v2/assets/characters/v2/sku-yanpk-1483-v2.png",
+      "sha256": "d0ad0d288ab231c79874c0ec9dca2e5b71412ba2f19c923f978b4021a2411b71",
+      "portrait": "v2:assets/characters/v2/sku-yanpk-1483-v2.webp",
+      "preview": "v2:assets/characters/v2/sku-yanpk-1483-v2-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-139",
+      "version": "v2",
+      "nativePath": "site-v2/assets/characters/v2/sku-yanpk-139-v2.png",
+      "sha256": "4147ecd34b7a4a9e620ef8a5d2be9e96560681a30f04baf853917037147bf7f1",
+      "portrait": "v2:assets/characters/v2/sku-yanpk-139-v2.webp",
+      "preview": "v2:assets/characters/v2/sku-yanpk-139-v2-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-13",
+      "version": "v2",
+      "nativePath": "site-v2/assets/characters/v2/sku-yanpk-13-v2.png",
+      "sha256": "192a4f52223575ccc5c0215b3df01cc05e7d2a85ce13fdf0ac889b97fdf163a2",
+      "portrait": "v2:assets/characters/v2/sku-yanpk-13-v2.webp",
+      "preview": "v2:assets/characters/v2/sku-yanpk-13-v2-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-1101",
+      "version": "v2",
+      "nativePath": "site-v2/assets/characters/v2/sku-yanpk-1101-v2.png",
+      "sha256": "9edb2aede2c9d54add268a7acc68b24a8f94da30f18aa2a8010dc82b0137d2ec",
+      "portrait": "v2:assets/characters/v2/sku-yanpk-1101-v2.webp",
+      "preview": "v2:assets/characters/v2/sku-yanpk-1101-v2-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-2501",
+      "version": "v2",
+      "nativePath": "site-v2/assets/characters/v2/sku-yanpk-2501-v2.png",
+      "sha256": "e308300ca49c845855ba0158ee25360f4a49ad987912af8278cc84c2cf430725",
+      "portrait": "v2:assets/characters/v2/sku-yanpk-2501-v2.webp",
+      "preview": "v2:assets/characters/v2/sku-yanpk-2501-v2-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-469",
+      "version": "v2",
+      "nativePath": "site-v2/assets/characters/v2/sku-yanpk-469-v2.png",
+      "sha256": "265d6e33f1f50d32f1364ee24cb26da3b12af20b2a51ec78516f2993beb79ecd",
+      "portrait": "v2:assets/characters/v2/sku-yanpk-469-v2.webp",
+      "preview": "v2:assets/characters/v2/sku-yanpk-469-v2-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-2273",
+      "version": "v2",
+      "nativePath": "site-v2/assets/characters/v2/sku-yanpk-2273-v2.png",
+      "sha256": "98e54f4ca1539960b26d4174994f3e650e7f02351257abaf09898be2c8c421c5",
+      "portrait": "v2:assets/characters/v2/sku-yanpk-2273-v2.webp",
+      "preview": "v2:assets/characters/v2/sku-yanpk-2273-v2-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-1690",
+      "version": "v2",
+      "nativePath": "site-v2/assets/characters/v2/sku-yanpk-1690-v2.png",
+      "sha256": "63f83ab607b8e3b8e6a56ef38899286e5b19c244a67d5f534d73aaaa9b87494d",
+      "portrait": "v2:assets/characters/v2/sku-yanpk-1690-v2.webp",
+      "preview": "v2:assets/characters/v2/sku-yanpk-1690-v2-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-1181",
+      "version": "v2",
+      "nativePath": "site-v2/assets/characters/v2/sku-yanpk-1181-v2.png",
+      "sha256": "10ca1a926e29baa5cc27ce77726e51062f9ce5e9ba2791ab692604e3531522c0",
+      "portrait": "v2:assets/characters/v2/sku-yanpk-1181-v2.webp",
+      "preview": "v2:assets/characters/v2/sku-yanpk-1181-v2-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-3",
+      "version": "v2",
+      "nativePath": "site-v2/assets/characters/v2/sku-yanpk-3-v2.png",
+      "sha256": "177f0032548376581f1fca21acf068e8b7efe833c426df04a00bf5be118e3b5b",
+      "portrait": "v2:assets/characters/v2/sku-yanpk-3-v2.webp",
+      "preview": "v2:assets/characters/v2/sku-yanpk-3-v2-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-851",
+      "version": "v2",
+      "nativePath": "site-v2/assets/characters/v2/sku-yanpk-851-v2.png",
+      "sha256": "df2edb49df9fc4347ac17ad6a60c99c42f500071cb0efa766b12ea4d17486353",
+      "portrait": "v2:assets/characters/v2/sku-yanpk-851-v2.webp",
+      "preview": "v2:assets/characters/v2/sku-yanpk-851-v2-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-94728",
+      "version": "v2",
+      "nativePath": "site-v2/assets/characters/v2/sku-yanpk-94728-v2.png",
+      "sha256": "afe2253a3493a6b278b95602fb083c8678098a7b0002137815ecaf601359f0e8",
+      "portrait": "v2:assets/characters/v2/sku-yanpk-94728-v2.webp",
+      "preview": "v2:assets/characters/v2/sku-yanpk-94728-v2-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-92590",
+      "version": "v2",
+      "nativePath": "site-v2/assets/characters/v2/sku-yanpk-92590-v2.png",
+      "sha256": "a48be6b4409ed312239b1200365e96fae55fa6b37748f5b599399ba9d2abaf27",
+      "portrait": "v2:assets/characters/v2/sku-yanpk-92590-v2.webp",
+      "preview": "v2:assets/characters/v2/sku-yanpk-92590-v2-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-94039",
+      "version": "v2",
+      "nativePath": "site-v2/assets/characters/v2/sku-yanpk-94039-v2.png",
+      "sha256": "ecc212008fb29c52d191a7b33b235298ec92fbbb655ed59a908d76ef77f329f3",
+      "portrait": "v2:assets/characters/v2/sku-yanpk-94039-v2.webp",
+      "preview": "v2:assets/characters/v2/sku-yanpk-94039-v2-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-94061",
+      "version": "v2",
+      "nativePath": "site-v2/assets/characters/v2/sku-yanpk-94061-v2.png",
+      "sha256": "bcd555741bb5e8f2f464c4b8f57eb1d5e09dfc938b9f8befd18a0c445c978d86",
+      "portrait": "v2:assets/characters/v2/sku-yanpk-94061-v2.webp",
+      "preview": "v2:assets/characters/v2/sku-yanpk-94061-v2-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-104364",
+      "version": "v2",
+      "nativePath": "site-v2/assets/characters/v2/sku-yanpk-104364-v2.png",
+      "sha256": "349b5dbf736965a432e8d0ee4e0f2314b0c51f0418040bc358501528dfd6d4c4",
+      "portrait": "v2:assets/characters/v2/sku-yanpk-104364-v2.webp",
+      "preview": "v2:assets/characters/v2/sku-yanpk-104364-v2-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-93483",
+      "version": "v2",
+      "nativePath": "site-v2/assets/characters/v2/sku-yanpk-93483-v2.png",
+      "sha256": "2c7010ee71d32c6280315f2f40d688ea3630b509370ff5c8d1d6a2bee1a129f9",
+      "portrait": "v2:assets/characters/v2/sku-yanpk-93483-v2.webp",
+      "preview": "v2:assets/characters/v2/sku-yanpk-93483-v2-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-92911",
+      "version": "v2",
+      "nativePath": "site-v2/assets/characters/v2/sku-yanpk-92911-v2.png",
+      "sha256": "ed683e89b58b0dca812f9ae868ea8952712b89ac88119a40c03a0ffb45e63fe6",
+      "portrait": "v2:assets/characters/v2/sku-yanpk-92911-v2.webp",
+      "preview": "v2:assets/characters/v2/sku-yanpk-92911-v2-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-94926",
+      "version": "v2",
+      "nativePath": "site-v2/assets/characters/v2/sku-yanpk-94926-v2.png",
+      "sha256": "a16c55d27938e06374c47b96fd4378f09d3671c00cec4c9b3b201dd72227d76b",
+      "portrait": "v2:assets/characters/v2/sku-yanpk-94926-v2.webp",
+      "preview": "v2:assets/characters/v2/sku-yanpk-94926-v2-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-1237",
+      "version": "v2",
+      "nativePath": "site-v2/assets/characters/v2/sku-yanpk-1237-v2.png",
+      "sha256": "649b4072f30ab52d11cdb708070efb647c23a5608cacc288d512d3685b5fbc32",
+      "portrait": "v2:assets/characters/v2/sku-yanpk-1237-v2.webp",
+      "preview": "v2:assets/characters/v2/sku-yanpk-1237-v2-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-1234",
+      "version": "v2",
+      "nativePath": "site-v2/assets/characters/v2/sku-yanpk-1234-v2.png",
+      "sha256": "ff7ac76260c93e6b1c32d9a530a5af4ea53fb00c9ece30f9818f7f0a04759cce",
+      "portrait": "v2:assets/characters/v2/sku-yanpk-1234-v2.webp",
+      "preview": "v2:assets/characters/v2/sku-yanpk-1234-v2-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-92691",
+      "version": "v2",
+      "nativePath": "site-v2/assets/characters/v2/sku-yanpk-92691-v2.png",
+      "sha256": "9a75a6768ea2c6fa9400b2e9e3dcaeedc3954a0626291fda4496cfb6d75b7357",
+      "portrait": "v2:assets/characters/v2/sku-yanpk-92691-v2.webp",
+      "preview": "v2:assets/characters/v2/sku-yanpk-92691-v2-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-93768",
+      "version": "v2",
+      "nativePath": "site-v2/assets/characters/v2/sku-yanpk-93768-v2.png",
+      "sha256": "d3135e611485f1952620b7acdbddf09950c7218bf038d0e166838033e802ac9c",
+      "portrait": "v2:assets/characters/v2/sku-yanpk-93768-v2.webp",
+      "preview": "v2:assets/characters/v2/sku-yanpk-93768-v2-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-93534",
+      "version": "v2",
+      "nativePath": "site-v2/assets/characters/v2/sku-yanpk-93534-v2.png",
+      "sha256": "80a5dde76202291c182ad74ef78cdeb016676770702e4006ddde89d1d5a5705a",
+      "portrait": "v2:assets/characters/v2/sku-yanpk-93534-v2.webp",
+      "preview": "v2:assets/characters/v2/sku-yanpk-93534-v2-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-93798",
+      "version": "v2",
+      "nativePath": "site-v2/assets/characters/v2/sku-yanpk-93798-v2.png",
+      "sha256": "e1bedd4cab029c36742993c1cf51b58b2d89165787f64f206a479fde5e4a020a",
+      "portrait": "v2:assets/characters/v2/sku-yanpk-93798-v2.webp",
+      "preview": "v2:assets/characters/v2/sku-yanpk-93798-v2-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-1233",
+      "version": "v2",
+      "nativePath": "site-v2/assets/characters/v2/sku-yanpk-1233-v2.png",
+      "sha256": "48f85b7fc6b7d23cc306b0d7754b29816c5b250219a105de8105cb8c0d76347c",
+      "portrait": "v2:assets/characters/v2/sku-yanpk-1233-v2.webp",
+      "preview": "v2:assets/characters/v2/sku-yanpk-1233-v2-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-1065",
+      "version": "v2",
+      "nativePath": "site-v2/assets/characters/v2/sku-yanpk-1065-v2.png",
+      "sha256": "94be62d0b14b4e8371cb2c306772d276128d96500ccefcec23c818bd2dcb3626",
+      "portrait": "v2:assets/characters/v2/sku-yanpk-1065-v2.webp",
+      "preview": "v2:assets/characters/v2/sku-yanpk-1065-v2-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-1252",
+      "version": "v2",
+      "nativePath": "site-v2/assets/characters/v2/sku-yanpk-1252-v2.png",
+      "sha256": "07b812d6cb6f0aac172d632c0b35388ab61a0e1b379d1d1a0e93b91e3e83e9fc",
+      "portrait": "v2:assets/characters/v2/sku-yanpk-1252-v2.webp",
+      "preview": "v2:assets/characters/v2/sku-yanpk-1252-v2-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-93336",
+      "version": "v2",
+      "nativePath": "site-v2/assets/characters/v2/sku-yanpk-93336-v2.png",
+      "sha256": "492448078d43b3db1fd5118a27214e44c7ad52e83ce3524b790989de960237b9",
+      "portrait": "v2:assets/characters/v2/sku-yanpk-93336-v2.webp",
+      "preview": "v2:assets/characters/v2/sku-yanpk-93336-v2-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-111388",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-111388-v1.png",
+      "sha256": "0da0a534a9c105b8e4fd009f4d956c12cf2d844f9c28469b7d824990c14a9886",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-111388-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-111388-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-95056",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-95056-v1.png",
+      "sha256": "1ea1297d3ba081fbea27f705028bdbca3f193b08d1c8b7564acb6aa037b107a9",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-95056-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-95056-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-93461",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-93461-v1.png",
+      "sha256": "668c5d26d1fe5b3bad19b85f2d501d9f095be74ad2d02b4483edfa5e9e914088",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-93461-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-93461-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-93722",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-93722-v1.png",
+      "sha256": "75514df3443ab9dec2bd32f9612b2787e13553e62f78060550470ab8a6d9d526",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-93722-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-93722-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-140",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-140-v1.png",
+      "sha256": "8955999e4af4679f2fc45824ca6508cec647d6618f1bec5ee728d5429dc1ea67",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-140-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-140-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-115294",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-115294-v1.png",
+      "sha256": "990fccc0ed9eb40899f4673701b21d6d2cd1edb6ad890f6e09a8fbd3609a4ea0",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-115294-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-115294-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-15",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-15-v1.png",
+      "sha256": "4965aff1a5c90dfa069231c2926be53dd340c07f500af49412fbab5566c2f120",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-15-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-15-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-93487",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-93487-v1.png",
+      "sha256": "3800a63a23d2de9acad2c344f7b88c811d9e5f4ef1aa2d843c5384d40af2d3bd",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-93487-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-93487-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-8",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-8-v1.png",
+      "sha256": "054001729b1fdff9eccb47485fdd55554803d6e82e823a840942a404170696e3",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-8-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-8-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-4",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-4-v1.png",
+      "sha256": "a3135d49d0bceaddf60f0d24c46477398718703be04d569eccccd4b7ef5b90e3",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-4-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-4-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-5729",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-5729-v1.png",
+      "sha256": "0dc12d17e87c796dcbc08bd88e52a9759a71d9d74c51fb8f4b61b5c74a06e1c7",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-5729-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-5729-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-215",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-215-v1.png",
+      "sha256": "65ce19dd9a237fe7897cd12c4733a52153b638d0dbc91121c34f0ba61dc02fbc",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-215-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-215-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-212",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-212-v1.png",
+      "sha256": "335e158a4c3c7ef2cc7f978113cf47b65c768a5e2a6dd87fbf04d55e39480012",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-212-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-212-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-206",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-206-v1.png",
+      "sha256": "a9b1b6c02ee8ddbe76dadb5a87f89b1fac05a8a288d8b3fa56be8c137544cd2f",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-206-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-206-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-92700",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-92700-v1.png",
+      "sha256": "4bdcad37afb044683c5f68bba57fef0eae9b9eb6341487b10eb8c1a3e3683b46",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-92700-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-92700-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-209",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-209-v1.png",
+      "sha256": "fa9b3b9da946373a34c67491f84a74e5843524289a140c7bd661ce5d248d90f0",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-209-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-209-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-1092",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-1092-v1.png",
+      "sha256": "1c512b538a1d74484fd8c11bced00f824ae514324ed965311a945c8cb2defd52",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-1092-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-1092-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-884",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-884-v1.png",
+      "sha256": "15b024a83bb490b83266d1d2c890f0d9d97dbe26c63398d1d0dd6a3cda4269d5",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-884-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-884-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-1107",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-1107-v1.png",
+      "sha256": "145a3e3c79b37360b529de47d02231f73a1a57ab7d1877a0d6a1ade85a8d1e1a",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-1107-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-1107-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-888",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-888-v1.png",
+      "sha256": "6f1c10f904f9391eb25a1aed104600126f1ee7afb19fea9793e66b0cb8a7e6e7",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-888-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-888-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-1146",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-1146-v1.png",
+      "sha256": "ba89d80970760daae4cff7c0a3a625573fb0172054f8044513b2398f06700ed2",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-1146-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-1146-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-95656",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-95656-v1.png",
+      "sha256": "ca135dfa69e46f5cb4c8345df62ef83045f184614d0562ecf6441674f4c3863a",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-95656-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-95656-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-742",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-742-v1.png",
+      "sha256": "11b43155232a710df04ee66dbb2e99d166b7321654c9e1b44c3c8103f6836b85",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-742-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-742-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-744",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-744-v1.png",
+      "sha256": "dd11bd1a0f0fa98ea789a6bd351216d74edb0e76c1ff3bbb0630c1b55e6cf9b3",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-744-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-744-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-662",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-662-v1.png",
+      "sha256": "5f6be0f75222d310ab7f9af7e6046b740dc59b61f518996b9b96e9532a095d80",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-662-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-662-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-659",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-659-v1.png",
+      "sha256": "285c9898d86f472f89052a99e16ff8d75185dff84a67bdaaf681c6ba93873fd7",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-659-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-659-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-93977",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-93977-v1.png",
+      "sha256": "9110b7c76e09efd77440dc41d780bf69729fb41f47f0e11e91343cd0446b8b89",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-93977-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-93977-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-93974",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-93974-v1.png",
+      "sha256": "b054f8941255d6497fb4f85d87ac0073d0b4903c69b41921a78a8bd0eeeb82bb",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-93974-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-93974-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-94924",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-94924-v1.png",
+      "sha256": "d1725f87148d055bff667a5ff6c28cd57ed2f4b2ed290265a18820da1fbc6280",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-94924-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-94924-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-470",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-470-v1.png",
+      "sha256": "351c1657ff79d78e0f4ba3d40ec79f2c3b63a5b6bbc2401c8cc205bdf4773e1e",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-470-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-470-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-92957",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-92957-v1.png",
+      "sha256": "4afaa877d959bf15a959bb7ed1b749f043a5c65ac5d4cecfd111e9a533c946b1",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-92957-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-92957-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-1621",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-1621-v1.png",
+      "sha256": "edc7e3c23c70146e8bbb471a707e7afaa3071d415625eb12d02fa852241b5c28",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-1621-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-1621-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-1623",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-1623-v1.png",
+      "sha256": "c7e210b338230af04fc9e2d9a887c360dcd2e33e9094442b52e6af2e3b0337c0",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-1623-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-1623-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-94071",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-94071-v1.png",
+      "sha256": "45ddf005342770a62d30943bd4f7ce049894d96607702b8ea166f0c4e3157479",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-94071-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-94071-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-248",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-248-v1.png",
+      "sha256": "27f3ce018880ce7eb3ae50d88040f33cb9f4e19cbcd91fb570d31d8e6977d100",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-248-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-248-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-5616",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-5616-v1.png",
+      "sha256": "814951dde16cc4dcea5dcceb001e85909ee72eaabd8a77010320f6e23970f9c2",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-5616-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-5616-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-94086",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-94086-v1.png",
+      "sha256": "feff482d1f854353145baab94d54a9da7f1c57234cdc74fd41663a7f93693309",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-94086-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-94086-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-247",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-247-v1.png",
+      "sha256": "4f268feb9cd9fec219c500f7ac1c0d350d693b3e2255c67b5e6002a2cc4c3bf0",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-247-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-247-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-92894",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-92894-v1.png",
+      "sha256": "9da2e15bba469d99f45d809a653058a97991e14c9b522830e109926e96d274c7",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-92894-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-92894-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-93224",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-93224-v1.png",
+      "sha256": "d999d0db476e951e213ffdd814fd7e8b32124c1ebbb86eb06a982934d13b5477",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-93224-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-93224-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-1699",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-1699-v1.png",
+      "sha256": "7b50c6c8cf64198e44ff69ac1966e2df9abfe18695ad974d4a0239c742f1434f",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-1699-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-1699-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-899",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-899-v1.png",
+      "sha256": "b22d0647cfdb2aa6fe6634593864989620db90b8963676307bf69a123d3686f5",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-899-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-899-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-3033",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-3033-v1.png",
+      "sha256": "224582b1e0f72e7226ae6312deb09bf4452baaf1b60ac64d54603371f2975209",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-3033-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-3033-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-5700",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-5700-v1.png",
+      "sha256": "795c909fb3a25350f6ea3239aeb7cc1b61439fcfa4a5355587d92f18835989dd",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-5700-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-5700-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-295",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-295-v1.png",
+      "sha256": "13d391736cd3b3ff7f081bdbd4c0744173f9a679e58e10b59ebd00d9bfd62a3d",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-295-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-295-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-92751",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-92751-v1.png",
+      "sha256": "cb976c9ae922c1807da44b42a64e0b1070027c1a9b780367c3546e866527473d",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-92751-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-92751-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-290",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-290-v1.png",
+      "sha256": "f93277c303a239349075d74b086c0edd0426932b43bce7b5abf5e638938522af",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-290-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-290-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-92796",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-92796-v1.png",
+      "sha256": "29b2e03e1e29bd71c1f49a86b9bfb27d34f108fabde2370f00c3230d1309f34b",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-92796-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-92796-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-2277",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-2277-v1.png",
+      "sha256": "27f55552c3a774cf6e361f84844972f1a1c1ce9d19924a7862200141a5d0958d",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-2277-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-2277-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-532",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-532-v1.png",
+      "sha256": "6c53dd7ce31946400a279b7216fa1474a3f0090a9867c2ec628b670eee4b145e",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-532-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-532-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-105518",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-105518-v1.png",
+      "sha256": "b1ab4cb075a440d5c66315743ba94cbb5043c507e5065cf4b201a69aa70d4fe5",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-105518-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-105518-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-637",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-637-v1.png",
+      "sha256": "2299c50aef750a615c1671ed0e4803bfbc4e773be5916e58168e8dea6cac1d82",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-637-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-637-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-635",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-635-v1.png",
+      "sha256": "4711b958ba1077ac0c4078ef9f57698f70106ab8bdd94d129e07b47034143f5c",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-635-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-635-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-3165",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-3165-v1.png",
+      "sha256": "0c271bc6277ffbabc70f9fad29f184e7d5fb6675fb4dc9b4bba6ba8271a7e8ab",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-3165-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-3165-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-40",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-40-v1.png",
+      "sha256": "3ae06b1a666eba01a2f9cc8726a7b8a43f6f8527e4dc3ef6891f72252dbc4456",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-40-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-40-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-1311",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-1311-v1.png",
+      "sha256": "e86e63ab7b4e523d5e539568c83c701f6512ae923be7ff08c6bf42c111fce8c0",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-1311-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-1311-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-5693",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-5693-v1.png",
+      "sha256": "b1e3893b35aa0af3ef0a70fb53c6d95dceb9679d6708d09560e698f255d4014f",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-5693-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-5693-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-197",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-197-v1.png",
+      "sha256": "7b23426d670a40dd65dee1f66e3688237ea8dbafffd3281ba39f852171072e25",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-197-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-197-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-189",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-189-v1.png",
+      "sha256": "67e2d763b01bbc95bc5826883c270b47546c3ef342c83b5a7f60e9e1b40b1153",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-189-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-189-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-414",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-414-v1.png",
+      "sha256": "715667bf9ba1416664faf8519b8a7423a6b2ed91f06fe3eae127cda85f6da182",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-414-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-414-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-94945",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-94945-v1.png",
+      "sha256": "f212f4cb47a4b58e91821be353db0ced8959ebedb459340516e343dc36255eab",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-94945-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-94945-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-1177",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-1177-v1.png",
+      "sha256": "cc7049b0c47b3ce4299d1e2f796cf5431dbf52c28dff53544f57fe5d3554ed3e",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-1177-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-1177-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-1148",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-1148-v1.png",
+      "sha256": "d43b7a764615ff335bd37a3a906e5efa049ed2af7fd3fe8fd218dde6f2a5c7f5",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-1148-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-1148-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-1150",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-1150-v1.png",
+      "sha256": "06944b98c7e3b6e2cd2060a58d69054c564f1620a9faafbcf5a8e2e1cfa5aa58",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-1150-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-1150-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-343",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-343-v1.png",
+      "sha256": "892d1e6a8e58e4e33284c2fc4afd0948a4ffaab069d9ace6f499eb8b4cdc6035",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-343-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-343-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-134",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-134-v1.png",
+      "sha256": "02ae45defa090d5ded0da81b18d411ba97594d468a65930f610ac679c7441b77",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-134-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-134-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-333",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-333-v1.png",
+      "sha256": "c0c53c25e74e92bb5943c4102f9c5512940511c705373a2b1faf2ca06f922c90",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-333-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-333-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-1294",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-1294-v1.png",
+      "sha256": "09a9e81a56ee06249d6300fff73a6d409912cd8c7a246642e4aa91cec8841afe",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-1294-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-1294-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-1298",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-1298-v1.png",
+      "sha256": "22ed7ab9c1c142e6b888c658d59f24ea16c373d4e70a3e2cdf010186a19b08ae",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-1298-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-1298-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-95086",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-95086-v1.png",
+      "sha256": "57596d6112ea981072d11babdb63de24f8c1a01464835faeca9fa89ff8c01597",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-95086-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-95086-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-92774",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-92774-v1.png",
+      "sha256": "b91d1a2ee2c59c9513466981b294e1d876588c48d62bc7d0066e1506d9c7ec1d",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-92774-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-92774-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-94012",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-94012-v1.png",
+      "sha256": "d444607f0873df41924124ad6122ffd2e8263ad9ad7653ac8d3819f75b09ec05",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-94012-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-94012-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-94844",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-94844-v1.png",
+      "sha256": "f4aecccddd33cc9d83da207aa03ebab11db7e7255820e89382c333ae7d437d07",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-94844-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-94844-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-94996",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-94996-v1.png",
+      "sha256": "4f74aa4077dcadc1fbcb26f0e5366be63c06427cc81034067f33f4f68b46d776",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-94996-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-94996-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-92934",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-92934-v1.png",
+      "sha256": "cabb0a037708c0a0eed82528b1af800fcdba9acf3a82031e2d1c7eb68bf12d33",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-92934-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-92934-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-95669",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-95669-v1.png",
+      "sha256": "9852914ed41b26d35f74b8023b54645d1d7d67fec4f916a643c64fa8b235e8ff",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-95669-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-95669-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-98973",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-98973-v1.png",
+      "sha256": "5e353f4b17a32e8de542835b7345c12981b4c8a9cf11b199330701db1de8aa68",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-98973-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-98973-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-93985",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-93985-v1.png",
+      "sha256": "9254db64b079f868ac3c6f20fd447f7c01442e8c14156dc5dc4db759e5b82dc8",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-93985-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-93985-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-93726",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-93726-v1.png",
+      "sha256": "80614c8e1f3daf169d77d65005628c3b6dda013e2c7ec6ea7c71881be1d1c305",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-93726-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-93726-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-95956",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-95956-v1.png",
+      "sha256": "847341c299aac890d4b28616e4b20eeaa6fd87042e8ee30101be6cd2d359d480",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-95956-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-95956-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-93967",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-93967-v1.png",
+      "sha256": "2c6513357f60301f98de5deed87557146c03827c24540a534d83d3cad2f1dd41",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-93967-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-93967-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-112044",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-112044-v1.png",
+      "sha256": "427e8b809795a025785f2b25d311d2cdd933873c6bbc2741ad624450b843b9b7",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-112044-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-112044-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-94032",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-94032-v1.png",
+      "sha256": "094cc2291847385404abbf6977e7bcc9afbcc877a7be69adb20cc22cd04fdb54",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-94032-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-94032-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-5755",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-5755-v1.png",
+      "sha256": "34ab0816262629c4755b5de33c048f008d5989493c6a950d56f54bbf32960243",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-5755-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-5755-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-93814",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-93814-v1.png",
+      "sha256": "d17006eee7d558b1514a779812a7e38a9d202e7ebe3782cd95b11c278561fa3a",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-93814-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-93814-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-94056",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-94056-v1.png",
+      "sha256": "4e0c17fa025fc5c60463e633802a7bd30ba85d10cc9ce4c7306ed77bff2c8065",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-94056-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-94056-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-1842",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-1842-v1.png",
+      "sha256": "16b7e072cf4fbbb09876ddc1be317d9188125da6eff9bd0e410dd5d2b6270010",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-1842-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-1842-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-1843",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-1843-v1.png",
+      "sha256": "3d8620b41408fc89d52d40f1ec584540c72b63c8f83f63211cdf1af7a4253f38",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-1843-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-1843-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-1829",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-1829-v1.png",
+      "sha256": "fbed5d2b53baf07b4381c6f9d914396c35dd5f240a9f669b4b48affa60f329b0",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-1829-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-1829-v1-thumb.webp"
+    },
+    {
+      "id": "sku-yanpk-94213",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-yanpk-94213-v1.png",
+      "sha256": "082158bab08369f273c5812fb14e9c3df0989d39d9a38da1d74017533a8bfaf1",
+      "portrait": "assets/characters/sku-current-20261013/sku-yanpk-94213-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-yanpk-94213-v1-thumb.webp"
+    },
+    {
+      "id": "sku-winning-59",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-winning-59-v1.png",
+      "sha256": "9c23d2a14c219c00dae44926d584308a75ab480ce9a370393e1ffcf2947dc3be",
+      "portrait": "assets/characters/sku-current-20261013/sku-winning-59-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-winning-59-v1-thumb.webp"
+    },
+    {
+      "id": "sku-winning-60",
+      "version": "v1",
+      "nativePath": "dist/assets/characters/sku-current-20261013/sku-winning-60-v1.png",
+      "sha256": "fd7131d664fbcff7300ed201a177f3a41f75f052fe7f9b0c0245853f6795e149",
+      "portrait": "assets/characters/sku-current-20261013/sku-winning-60-v1.webp",
+      "preview": "assets/characters/sku-current-20261013/sku-winning-60-v1-thumb.webp"
+    }
+  ],
+  "assets": [
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-929-v2.webp",
+      "sha256": "866b01dbadccf3d0197fb1dfbc5c3598cd1dfa7443370f55b295acd946771698"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-929-v2-thumb.webp",
+      "sha256": "9c673f7f9d31302ea680f1ab6bb6e0d15b3aa151366a45c069e79b4ff6cf3f18"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-929-v2.png",
+      "sha256": "d7f2027ffacefe5d4719a239b8e6fb2da0910aec7d9e991c252be90ddf0c251c"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-213-v2.webp",
+      "sha256": "39f3681d368f78809e19defd26c40eada16a7dd256f56d758882ed427793a7d1"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-213-v2-thumb.webp",
+      "sha256": "f5366d5132e93f544bd57df353b0dedcf2ee881ecb1ab6d1c955879f97e2feb2"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-213-v2.png",
+      "sha256": "324e2dbe92cdf28478fad412badf0912f1f9e26adbd08ec44fd3e0755bbda227"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-661-v2.webp",
+      "sha256": "dbe986681c1e901dd825c7fd0b2a30a7f218f666307fd41e05f91d8b9dda7229"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-661-v2-thumb.webp",
+      "sha256": "12286b4843719083ce69f39670908e74920488f75080597cd1f45bc760f2f5cf"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-661-v2.png",
+      "sha256": "a4dd32148f2ac85bccdd30ff4b742c89a3e1e5de2732bdc3a3fb113a7cc2ff50"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-5611-v2.webp",
+      "sha256": "a9641d4e1655c91a678f4b861784b6b8da4e26263bc8d9fbff6b58db05ef09ee"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-5611-v2-thumb.webp",
+      "sha256": "228d092e81b12031056967075530674b6c314a438d966eed61e6b9644b8b266b"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-5611-v2.png",
+      "sha256": "a1dbf461ea77b6445a0007d731166880305f49b429df73762d632ed1053ebb54"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-93273-v2.webp",
+      "sha256": "7e520dc86f48e2c0b112e1588381afd31f3739bb2d705896b88c213867a27a33"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-93273-v2-thumb.webp",
+      "sha256": "c5010fe1560ba2421a8071e3ce49b000f6e2b45ba5b4a239860b0ed78cf728f3"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-93273-v2.png",
+      "sha256": "f8e82f4d65a48e71a1f545cc794ef6afa78a7e2a91b6ebcded2c8fad3506cf6e"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-1483-v2.webp",
+      "sha256": "4dc6b4b741d09a6ace08aa0512ad23a4347ead8b8b6c804544d42e32dadac4d9"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-1483-v2-thumb.webp",
+      "sha256": "0d27368fdcb07a7d3acfa3b1215bc8da03f4e89c43edd0b5e8350d8470b38821"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-1483-v2.png",
+      "sha256": "d0ad0d288ab231c79874c0ec9dca2e5b71412ba2f19c923f978b4021a2411b71"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-139-v2.webp",
+      "sha256": "508e6dd05c2140c76d460448513b4443c57409789f66c35834268b4646a40151"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-139-v2-thumb.webp",
+      "sha256": "6c4be44a2f83dd8d08c91e0e28f66fdfd600c9751d761e1f5288f880ad6b4a46"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-139-v2.png",
+      "sha256": "4147ecd34b7a4a9e620ef8a5d2be9e96560681a30f04baf853917037147bf7f1"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-13-v2.webp",
+      "sha256": "79704775d4595de800abd47bc4e443c5aa15cffee11e3fa32129cda2a3bfd5bd"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-13-v2-thumb.webp",
+      "sha256": "b3eb6cad78cd66619393555ce3d4d7faceb385fb94b1a340928cde8d4413ee11"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-13-v2.png",
+      "sha256": "192a4f52223575ccc5c0215b3df01cc05e7d2a85ce13fdf0ac889b97fdf163a2"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-1101-v2.webp",
+      "sha256": "d7dc9d8176a5618252f227f2acfd89d3476339e8191816d105780506ee356eb6"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-1101-v2-thumb.webp",
+      "sha256": "36aea7919bee715171780f8a00c969d8e07616dd8be499c7a6fa5de1ed5d2751"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-1101-v2.png",
+      "sha256": "9edb2aede2c9d54add268a7acc68b24a8f94da30f18aa2a8010dc82b0137d2ec"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-2501-v2.webp",
+      "sha256": "cd068d56b0f6514d68756bd5a65e6fcd363ed130b0ae5f36be67586db3bcf853"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-2501-v2-thumb.webp",
+      "sha256": "8e51e2f2750fcaf0ff514e7ad2a0ea5cc503379d8e30c22c828be26d7db568bf"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-2501-v2.png",
+      "sha256": "e308300ca49c845855ba0158ee25360f4a49ad987912af8278cc84c2cf430725"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-469-v2.webp",
+      "sha256": "37f721dff9f54570287722f7e2334d55e81710caffe34320060e8e4f47e018c5"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-469-v2-thumb.webp",
+      "sha256": "4e6732498d0bd1a8a70554bded3fc5562c490ff5fe47b02f180946692cf4366f"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-469-v2.png",
+      "sha256": "265d6e33f1f50d32f1364ee24cb26da3b12af20b2a51ec78516f2993beb79ecd"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-2273-v2.webp",
+      "sha256": "226d218a457f605d44db6df0984367a95efbc58f98784acf6ca12d18d17866cb"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-2273-v2-thumb.webp",
+      "sha256": "daca9910748050daf020ddfffd819de8c7262f67188ecb81a17fbba4d969d975"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-2273-v2.png",
+      "sha256": "98e54f4ca1539960b26d4174994f3e650e7f02351257abaf09898be2c8c421c5"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-1690-v2.webp",
+      "sha256": "0723a1622dfa2f917d9baff9b20fc4a6d85435380c38b7277e8fc2b12cd112b6"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-1690-v2-thumb.webp",
+      "sha256": "975ba38572913b81790b7f0eeac3242c12981601bdf36a8b61f57da92b240f73"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-1690-v2.png",
+      "sha256": "63f83ab607b8e3b8e6a56ef38899286e5b19c244a67d5f534d73aaaa9b87494d"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-1181-v2.webp",
+      "sha256": "9215e7d4a0e7637fe445c71ec7b6fe61dd3491e8dbdf6c7f4dc9538cb4c7177b"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-1181-v2-thumb.webp",
+      "sha256": "eea45809f5214321d6b19b1050ecdb7c1089e014ff2cbbb97ee690726e3c26b8"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-1181-v2.png",
+      "sha256": "10ca1a926e29baa5cc27ce77726e51062f9ce5e9ba2791ab692604e3531522c0"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-3-v2.webp",
+      "sha256": "c9fc5600800a654c4d309b5d0e6da0a61fb8fd10069aef25f73e150ea2a2e4b7"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-3-v2-thumb.webp",
+      "sha256": "ecab86f3b981dce50c99a73492ea21cb10331ca780bcc152592e839e9a803d49"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-3-v2.png",
+      "sha256": "177f0032548376581f1fca21acf068e8b7efe833c426df04a00bf5be118e3b5b"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-851-v2.webp",
+      "sha256": "1352b441d6aec0f23b4de8071883946f1a413ffb47c5be17f5e4dc626539132f"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-851-v2-thumb.webp",
+      "sha256": "4acb878e78b11c6ce6921d43b256e85b8e883402a3e5a79558881a90a0c4a44f"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-851-v2.png",
+      "sha256": "df2edb49df9fc4347ac17ad6a60c99c42f500071cb0efa766b12ea4d17486353"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-94728-v2.webp",
+      "sha256": "928c1b080ea023487a3faf82210de0e2df1f118551060f1331f3d1030beb69c4"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-94728-v2-thumb.webp",
+      "sha256": "9757c314baf7a23457b7dfe399bf652044e3e0843c919404bb9ce9d5e24afea0"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-94728-v2.png",
+      "sha256": "afe2253a3493a6b278b95602fb083c8678098a7b0002137815ecaf601359f0e8"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-92590-v2.webp",
+      "sha256": "b628eb0b11c7d53d1e269bb24e7f667e93ade7376edb54de9cd8ebd985da4e67"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-92590-v2-thumb.webp",
+      "sha256": "cd3d48d9c3756af19fdf74639a27c2ddee448cc0241c18f31d859958726626ab"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-92590-v2.png",
+      "sha256": "a48be6b4409ed312239b1200365e96fae55fa6b37748f5b599399ba9d2abaf27"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-94039-v2.webp",
+      "sha256": "6c7c09b0ba7da4f5ca85cac1669da30368c1c095406d20d3160dabfb6930c4f5"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-94039-v2-thumb.webp",
+      "sha256": "4549394f4832f19f6a29e522c78cc5380854edb725dcb464ef25ca3e5682bf11"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-94039-v2.png",
+      "sha256": "ecc212008fb29c52d191a7b33b235298ec92fbbb655ed59a908d76ef77f329f3"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-94061-v2.webp",
+      "sha256": "e36b9b49db4f33aa0c69a55ab6a21425a1eaed173bd2eb0d4af9354a9e2f97e6"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-94061-v2-thumb.webp",
+      "sha256": "24b9adf84bec6ce5e35d0c5db1f655c266eb050e56cdbd48a98d72ffe24bcbba"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-94061-v2.png",
+      "sha256": "bcd555741bb5e8f2f464c4b8f57eb1d5e09dfc938b9f8befd18a0c445c978d86"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-104364-v2.webp",
+      "sha256": "2ea470823ffb952e8d50212c403ee4b811a6a2b49f47e82a2fcdd393bc64efee"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-104364-v2-thumb.webp",
+      "sha256": "9dac50fb31aacc48da1da9c3800c01e4cddf26605d1c3fda60746a72c3db0359"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-104364-v2.png",
+      "sha256": "349b5dbf736965a432e8d0ee4e0f2314b0c51f0418040bc358501528dfd6d4c4"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-93483-v2.webp",
+      "sha256": "e1cca65d1dfe762928ad134fa49a32fcfd13b1d86bdd5b00d2b2ad11f53132b7"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-93483-v2-thumb.webp",
+      "sha256": "c3eb613657235c0054150076f51b0a7fcb69762cc13f6e9135b488678c902ab6"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-93483-v2.png",
+      "sha256": "2c7010ee71d32c6280315f2f40d688ea3630b509370ff5c8d1d6a2bee1a129f9"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-92911-v2.webp",
+      "sha256": "4416e5277209adc9f99a3220a2e5278794d585b07c7f16ce0b0d506f23386f1b"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-92911-v2-thumb.webp",
+      "sha256": "652090751dcdad9f125f424011348e1cbcbf43dce1649bc69c8495860d96631f"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-92911-v2.png",
+      "sha256": "ed683e89b58b0dca812f9ae868ea8952712b89ac88119a40c03a0ffb45e63fe6"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-94926-v2.webp",
+      "sha256": "c2917fa67ada2efbbc7fccb9621ea031196d1f447ee5d13ea4a87d89f82c16ff"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-94926-v2-thumb.webp",
+      "sha256": "4e65e4593c5a96a0135537b168e1093e2e08cfa2f8be440161caf36cb20efb80"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-94926-v2.png",
+      "sha256": "a16c55d27938e06374c47b96fd4378f09d3671c00cec4c9b3b201dd72227d76b"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-1237-v2.webp",
+      "sha256": "ac54f01741abe5a5ac8f9c20eed7a6cba91412fa02f4cd7ab8209ef4d2597753"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-1237-v2-thumb.webp",
+      "sha256": "90b2fc41a68e4c71335135ddb48d335273c70d6f3c33f9c1aa2681d70fc84b4e"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-1237-v2.png",
+      "sha256": "649b4072f30ab52d11cdb708070efb647c23a5608cacc288d512d3685b5fbc32"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-1234-v2.webp",
+      "sha256": "c36094040efc9bbac0efbcf7a389e9f333ef26322ee924b5c582b8aac5d82739"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-1234-v2-thumb.webp",
+      "sha256": "a6fc9ceee1bb10c8c9bbfacef8471561b1bd19351199d5c7ee59166d1ab3063c"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-1234-v2.png",
+      "sha256": "ff7ac76260c93e6b1c32d9a530a5af4ea53fb00c9ece30f9818f7f0a04759cce"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-92691-v2.webp",
+      "sha256": "a3827ca40d34f5ea0a1daa3bce88adf7f9a2583dbfd61c5ce86d3a07a26c598c"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-92691-v2-thumb.webp",
+      "sha256": "4555d3b9a4fe3634b05fe157bc216ff571b664958eec7fcb35852273da713a22"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-92691-v2.png",
+      "sha256": "9a75a6768ea2c6fa9400b2e9e3dcaeedc3954a0626291fda4496cfb6d75b7357"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-93768-v2.webp",
+      "sha256": "47853c434175ac83c497e80720c2090853f84eec8bba88f65a1450d8dec2309e"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-93768-v2-thumb.webp",
+      "sha256": "7659626fb5b0bb4ebc13632387ba70814a2ff8df11bc865241f03cce038cfcee"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-93768-v2.png",
+      "sha256": "d3135e611485f1952620b7acdbddf09950c7218bf038d0e166838033e802ac9c"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-93534-v2.webp",
+      "sha256": "46b43d85d4add5d6d8c09217ede82a396508a5a4d3070c355513159405fb6aa2"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-93534-v2-thumb.webp",
+      "sha256": "a796c9bf19a801331ed69e911b0495cb6eefb2ba0e8beabf0da94dd498003941"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-93534-v2.png",
+      "sha256": "80a5dde76202291c182ad74ef78cdeb016676770702e4006ddde89d1d5a5705a"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-93798-v2.webp",
+      "sha256": "3f8e7d8843c970ca136ea0ef47c5ff34bb5d376fd5ef2b08f1fe482a9434d884"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-93798-v2-thumb.webp",
+      "sha256": "ea2652f54e2cb5bd2198e044e65063f1ab3b61e251e50d68294d9b397d4db2c6"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-93798-v2.png",
+      "sha256": "e1bedd4cab029c36742993c1cf51b58b2d89165787f64f206a479fde5e4a020a"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-1233-v2.webp",
+      "sha256": "5f9ce1902f2aad45f7b46942b23a2ceff86432e11344b24c5f08278f594ea550"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-1233-v2-thumb.webp",
+      "sha256": "36095411b36a3fe7d00c2a12fffc2aa4b27019a5de3565e88c121be236d42d40"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-1233-v2.png",
+      "sha256": "48f85b7fc6b7d23cc306b0d7754b29816c5b250219a105de8105cb8c0d76347c"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-1065-v2.webp",
+      "sha256": "6c8e27e26c7cdc3239483bcb40577ef3a068430c4d706f4a72f05046fdd41130"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-1065-v2-thumb.webp",
+      "sha256": "029fa0b68620b86274d8abb37c0338e3a84a12d487432b43caecfa82c1be7922"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-1065-v2.png",
+      "sha256": "94be62d0b14b4e8371cb2c306772d276128d96500ccefcec23c818bd2dcb3626"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-1252-v2.webp",
+      "sha256": "811c9ca147994ec7ed1e4de3a0704aacfa9fb02c01ba80838bfc1fad9efe371b"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-1252-v2-thumb.webp",
+      "sha256": "01514238424b1ddbadd479224379c04f14d2b2f999c69cdf53192715e9d42587"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-1252-v2.png",
+      "sha256": "07b812d6cb6f0aac172d632c0b35388ab61a0e1b379d1d1a0e93b91e3e83e9fc"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-93336-v2.webp",
+      "sha256": "31093cb05b3cdeadec333616b660cd27a55fd8f7ab20a531e32a554861fa76df"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-93336-v2-thumb.webp",
+      "sha256": "7c96983b9a9ae9696ccaae3e67a327b74ba85ee3f728027538447f551308eed9"
+    },
+    {
+      "path": "site-v2/assets/characters/v2/sku-yanpk-93336-v2.png",
+      "sha256": "492448078d43b3db1fd5118a27214e44c7ad52e83ce3524b790989de960237b9"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-111388-v1.webp",
+      "sha256": "9a6261953bf565693add9f0a076bbd0c2293662bd1aeec6839f29e24233917ad"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-111388-v1-thumb.webp",
+      "sha256": "59fc032f7efc66a6bfc261d26bf47fa89719670e043fcd7b226456f59766c50e"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-111388-v1.png",
+      "sha256": "0da0a534a9c105b8e4fd009f4d956c12cf2d844f9c28469b7d824990c14a9886"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-95056-v1.webp",
+      "sha256": "5e287bd42554c3262ddd7758af6b2969108e3edf572d2880348d5bf4a783fa55"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-95056-v1-thumb.webp",
+      "sha256": "4eb398fc1faf31cb9ccfdc10137b467f5ddc5d019bd6792599761a4fa9e07e63"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-95056-v1.png",
+      "sha256": "1ea1297d3ba081fbea27f705028bdbca3f193b08d1c8b7564acb6aa037b107a9"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-93461-v1.webp",
+      "sha256": "b8a8ab42954ede6634febaf36b12a89a7dc1c7ee757930bcfcfcb5e8c4c13f50"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-93461-v1-thumb.webp",
+      "sha256": "554d6aeb1605fecc41ce850269d1e10ea9106d3f6eb58ba41c89d3e12673a9f6"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-93461-v1.png",
+      "sha256": "668c5d26d1fe5b3bad19b85f2d501d9f095be74ad2d02b4483edfa5e9e914088"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-93722-v1.webp",
+      "sha256": "161e2765a37154d0ee63a238c70bab15c8e2749abdf3cc9a0bafc18f58f0e3c3"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-93722-v1-thumb.webp",
+      "sha256": "0e6fa8347dbd1c6a0bcbeb476fdc70aede198cc181f5f553df334952291d83f3"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-93722-v1.png",
+      "sha256": "75514df3443ab9dec2bd32f9612b2787e13553e62f78060550470ab8a6d9d526"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-140-v1.webp",
+      "sha256": "6ca2ea918d6073da3bafde94bcbde3f69e2f4423897edd766bbf2f779747296a"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-140-v1-thumb.webp",
+      "sha256": "173c02b1b9b6bf311f5cf1048000979d90a74ceff84f5621247381bb90a19136"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-140-v1.png",
+      "sha256": "8955999e4af4679f2fc45824ca6508cec647d6618f1bec5ee728d5429dc1ea67"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-115294-v1.webp",
+      "sha256": "ae2a6600689283e8a72f802900a59245922484f818c593693ee7b1666994e7cf"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-115294-v1-thumb.webp",
+      "sha256": "89d00781f7168d9699c580fec20157425db0ccfa164f4a4ad8bfa49dfc259be3"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-115294-v1.png",
+      "sha256": "990fccc0ed9eb40899f4673701b21d6d2cd1edb6ad890f6e09a8fbd3609a4ea0"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-15-v1.webp",
+      "sha256": "c1b9d7625ef69c681572bdfcad0f1d80ff97e3a2d4cf8edad205f3c0bfdeb13d"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-15-v1-thumb.webp",
+      "sha256": "e3b52d9707b73e0dd070a54b7e3c1026b057cbaaae8569062389cceac793f357"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-15-v1.png",
+      "sha256": "4965aff1a5c90dfa069231c2926be53dd340c07f500af49412fbab5566c2f120"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-93487-v1.webp",
+      "sha256": "4652de9e1da4d27b072add2bca42dbb32564146d86e81e54ef2216fa96773636"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-93487-v1-thumb.webp",
+      "sha256": "0318f80b25875a9aa0083c27f9a3c345caf7ea69c5ae8fe5c4063b8ae9a271a6"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-93487-v1.png",
+      "sha256": "3800a63a23d2de9acad2c344f7b88c811d9e5f4ef1aa2d843c5384d40af2d3bd"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-8-v1.webp",
+      "sha256": "40c7713b7129cf4da2a195a336e466519c849e0643814f450a08d849349ad482"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-8-v1-thumb.webp",
+      "sha256": "6ebfb08814d0f9477242a99f9d8e7caa4bb4411e2fb03c210526e4607441f083"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-8-v1.png",
+      "sha256": "054001729b1fdff9eccb47485fdd55554803d6e82e823a840942a404170696e3"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-4-v1.webp",
+      "sha256": "fb5250d4698aa14a66425b19ab6499abef2feb00a963d68988dcf2205ce5698a"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-4-v1-thumb.webp",
+      "sha256": "42395e7b5f99db29f534f6adbcb4f766a849991e34ddf1cebd0d4de8b4c6b7b1"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-4-v1.png",
+      "sha256": "a3135d49d0bceaddf60f0d24c46477398718703be04d569eccccd4b7ef5b90e3"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-5729-v1.webp",
+      "sha256": "c060d559024cc7b97b75c27153f7b5da54584a70d5daf245977e63d1a222e3ad"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-5729-v1-thumb.webp",
+      "sha256": "6901bbad79722fab7f61eb083e58f5b86a069ba36bae50b8281179b0cf307b7f"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-5729-v1.png",
+      "sha256": "0dc12d17e87c796dcbc08bd88e52a9759a71d9d74c51fb8f4b61b5c74a06e1c7"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-215-v1.webp",
+      "sha256": "ef18056529890fb563203de428c5551dee61b2e3cf9d9e66abb670c619860b0b"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-215-v1-thumb.webp",
+      "sha256": "377c96d76eaafc95f4dbdda17086ce75538badbe2b681e96fceec2e67e660171"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-215-v1.png",
+      "sha256": "65ce19dd9a237fe7897cd12c4733a52153b638d0dbc91121c34f0ba61dc02fbc"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-212-v1.webp",
+      "sha256": "3ef2b8ed3d50c19e410d1549738cf9a5c27bea060774f33d1819aa5e2864dc7e"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-212-v1-thumb.webp",
+      "sha256": "2b5814e55efe181d92746fcef6707b471cf126c63dad18288b7748102c41594a"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-212-v1.png",
+      "sha256": "335e158a4c3c7ef2cc7f978113cf47b65c768a5e2a6dd87fbf04d55e39480012"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-206-v1.webp",
+      "sha256": "03580f5c5c40189711cdf2f593fcac87f669b3b108096b798e6aa1413993a778"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-206-v1-thumb.webp",
+      "sha256": "6ccfa89aeb9e7754c72db5c41ee1c804070ffd0151547376131329a162f3b00b"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-206-v1.png",
+      "sha256": "a9b1b6c02ee8ddbe76dadb5a87f89b1fac05a8a288d8b3fa56be8c137544cd2f"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-92700-v1.webp",
+      "sha256": "c90b276a26e4d8629dc5b22ec3fffb45f2c73e8b8a81c281bd05192bdc6f5950"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-92700-v1-thumb.webp",
+      "sha256": "de40f19a3a711bf627d3c055bd68c1170e4d0beda122264c52b4cb90d2c6e6c5"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-92700-v1.png",
+      "sha256": "4bdcad37afb044683c5f68bba57fef0eae9b9eb6341487b10eb8c1a3e3683b46"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-209-v1.webp",
+      "sha256": "de660eb5b6e8c0b6c2e5a1db2064ab4530730e31f61526fdaaaeefd90aa10696"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-209-v1-thumb.webp",
+      "sha256": "1badc0db1422d85f957ac81173a0c1fbe5de762a252ed606498674f391800b8e"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-209-v1.png",
+      "sha256": "fa9b3b9da946373a34c67491f84a74e5843524289a140c7bd661ce5d248d90f0"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1092-v1.webp",
+      "sha256": "0a4e164d695dadd91bc0859a7dd2d0907b045f9b67fa874056cdaf8e18ad20ff"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1092-v1-thumb.webp",
+      "sha256": "145105876d1675b7823af574fd61b30454786cc02317dec731521f5418495de4"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1092-v1.png",
+      "sha256": "1c512b538a1d74484fd8c11bced00f824ae514324ed965311a945c8cb2defd52"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-884-v1.webp",
+      "sha256": "563e4550efaada8666df36a4206d0b93b9c235ee37afc14fd7215f5b59c15c4b"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-884-v1-thumb.webp",
+      "sha256": "fbbdf60f4eabffd8e3117e6df6065b1d580b97023d79bb596306e4ee726736c3"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-884-v1.png",
+      "sha256": "15b024a83bb490b83266d1d2c890f0d9d97dbe26c63398d1d0dd6a3cda4269d5"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1107-v1.webp",
+      "sha256": "9193898ef8dba624bef5db63f313fcd62e9c152c4b520d6fd14afaa9bb333809"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1107-v1-thumb.webp",
+      "sha256": "acfd41733e03149cf1011a4c0af1e3901616ecad37fc964b25944e7121b76ff1"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1107-v1.png",
+      "sha256": "145a3e3c79b37360b529de47d02231f73a1a57ab7d1877a0d6a1ade85a8d1e1a"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-888-v1.webp",
+      "sha256": "ce60bd2098b2a575c4c1754f1ec1be4d13dfe9f1d99706502c417e1899843670"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-888-v1-thumb.webp",
+      "sha256": "9bb876a3c7e1f430248c49cd3f8e957e3024d317cca05d4198590dc773adea51"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-888-v1.png",
+      "sha256": "6f1c10f904f9391eb25a1aed104600126f1ee7afb19fea9793e66b0cb8a7e6e7"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1146-v1.webp",
+      "sha256": "89d155c43e63a0bf4daf36ff948f8a167d0b57ed0bfcfd9511a62f363ee346cb"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1146-v1-thumb.webp",
+      "sha256": "5c50f8d9136cf7b6496f27a5c01e748862b77c08379d4a07a71842e0e5565849"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1146-v1.png",
+      "sha256": "ba89d80970760daae4cff7c0a3a625573fb0172054f8044513b2398f06700ed2"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-95656-v1.webp",
+      "sha256": "8f5d36611d0f567044ce5823d6d71622cb65ee39683c51a2967def4a16caf32b"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-95656-v1-thumb.webp",
+      "sha256": "f0f50e150d51a69b5df439732f85378e523cda042f3dc4f0b7a530f932ba3a97"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-95656-v1.png",
+      "sha256": "ca135dfa69e46f5cb4c8345df62ef83045f184614d0562ecf6441674f4c3863a"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-742-v1.webp",
+      "sha256": "6cce8c3be8fb2e46dd45f0381a2ebccd513a1d332cbf62dc2c3e5403924529a4"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-742-v1-thumb.webp",
+      "sha256": "f71613f56b31c8564719073acfdd46a9315ec9321026435791d0a8371169567f"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-742-v1.png",
+      "sha256": "11b43155232a710df04ee66dbb2e99d166b7321654c9e1b44c3c8103f6836b85"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-744-v1.webp",
+      "sha256": "7c5454ce5c6d560921ac6b8e46a5991d59a0e1a535419e3c5c1bc5b9260f3a54"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-744-v1-thumb.webp",
+      "sha256": "a098778dea6c8a092252f09dd91646e7428f94b6a43b17b4ba919ac36e8dd1d0"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-744-v1.png",
+      "sha256": "dd11bd1a0f0fa98ea789a6bd351216d74edb0e76c1ff3bbb0630c1b55e6cf9b3"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-662-v1.webp",
+      "sha256": "1f7fefa9c5b4b0451af10db2b11621215900830919d5df87a98cc7d5eb28a08b"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-662-v1-thumb.webp",
+      "sha256": "2fd8b6d4f9b619b25bd00ab3bce8c54b19a4d8a28b6d545c3855a93abb9237f2"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-662-v1.png",
+      "sha256": "5f6be0f75222d310ab7f9af7e6046b740dc59b61f518996b9b96e9532a095d80"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-659-v1.webp",
+      "sha256": "e6b6c46ff58f67eab9272532a7ce59ec22891efc4cc328bb4b568d1cf738232a"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-659-v1-thumb.webp",
+      "sha256": "8809bdbad1aa8ea6389102fd077cfb8a6572e71f91f4b3d8d60252abb50ff7b0"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-659-v1.png",
+      "sha256": "285c9898d86f472f89052a99e16ff8d75185dff84a67bdaaf681c6ba93873fd7"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-93977-v1.webp",
+      "sha256": "d0c393e7601c673763d591d0c9890f56735edb06c73d79c5a2360a2844f7c9ce"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-93977-v1-thumb.webp",
+      "sha256": "1172a8082a1ab6cffa88f487e0a0eec803713b06e93d39b9e417ff6e17a72fba"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-93977-v1.png",
+      "sha256": "9110b7c76e09efd77440dc41d780bf69729fb41f47f0e11e91343cd0446b8b89"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-93974-v1.webp",
+      "sha256": "508ecbee2781d3610011c45681336bd5b54fcc94cfab609e5ca37772d1e07246"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-93974-v1-thumb.webp",
+      "sha256": "036bfbb5fee35e5dc056e0f1ae60b1c46674aeb0add83110d387ca948cd920f4"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-93974-v1.png",
+      "sha256": "b054f8941255d6497fb4f85d87ac0073d0b4903c69b41921a78a8bd0eeeb82bb"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-94924-v1.webp",
+      "sha256": "fd1979aa48a3c4409e1bd56bd79890d8ac6b9974fe6c24fd9d027cfd78c3b316"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-94924-v1-thumb.webp",
+      "sha256": "73c4335c28a84242e3414781dab87f1893fdbd618ca50ec4750beb565625668a"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-94924-v1.png",
+      "sha256": "d1725f87148d055bff667a5ff6c28cd57ed2f4b2ed290265a18820da1fbc6280"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-470-v1.webp",
+      "sha256": "b72c0eb8e4f2ed80ffd2e35a13f37ee918828fa1770666ce3c6d5ac7cea45508"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-470-v1-thumb.webp",
+      "sha256": "9cafadec2f6ccf107c5a033164b8abc3fec42dc0b309eecdf05f38241bbb3d1a"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-470-v1.png",
+      "sha256": "351c1657ff79d78e0f4ba3d40ec79f2c3b63a5b6bbc2401c8cc205bdf4773e1e"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-92957-v1.webp",
+      "sha256": "53671a8281c4acfe33236d8ba02a064243bb7a6837648016ed07105c43312182"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-92957-v1-thumb.webp",
+      "sha256": "a732d4d366c9dbc621445cb1dd02041de325b65cab587a1900d2f153970f82ca"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-92957-v1.png",
+      "sha256": "4afaa877d959bf15a959bb7ed1b749f043a5c65ac5d4cecfd111e9a533c946b1"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1621-v1.webp",
+      "sha256": "1e52698daeda856f08cff7e2595892cb26ff8980a6e258909b8881c38f164261"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1621-v1-thumb.webp",
+      "sha256": "4cae859a35922ac1825ba7e0d7e1a4bbf294d03c28ac32c73e5d260f3072aa62"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1621-v1.png",
+      "sha256": "edc7e3c23c70146e8bbb471a707e7afaa3071d415625eb12d02fa852241b5c28"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1623-v1.webp",
+      "sha256": "accca0668d4f06703b1e1038ae89e8f047d78da92fc84a2fcff29a2e5451ca7f"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1623-v1-thumb.webp",
+      "sha256": "c3188e27c5b7439c3e4f55fb61cbb9f5e191f896f2530533e8a1fa78e320a707"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1623-v1.png",
+      "sha256": "c7e210b338230af04fc9e2d9a887c360dcd2e33e9094442b52e6af2e3b0337c0"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-94071-v1.webp",
+      "sha256": "df9ef8fb8044826afe49c2464c9e40b0c7867e4892aa3b4c1862a2a5912301ac"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-94071-v1-thumb.webp",
+      "sha256": "a2695324166607d35024ed85a882af9664f4a4799f1b5affbc532a785a2f9094"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-94071-v1.png",
+      "sha256": "45ddf005342770a62d30943bd4f7ce049894d96607702b8ea166f0c4e3157479"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-248-v1.webp",
+      "sha256": "541213b15bf80c9ba38955a63217f931404b4fc7d60d409bb25b115ac9e30fdf"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-248-v1-thumb.webp",
+      "sha256": "215b5b850064e5e1390a7cbc53591b42ddc8ecb07a41ca383f1bfe05c3f3cd78"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-248-v1.png",
+      "sha256": "27f3ce018880ce7eb3ae50d88040f33cb9f4e19cbcd91fb570d31d8e6977d100"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-5616-v1.webp",
+      "sha256": "41e60ac8cfc0901d1f6e01fe0c7c65c7a75bed66d432464d5269befaffef370b"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-5616-v1-thumb.webp",
+      "sha256": "76d4db19f1a875bfc166d68efbbe7d14349ea25812cb2c01eba2f5527c48283b"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-5616-v1.png",
+      "sha256": "814951dde16cc4dcea5dcceb001e85909ee72eaabd8a77010320f6e23970f9c2"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-94086-v1.webp",
+      "sha256": "8da4e529e8941f4f9f1c777cbee56ea6064095d63391fa26282f1b3c1e63223a"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-94086-v1-thumb.webp",
+      "sha256": "15e58b90f763580ef5103310a669b996c49cdfd7a90902132d41b2b99603af6b"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-94086-v1.png",
+      "sha256": "feff482d1f854353145baab94d54a9da7f1c57234cdc74fd41663a7f93693309"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-247-v1.webp",
+      "sha256": "4dd3bf606d146d2e4fa1c913d0241c049782cc71d09cf9fdef52e121125336b0"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-247-v1-thumb.webp",
+      "sha256": "b4a5285ac11a7232dcd67a19aa8d814ef215b079bde8875b4b165acd53d07e1b"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-247-v1.png",
+      "sha256": "4f268feb9cd9fec219c500f7ac1c0d350d693b3e2255c67b5e6002a2cc4c3bf0"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-92894-v1.webp",
+      "sha256": "9d0b91d2237520d0ac610b2a2d9714b5edcf2802ca13c70f3ae624cd799cc0f1"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-92894-v1-thumb.webp",
+      "sha256": "21f79f1c3efd4e00a6006824062b5a1c5dd5b0fc6da7f246a5725906ddc7d34e"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-92894-v1.png",
+      "sha256": "9da2e15bba469d99f45d809a653058a97991e14c9b522830e109926e96d274c7"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-93224-v1.webp",
+      "sha256": "6dc31e52aa3820177cb75a85e3361eb619fd38ef08c21b45ec76545e66881917"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-93224-v1-thumb.webp",
+      "sha256": "1de067bc45fd9b9954fea42690c2c8178b71288fd7c88515da74779f7266dae3"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-93224-v1.png",
+      "sha256": "d999d0db476e951e213ffdd814fd7e8b32124c1ebbb86eb06a982934d13b5477"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1699-v1.webp",
+      "sha256": "560e149c871b323cda04e28571484dba3812bdfc2fe6cac8f0906eb62139845e"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1699-v1-thumb.webp",
+      "sha256": "e548eac5abbe2aa6a13001567fd6321f7c04d6e6f187e238d29796aac0358726"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1699-v1.png",
+      "sha256": "7b50c6c8cf64198e44ff69ac1966e2df9abfe18695ad974d4a0239c742f1434f"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-899-v1.webp",
+      "sha256": "9a3487a14edb32b207f56781d9813d7ba2c55479fdeeebe6d14a9a6dbb5bcd74"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-899-v1-thumb.webp",
+      "sha256": "b7f6077a8890f8adf463993cd5a62e5f89c210ceb1c8ed5e61ea80738867d6d9"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-899-v1.png",
+      "sha256": "b22d0647cfdb2aa6fe6634593864989620db90b8963676307bf69a123d3686f5"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-3033-v1.webp",
+      "sha256": "13cedaa5d3b79d85d328487fc56dff12aed55401bc5b01a2db438015395f4dbe"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-3033-v1-thumb.webp",
+      "sha256": "5ddfad01808b37bbe17b2dc4830857a8b55dce66145b89f345982d5bc012391a"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-3033-v1.png",
+      "sha256": "224582b1e0f72e7226ae6312deb09bf4452baaf1b60ac64d54603371f2975209"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-5700-v1.webp",
+      "sha256": "5ca3124021117254b4c9150de18e9c572183a3a512ae2398e02a983823dccce1"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-5700-v1-thumb.webp",
+      "sha256": "9d76618ec64c06d81a75a4cbf812fed4eb8403ec8788f5aa1a470b1179a245b8"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-5700-v1.png",
+      "sha256": "795c909fb3a25350f6ea3239aeb7cc1b61439fcfa4a5355587d92f18835989dd"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-295-v1.webp",
+      "sha256": "591e658a9386a6b05cb308ac33c10f446f40ff98dd1b22e8d5c0a4ff5e1ab11d"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-295-v1-thumb.webp",
+      "sha256": "a6f54bf9c6cf383d9cff0fe80491411a451f715d9194c1e5cbdd54243a04ea2a"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-295-v1.png",
+      "sha256": "13d391736cd3b3ff7f081bdbd4c0744173f9a679e58e10b59ebd00d9bfd62a3d"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-92751-v1.webp",
+      "sha256": "46e94dd8f9370a92960a8cabd61c41d3e0d090bb0e6d639aec9600d85500e804"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-92751-v1-thumb.webp",
+      "sha256": "d882f05acd0a4944a58dc1103f5cd959470df6c0a50dfd674b29936542ee1acf"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-92751-v1.png",
+      "sha256": "cb976c9ae922c1807da44b42a64e0b1070027c1a9b780367c3546e866527473d"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-290-v1.webp",
+      "sha256": "c18c782e598e6e8316ede1e46f5b563aa823a8b7f7b821b89ca87d425ffa72a9"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-290-v1-thumb.webp",
+      "sha256": "e551e9f30d0d1ab092c9efac6632a6c022cc5391b96458e83f32444debc7f83c"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-290-v1.png",
+      "sha256": "f93277c303a239349075d74b086c0edd0426932b43bce7b5abf5e638938522af"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-92796-v1.webp",
+      "sha256": "9714ad30965611100caa7a50d9289f31cea52b754dd04ecc79f23f91aee89bf9"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-92796-v1-thumb.webp",
+      "sha256": "7f125c0323fa1dadb65588078096c8d4126cf5c7af5eeea8a4a4765714863b94"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-92796-v1.png",
+      "sha256": "29b2e03e1e29bd71c1f49a86b9bfb27d34f108fabde2370f00c3230d1309f34b"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-2277-v1.webp",
+      "sha256": "a0fb49f58fcd56404d72fb2ed9ab5f3b1756f3588cc09e188067e3dabe17eb94"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-2277-v1-thumb.webp",
+      "sha256": "f0690354f5f5f8602650df5b738bb1a2eadc148ce0aab457d4cd0a8f0d8a140d"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-2277-v1.png",
+      "sha256": "27f55552c3a774cf6e361f84844972f1a1c1ce9d19924a7862200141a5d0958d"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-532-v1.webp",
+      "sha256": "114f4b161348855df9d45f3c99b5d1e4c0d7a9785aa66392e19cbd01b15953de"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-532-v1-thumb.webp",
+      "sha256": "0502e9527fd4cc0cbe968b96d6db25da143c4b6589902082d0d965a6aa78d29a"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-532-v1.png",
+      "sha256": "6c53dd7ce31946400a279b7216fa1474a3f0090a9867c2ec628b670eee4b145e"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-105518-v1.webp",
+      "sha256": "f2c6435c3cf4cde1727497cef961d45a9fb4259ed23d8849143914af68b60630"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-105518-v1-thumb.webp",
+      "sha256": "2d924f6eeb5f6163418983b9d5dccea8ff35cce2f90bf66083f526a1e19cc849"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-105518-v1.png",
+      "sha256": "b1ab4cb075a440d5c66315743ba94cbb5043c507e5065cf4b201a69aa70d4fe5"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-637-v1.webp",
+      "sha256": "62a9a3d44a38dd2cf146f50ab1b25b0569cdfd692049d12941f639ed6fd0a61c"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-637-v1-thumb.webp",
+      "sha256": "0371d4d9333877d67bc56ba0053171dfe23368908dc5fb40ffd9597d1179007e"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-637-v1.png",
+      "sha256": "2299c50aef750a615c1671ed0e4803bfbc4e773be5916e58168e8dea6cac1d82"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-635-v1.webp",
+      "sha256": "15cc023355f4139e11687a1234c9db09f525e12629040eee20877c625b626652"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-635-v1-thumb.webp",
+      "sha256": "acee538c63976298aeb816829ed0d282f1a9dee60f6173699bf5340e660ff677"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-635-v1.png",
+      "sha256": "4711b958ba1077ac0c4078ef9f57698f70106ab8bdd94d129e07b47034143f5c"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-3165-v1.webp",
+      "sha256": "6f2a8678c52f8f5c582afb07cc22d23b6b4692adb7fb0643b694052aa1843b28"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-3165-v1-thumb.webp",
+      "sha256": "689d17e5d068c5884532e2a766e4bf9334f79d0b13223117c742d566ff97e776"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-3165-v1.png",
+      "sha256": "0c271bc6277ffbabc70f9fad29f184e7d5fb6675fb4dc9b4bba6ba8271a7e8ab"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-40-v1.webp",
+      "sha256": "03c9f8e93c5872d7a50033055086d4f5fe523faf2d3143244fc20bd69d037ad1"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-40-v1-thumb.webp",
+      "sha256": "7e1a063f96300a189e8cba518cd105df5c2f7631ff7865bc363a1ec2b3b94a82"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-40-v1.png",
+      "sha256": "3ae06b1a666eba01a2f9cc8726a7b8a43f6f8527e4dc3ef6891f72252dbc4456"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1311-v1.webp",
+      "sha256": "7656ac44c08fe70c6e1f574df9d7aecc9c20e650757fe19bbfc14d8059337600"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1311-v1-thumb.webp",
+      "sha256": "ccb6055167f399798a1481023165240514e474e1ba8e82bbc33126cf93e06a22"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1311-v1.png",
+      "sha256": "e86e63ab7b4e523d5e539568c83c701f6512ae923be7ff08c6bf42c111fce8c0"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-5693-v1.webp",
+      "sha256": "d95ed978e47d299134c7f61d6b0611ca184d0876ac2ad1846cb9d0a47a7e659b"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-5693-v1-thumb.webp",
+      "sha256": "78ddd42ba158acfd357c968e88d8289a1ec926fcbd9c97abd3129eb3e5807b38"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-5693-v1.png",
+      "sha256": "b1e3893b35aa0af3ef0a70fb53c6d95dceb9679d6708d09560e698f255d4014f"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-197-v1.webp",
+      "sha256": "84737e87a90fee11a5dddb0bff5dbf9a82adb970026f427a51ff7e4ad9d16e43"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-197-v1-thumb.webp",
+      "sha256": "fd7478e4d924b17a2463711aa1e5ae61847ddc194d2abcec7d12cb72152a3732"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-197-v1.png",
+      "sha256": "7b23426d670a40dd65dee1f66e3688237ea8dbafffd3281ba39f852171072e25"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-189-v1.webp",
+      "sha256": "941ab70f821f497eb94329abc54e1cfc80e3a0a0d19f26202bcd81f2af1d58e7"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-189-v1-thumb.webp",
+      "sha256": "a30cafd904c970be46f4e27ee118fae7caa92012074c885f397a0829f725a044"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-189-v1.png",
+      "sha256": "67e2d763b01bbc95bc5826883c270b47546c3ef342c83b5a7f60e9e1b40b1153"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-414-v1.webp",
+      "sha256": "887c4c63b108b012f4bba91128cce47355d363b49937058b71bb0363a1eaa232"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-414-v1-thumb.webp",
+      "sha256": "e18cf50c675e6705466c51e0c6ed3bf884a0b2527705e7029918ebc6dda72b74"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-414-v1.png",
+      "sha256": "715667bf9ba1416664faf8519b8a7423a6b2ed91f06fe3eae127cda85f6da182"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-94945-v1.webp",
+      "sha256": "e0483c8033731318c912a8c23639825cd3df6af417d35e542f3dbc13e6b161ee"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-94945-v1-thumb.webp",
+      "sha256": "eeb60a1ecd175fe351e52d78b70526fbd5d23e331fb08533b9a4efc0703a6a28"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-94945-v1.png",
+      "sha256": "f212f4cb47a4b58e91821be353db0ced8959ebedb459340516e343dc36255eab"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1177-v1.webp",
+      "sha256": "d6b08977722e061175d4899a4edb607aa043719ed765320e809e071e1becac55"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1177-v1-thumb.webp",
+      "sha256": "9014f51b028cbd92642826ab37b9176a4c0d80ac3ab3c88e69085c66bc7c11a4"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1177-v1.png",
+      "sha256": "cc7049b0c47b3ce4299d1e2f796cf5431dbf52c28dff53544f57fe5d3554ed3e"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1148-v1.webp",
+      "sha256": "750fb040248562c8703f5e07bd378b37ff87d442f7c8a997d4f98340cb7be756"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1148-v1-thumb.webp",
+      "sha256": "d8a7af49ddf20fadc4ee718fff437252e6892c15fbc61d8657abeebc10d12127"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1148-v1.png",
+      "sha256": "d43b7a764615ff335bd37a3a906e5efa049ed2af7fd3fe8fd218dde6f2a5c7f5"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1150-v1.webp",
+      "sha256": "5e6e933e2c5a4a672a5a4987d6b7a3c16e56f93d4f541b3388f567e90f3d2df7"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1150-v1-thumb.webp",
+      "sha256": "29ebf5edeef86ce687e59b6657f06087b122c1c953c58e31f76dc922e408fafb"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1150-v1.png",
+      "sha256": "06944b98c7e3b6e2cd2060a58d69054c564f1620a9faafbcf5a8e2e1cfa5aa58"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-343-v1.webp",
+      "sha256": "7042c1c88ae164f7262826c40ae5c59103a910fc90c081575705c50b996ae143"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-343-v1-thumb.webp",
+      "sha256": "9f887877f7df64d81d2e924aacc338e8d1e653a4dc312fa99f384d6597ce857b"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-343-v1.png",
+      "sha256": "892d1e6a8e58e4e33284c2fc4afd0948a4ffaab069d9ace6f499eb8b4cdc6035"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-134-v1.webp",
+      "sha256": "8cdfce64181f44307f8399222e7a5ee1e855e7b21dff07936f111d358b55cf63"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-134-v1-thumb.webp",
+      "sha256": "6db8082dbd3b0af76320e93a8a9cba8a0dfedeab4e91ddcbff1af381a87c1193"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-134-v1.png",
+      "sha256": "02ae45defa090d5ded0da81b18d411ba97594d468a65930f610ac679c7441b77"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-333-v1.webp",
+      "sha256": "81f621c51ac24376e3512f71d7b12b7f1d58eac7ab2a00388387e7e53575819a"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-333-v1-thumb.webp",
+      "sha256": "69837f1fdd82f54fd67575a96ed5e02cb287156b6634f44d6795dd822ba4f408"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-333-v1.png",
+      "sha256": "c0c53c25e74e92bb5943c4102f9c5512940511c705373a2b1faf2ca06f922c90"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1294-v1.webp",
+      "sha256": "212489b785608cfbf354f166f4e39a405d85b05e444b70c6eaba410d0eac5be0"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1294-v1-thumb.webp",
+      "sha256": "dd07030bc8c33ce90109e4c647df21e29364fe8c65ff60f6cf49d9b586a1670c"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1294-v1.png",
+      "sha256": "09a9e81a56ee06249d6300fff73a6d409912cd8c7a246642e4aa91cec8841afe"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1298-v1.webp",
+      "sha256": "4cdd9aa77f410ab0af9bd0417b442f29236b653c573cd08d95ff82d7f759544b"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1298-v1-thumb.webp",
+      "sha256": "9359e54c97352da5aab7f1fbf6ff9979f256edf310508755764a5ca5ac65cad9"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1298-v1.png",
+      "sha256": "22ed7ab9c1c142e6b888c658d59f24ea16c373d4e70a3e2cdf010186a19b08ae"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-95086-v1.webp",
+      "sha256": "a0501b82bc1a087b99d1fff5d662fa7ae36d5858197532a7a8d9a3fc5a4a5f84"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-95086-v1-thumb.webp",
+      "sha256": "c5b4e59fe992d7d784b486b5e5bc08ccc41f69fc8fe99a31473d66dab1c73505"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-95086-v1.png",
+      "sha256": "57596d6112ea981072d11babdb63de24f8c1a01464835faeca9fa89ff8c01597"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-92774-v1.webp",
+      "sha256": "241241c6b08846a4d31463327b4ba748de207d9ad6120fff95b55dea780bd9f3"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-92774-v1-thumb.webp",
+      "sha256": "6a883c1cb0bdc1a9e68039d8c0b2fc0369bb35e7b4ed069434b1845ca321f9a5"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-92774-v1.png",
+      "sha256": "b91d1a2ee2c59c9513466981b294e1d876588c48d62bc7d0066e1506d9c7ec1d"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-94012-v1.webp",
+      "sha256": "509fad0d3cfd80d584fe0a8058a02c0656541315c01df0a2f022d1f507524721"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-94012-v1-thumb.webp",
+      "sha256": "d952642e64045da463620acbbec745d10db99d491ea010529fa9ccf21a2a28db"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-94012-v1.png",
+      "sha256": "d444607f0873df41924124ad6122ffd2e8263ad9ad7653ac8d3819f75b09ec05"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-94844-v1.webp",
+      "sha256": "5785911677bcd5ec0d3fd885c72e2cdc810e6294f0224772cd28806b5b3d38db"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-94844-v1-thumb.webp",
+      "sha256": "a7bf2898063b2716a0013a0156439c6086b2e715d98797d30167441d1627b20d"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-94844-v1.png",
+      "sha256": "f4aecccddd33cc9d83da207aa03ebab11db7e7255820e89382c333ae7d437d07"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-94996-v1.webp",
+      "sha256": "d96409672c1779436997c4762384df51a88a6be70e4d350f89ede1fec5a972e1"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-94996-v1-thumb.webp",
+      "sha256": "7c62420790f23fabb00ed4e32b5486d0b1e706c9835203af5bf44fff1f0b286d"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-94996-v1.png",
+      "sha256": "4f74aa4077dcadc1fbcb26f0e5366be63c06427cc81034067f33f4f68b46d776"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-92934-v1.webp",
+      "sha256": "4be19a862171599492984e7467ae9493bdccc383a9404b468aa773567c4241fb"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-92934-v1-thumb.webp",
+      "sha256": "ddc9d1bd12a2ecd0682c8f598c47481190c10ff662ba754070f3dba3cfd3a657"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-92934-v1.png",
+      "sha256": "cabb0a037708c0a0eed82528b1af800fcdba9acf3a82031e2d1c7eb68bf12d33"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-95669-v1.webp",
+      "sha256": "ebc657b6759532eb7880127320764eccc93604c84d26aa686b7143e2da58a2df"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-95669-v1-thumb.webp",
+      "sha256": "87eef522500c95d9dee9b0dbcde7dceea995584971f56c220427cc885aa8f897"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-95669-v1.png",
+      "sha256": "9852914ed41b26d35f74b8023b54645d1d7d67fec4f916a643c64fa8b235e8ff"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-98973-v1.webp",
+      "sha256": "a59bd4773cc6de5ba1be9390ae7123b3adaff4a122fe678588b0b811e522c6be"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-98973-v1-thumb.webp",
+      "sha256": "12faf03f02628b02478181a827514f80df5676d3291b4b570d3b1ade24c44f45"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-98973-v1.png",
+      "sha256": "5e353f4b17a32e8de542835b7345c12981b4c8a9cf11b199330701db1de8aa68"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-93985-v1.webp",
+      "sha256": "8eba18d34902220672847950e1f9e9e9a940cbe1e3ed6e8adf1657b28ad9a21d"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-93985-v1-thumb.webp",
+      "sha256": "e56b6b2ff016732edfd1498428290b422275090f48efc26065d86b75587a3edd"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-93985-v1.png",
+      "sha256": "9254db64b079f868ac3c6f20fd447f7c01442e8c14156dc5dc4db759e5b82dc8"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-93726-v1.webp",
+      "sha256": "30da08e8c2ec866d73622a88ab000e30bf3e745116f3263a9d957c6f6218eedb"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-93726-v1-thumb.webp",
+      "sha256": "0ccb966d2f89afa1593aa1536e0da6300a06e6664f1b20acfd467e8591d42d8f"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-93726-v1.png",
+      "sha256": "80614c8e1f3daf169d77d65005628c3b6dda013e2c7ec6ea7c71881be1d1c305"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-95956-v1.webp",
+      "sha256": "d06f64da04e586343fc97e640ef940d32ccb00a0808b6c0fa534a9c586362f89"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-95956-v1-thumb.webp",
+      "sha256": "6b33aa258eaef6768a8833d3e75c0dbde0536cac9737cd1a159751f7afa3eabf"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-95956-v1.png",
+      "sha256": "847341c299aac890d4b28616e4b20eeaa6fd87042e8ee30101be6cd2d359d480"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-93967-v1.webp",
+      "sha256": "0152d9a0d7406e2b7cb0f71e2085affa9b368415d4d958b06de24307e610ae84"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-93967-v1-thumb.webp",
+      "sha256": "5e201d2bad1dd74dc759f64b6ff435ff7468a9eeea13b0be3367132b939fcd0a"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-93967-v1.png",
+      "sha256": "2c6513357f60301f98de5deed87557146c03827c24540a534d83d3cad2f1dd41"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-112044-v1.webp",
+      "sha256": "ae5ed9b2ef290cd2b41e0d46d0cc28e4fcbe9e71806bc38c38fb4191506711e7"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-112044-v1-thumb.webp",
+      "sha256": "59a456017c4d715c36865a6acd6d8db6bd3ca90e7e3e8c409e7e8ade3395a5df"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-112044-v1.png",
+      "sha256": "427e8b809795a025785f2b25d311d2cdd933873c6bbc2741ad624450b843b9b7"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-94032-v1.webp",
+      "sha256": "788bdf8c7b320dc5fa2bc6b5a8e5b2636d4bc4ed4ebb4e8194ca8bb858e7e879"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-94032-v1-thumb.webp",
+      "sha256": "0371ef19eddb046f3746c3ff8f83b80ed6e03ee1164fd68de10bb5cd16af3de6"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-94032-v1.png",
+      "sha256": "094cc2291847385404abbf6977e7bcc9afbcc877a7be69adb20cc22cd04fdb54"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-5755-v1.webp",
+      "sha256": "1fc1e0f38831b8bd34416b2e7fafc5e7d199c9a8c4ccf619d8d6a1a64c697591"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-5755-v1-thumb.webp",
+      "sha256": "52668c3218c63782211f6a5cb2b93650797472d5b9340b83e653415ed1395c92"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-5755-v1.png",
+      "sha256": "34ab0816262629c4755b5de33c048f008d5989493c6a950d56f54bbf32960243"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-93814-v1.webp",
+      "sha256": "e769a7382d2d4a881bb807bcae12f56a9c975c9ef47452d1273508e9e5fa8871"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-93814-v1-thumb.webp",
+      "sha256": "eb92aa737a3a1c7855f16fc26b97e6b7fb4d3eb452e28c9e91b18ae0b07d3cfa"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-93814-v1.png",
+      "sha256": "d17006eee7d558b1514a779812a7e38a9d202e7ebe3782cd95b11c278561fa3a"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-94056-v1.webp",
+      "sha256": "8b3612aa884af462f57ebadde3111698984cb2cc429651ae399e2ff684c42989"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-94056-v1-thumb.webp",
+      "sha256": "2a633f1567ed6f6dce6397b55c55c805b92fccfbf24ee6c390ee94b28a5dfeb4"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-94056-v1.png",
+      "sha256": "4e0c17fa025fc5c60463e633802a7bd30ba85d10cc9ce4c7306ed77bff2c8065"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1842-v1.webp",
+      "sha256": "5ec932d6adba50eb8a500473d6d05e2179c1a13341da0613d30636edb983bd9e"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1842-v1-thumb.webp",
+      "sha256": "4a4d9219f69be4ca4e301713896ca0e0a30f9d1479b0a35e6b4df1c70595eaf7"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1842-v1.png",
+      "sha256": "16b7e072cf4fbbb09876ddc1be317d9188125da6eff9bd0e410dd5d2b6270010"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1843-v1.webp",
+      "sha256": "65fe80968fef5432f9a5c8c639ca33efbb2f38a9f5014c9e2ad08ea65bf7ed2b"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1843-v1-thumb.webp",
+      "sha256": "f06b5d845d89f90280fb432fe360e0dbf7c0f02aa8bf2b2a947bf528326bd6f5"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1843-v1.png",
+      "sha256": "3d8620b41408fc89d52d40f1ec584540c72b63c8f83f63211cdf1af7a4253f38"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1829-v1.webp",
+      "sha256": "6508ff27ed1d4d2bf82590109e914322a4992fb17377bbb78a50b1d6e4ff852f"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1829-v1-thumb.webp",
+      "sha256": "097f0306833b7920a6511d39500a705de9cf19e12b91fd754409ddc1ff27818e"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-1829-v1.png",
+      "sha256": "fbed5d2b53baf07b4381c6f9d914396c35dd5f240a9f669b4b48affa60f329b0"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-94213-v1.webp",
+      "sha256": "48bd585bf637beda00f89335419ccf9214294af702ec7fba87c0448998b79769"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-94213-v1-thumb.webp",
+      "sha256": "2413fbe4422f7f89c48209aeb414a53ec2105ef9b2a00bf73999caf6362281a6"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-yanpk-94213-v1.png",
+      "sha256": "082158bab08369f273c5812fb14e9c3df0989d39d9a38da1d74017533a8bfaf1"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-winning-59-v1.webp",
+      "sha256": "b29fefe68e8ca10f050674a51bf482176215167b399c607df33d5832b6858e9d"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-winning-59-v1-thumb.webp",
+      "sha256": "6a1c68ff8057542dd0b305564114b59c7afa5b6eeecdd6167a26d13cb278a931"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-winning-59-v1.png",
+      "sha256": "9c23d2a14c219c00dae44926d584308a75ab480ce9a370393e1ffcf2947dc3be"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-winning-60-v1.webp",
+      "sha256": "3a0164dd600d9b78f17957e580a8f2619a2c4cf29b021661b5a5ac08d6d895d7"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-winning-60-v1-thumb.webp",
+      "sha256": "6e68c1046eb7001248aae0ffcb98e3771e14b7a16a7bfb3aff5ac8c5d639b9ad"
+    },
+    {
+      "path": "dist/assets/characters/sku-current-20261013/sku-winning-60-v1.png",
+      "sha256": "fd7131d664fbcff7300ed201a177f3a41f75f052fe7f9b0c0245853f6795e149"
+    }
+  ]
+}

@@ -1,4 +1,5 @@
 import fs from 'node:fs';import vm from 'node:vm';
+if(fs.existsSync('data/2.0/art-freeze.json')&&!JSON.parse(fs.readFileSync('data/2.0/art-freeze.json')).generationAllowed)throw Error('Artwork generation and replacement frozen by user; retain existing images.');
 const rows=JSON.parse(fs.readFileSync('data/2.0/exhibits.json')),c={window:{}};vm.runInNewContext(fs.readFileSync('dist/current-catalog.js','utf8'),c);
 const briefs=[
  ['angular-short-coat','A mature 38-year-old female city surveyor with angular face, short black asymmetrical hair, cropped vermilion architectural shoulder cape over charcoal tailored jumpsuit and heavy boots. One hand opens a long thin brass surveying ruler horizontally; body leaning sideways, three-quarter walking pose. Horizontal eave-like shoulder, broad red plane and narrow gold edging. Elegant contemporary editorial character painting, NOT a historical robe.'],

@@ -1,17 +1,19 @@
-# Smoke Archive 2.0 工作区
+# Smoke Archive 2.0 当前展示版
 
-当前：负责人已选择B深墨展厅；G0–G4完成，G5二十件角色样板已实现并自审，等待美术方向确认。未进入G6。
+入口：http://127.0.0.1:4180/ （自动进入site-v2）。运行node tools/serve-v2.mjs。
 
-运行node tools/serve-v2.mjs，在本地查看：
+负责人已选B并通过首批形象方向；随后修改范围：已完成形象保留、不再新增或替换，未完成全部沿用原有立绘。当前126件接入，34张新图＋92张原图；34件虚构故事与92件原作设计札记如实区分。
 
-- B版完整样板：http://127.0.0.1:4180/site-v2/
-- 二十件角色对照与剪影审阅：http://127.0.0.1:4180/site-v2/art-review.html
-- G2双稿归档：http://127.0.0.1:4180/prototypes/2.0/
+首页是地图＋省份，省内再展示烟标/角色卡片。搜索、筛选、分页、收藏、并置、角色揭示、图像细看、声明与专题均可操作。G2原型留档，不再是当前展示入口。
 
-产品边界见00-product-vision.md；三层模型见SCHEMA.md；角色候选、映射、待人审问题见05-character-bible.md；图片边界见06-image-rights-ledger.md；各阶段检查见reviews/G0.md至G5.md。
+当前复现检查：
 
-复现：在本地服务运行时执行node tools/review-v2-site.mjs（SMOKE_REVIEW_STAGE设为G5）和node tools/review-v2-art-page.mjs。采用本机Edge无头浏览与Playwright模拟尺寸，不冒充实体手机检查，不使用停用的computer-use技能。
+- node tools/validate-v2-presentation-data.mjs
+- node tools/review-v2-hierarchy.mjs
+- node tools/review-v2-presentation.mjs
 
-新图用内置image_gen生成，原生PNG与WebP位于site-v2/assets/characters/v2，完整提示词和哈希在data/2.0/character-art-jobs.json。G4生成脚本在检测到已接入的v2图时会停止，避免误覆盖美术字段。
+截图与结果见reviews/G6.md及对应JSON。旧阶段脚本用于复现历史提交，不当成当前126件展示版的通用测试。浏览器检查为本机Edge模拟尺寸，不冒充实体手机验收，也不使用停用的computer-use技能。
 
-672个v1文件按SHA256复核；dist、main、回退分支及G2原型保留。当前功能分支feat/smoke-archive-2.0，仅本地提交，按用户原流程由GitHub Desktop推送。
+图像冻结清单：data/2.0/art-freeze.json。新图原生PNG与WebP：site-v2/assets/characters/v2；完整内置image_gen提示词与记录：data/2.0/character-art-jobs.json，余下未生成任务已取消。原有dist及672份基线文件保持不变。
+
+当前功能分支feat/smoke-archive-2.0；本地提交由用户在GitHub Desktop点Push origin同步。没有合并main、部署或开放真实公众投票。G7/G8与全量故事精修不宣称已完成。

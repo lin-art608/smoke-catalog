@@ -1,4 +1,5 @@
 import fs from 'node:fs';
+if(fs.existsSync('data/2.0/art-freeze.json')&&!JSON.parse(fs.readFileSync('data/2.0/art-freeze.json')).generationAllowed)throw Error('Artwork frozen by user; retain all existing versions.');
 import {createRequire} from 'node:module';
 const require=createRequire('C:/Users/HONOR/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/_entry.js'),sharp=require('sharp');
 const jobs=JSON.parse(fs.readFileSync('data/2.0/character-art-jobs.json')),items=JSON.parse(fs.readFileSync('data/2.0/exhibits.json'));
