@@ -1,0 +1,128 @@
+{
+  "generated": 6,
+  "uniqueHashes": 6,
+  "uniqueBriefFamilies": 6,
+  "method": "Alpha>150 diagnostic silhouettes; border detection flags possible clipping, not an automatic visual verdict.",
+  "measurements": [
+    {
+      "id": "sku-yanpk-929",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "alphaRange": [
+        0,
+        254
+      ],
+      "solidPixels": 407070,
+      "bounds": {
+        "minX": 160,
+        "minY": 14,
+        "maxX": 906,
+        "maxY": 1515
+      },
+      "solidBorderPixels": 0,
+      "flag": "border-clear",
+      "family": "angular-short-coat"
+    },
+    {
+      "id": "sku-yanpk-213",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "alphaRange": [
+        0,
+        254
+      ],
+      "solidPixels": 492574,
+      "bounds": {
+        "minX": 42,
+        "minY": 18,
+        "maxX": 951,
+        "maxY": 1517
+      },
+      "solidBorderPixels": 0,
+      "flag": "border-clear",
+      "family": "long-neck-tiered-wings"
+    },
+    {
+      "id": "sku-yanpk-661",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "alphaRange": [
+        0,
+        254
+      ],
+      "solidPixels": 504971,
+      "bounds": {
+        "minX": 34,
+        "minY": 168,
+        "maxX": 991,
+        "maxY": 1384
+      },
+      "solidBorderPixels": 0,
+      "flag": "border-clear",
+      "family": "horizontal-flat-paper"
+    },
+    {
+      "id": "sku-yanpk-5611",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "alphaRange": [
+        0,
+        254
+      ],
+      "solidPixels": 624282,
+      "bounds": {
+        "minX": 73,
+        "minY": 130,
+        "maxX": 971,
+        "maxY": 1356
+      },
+      "solidBorderPixels": 0,
+      "flag": "border-clear",
+      "family": "low-folded-print-mountain"
+    },
+    {
+      "id": "sku-yanpk-93273",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "alphaRange": [
+        0,
+        254
+      ],
+      "solidPixels": 581344,
+      "bounds": {
+        "minX": 106,
+        "minY": 32,
+        "maxX": 920,
+        "maxY": 1455
+      },
+      "solidBorderPixels": 0,
+      "flag": "border-clear",
+      "family": "paired-arch-hovering-machine"
+    },
+    {
+      "id": "sku-yanpk-1483",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "alphaRange": [
+        0,
+        254
+      ],
+      "solidPixels": 487354,
+      "bounds": {
+        "minX": 11,
+        "minY": 18,
+        "maxX": 1013,
+        "maxY": 1488
+      },
+      "solidBorderPixels": 0,
+      "flag": "border-clear",
+      "family": "yellow-open-paper-kite"
+    }
+  ]
+}

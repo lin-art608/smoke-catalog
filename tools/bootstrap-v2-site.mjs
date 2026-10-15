@@ -1,0 +1,17 @@
+import fs from 'node:fs';
+fs.mkdirSync('site-v2/shared',{recursive:true});
+if(fs.existsSync('site-v2/shared/museum.js'))throw Error('Site exists; edit it in place instead of replacing reviewed work.');
+let app=fs.readFileSync('prototypes/2.0/shared/museum.js','utf8');
+app=app.replace('window.v2Seeds','window.v2Exhibits');
+app=app.replaceAll('../../../dist/','../dist/');
+app=app.replaceAll('六件叙事样板','本期叙事展品').replaceAll('六件烟标样板','浏览烟标档案').replaceAll('六个种子展厅','本期已收录的展厅').replaceAll('六件参考包装，六种构图','从参考包装，阅读不同构图').replaceAll('06 件样板 / 非销量排名','${data.length} 件展品 / 非销量排名');
+app=app.replace("${direction==='a'?'A 暖白策展':'B 深墨展厅'}<a href=\"../\">切换方向 ↗</a>","B 深墨展厅 · 开发预览<a href=\"../prototypes/2.0/\">G2双稿归档 ↗</a>");
+app=app.replace('2.0 内部原型 /','2.0 /');
+app=app.replace('样板','展品').replace('G2 视觉方向预览','内部开发预览');
+app=app.replace("<span id=\"filter-count\">${data.length} 件展品 / 非销量排名</span>","<span id=\"filter-count\">${data.length} 件展品 / 非销量排名</span>");
+fs.writeFileSync('site-v2/shared/museum.js',app);
+fs.copyFileSync('prototypes/2.0/shared/museum.css','site-v2/shared/museum.css');
+fs.copyFileSync('data/2.0/seeds.json','data/2.0/exhibits.json');
+fs.writeFileSync('site-v2/shared/catalog.js','window.v2Exhibits='+fs.readFileSync('data/2.0/exhibits.json','utf8')+';\n');
+fs.writeFileSync('site-v2/index.html','<!doctype html><html lang="zh-CN" data-direction="b"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#182528"><title>Smoke Archive 2.0 · 视觉文化展馆</title><link rel="stylesheet" href="shared/museum.css"><link rel="stylesheet" href="shared/experience.css"></head><body><a class="skip" href="#main">跳到展览内容</a><div id="app"></div><script src="../dist/map.js"></script><script src="shared/catalog.js"></script><script src="shared/museum.js"></script><script src="shared/experience.js"></script></body></html>\n');
+console.log('Created isolated B site; G2 prototypes and v1 unchanged.');

@@ -1,0 +1,11 @@
+{
+  "status": "pass",
+  "checks": [
+    "4180 root redirects to presentation",
+    "name sort matches zh-CN order",
+    "remove collection updates immediately and empty state",
+    "two user-provided sayings marked unverified",
+    "final home screenshots"
+  ],
+  "errors": []
+}

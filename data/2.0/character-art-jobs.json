@@ -1,0 +1,2018 @@
+[
+  {
+    "id": "sku-yanpk-929",
+    "title": "给屋檐留一条金线",
+    "name": "中华(软)",
+    "type": "都市 / 时装人物",
+    "alternative": "建筑装置",
+    "family": "angular-short-coat",
+    "observedElements": [
+      "朱红底色占据正面主体",
+      "金色建筑横向展开，位于品牌文字下方",
+      "上下边缘以窄金线收束"
+    ],
+    "translations": [
+      [
+        "横向金色屋檐",
+        "短外套的水平肩线"
+      ],
+      [
+        "大面积朱红底色",
+        "城市测绘员的红色工作披肩"
+      ],
+      [
+        "窄金色边线",
+        "可展开的细金属测绘尺"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: A mature 38-year-old female city surveyor with angular face, short black asymmetrical hair, cropped vermilion architectural shoulder cape over charcoal tailored jumpsuit and heavy boots. One hand opens a long thin brass surveying ruler horizontally; body leaning sideways, three-quarter walking pose. Horizontal eave-like shoulder, broad red plane and narrow gold edging. Elegant contemporary editorial character painting, NOT a historical robe. Structural palette cues only: 朱红底色占据正面主体; 金色建筑横向展开，位于品牌文字下方; 上下边缘以窄金线收束. Do not reproduce the packaging itself.",
+    "status": "G5-approved",
+    "assetPath": "site-v2/assets/characters/v2/sku-yanpk-929-v2.png",
+    "review": {
+      "date": "2026-10-15",
+      "alpha": "true",
+      "solidBorder": "clear",
+      "humanApproval": "approved",
+      "note": "色彩图与剪影联系表目视检查；不代表已完成独立观众盲测或权利审定。",
+      "approvalEvidence": "2026-10-15 用户：形象设计的不错，继续执行"
+    },
+    "nativeSource": "exec-e9bab1fa-4ef4-40d1-b04d-2376327177b0.png",
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "sha256": "d7f2027ffacefe5d4719a239b8e6fb2da0910aec7d9e991c252be90ddf0c251c",
+    "tool": "built-in image_gen",
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-213",
+    "title": "夜蓝色的层楼",
+    "name": "黄鹤楼(软蓝)",
+    "type": "动物 / 拟人",
+    "alternative": "幻想人物",
+    "family": "long-neck-tiered-wings",
+    "observedElements": [
+      "中央为深蓝色横向色块",
+      "金色多层楼阁图形置于蓝色色块中",
+      "上下区域呈金色，与中央蓝色分区明显"
+    ],
+    "translations": [
+      [
+        "楼阁层叠檐线",
+        "成年鹤形旅人的层叠翼羽"
+      ],
+      [
+        "深蓝横向区块",
+        "横跨双翼的夜蓝羽面"
+      ],
+      [
+        "上下金色色块",
+        "细长的金色关节护片"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: One mature fantastical crane traveler: avian anatomy, long curved neck and long thin jointed legs, dark navy broad wings layered like staggered architectural eaves, sparse brass joint plates. One wing half opened high and the other folded low, head turned backward. No human face, no clothing, no cute mascot. Museum natural-fantasy ink and gouache concept art. Structural palette cues only: 中央为深蓝色横向色块; 金色多层楼阁图形置于蓝色色块中; 上下区域呈金色，与中央蓝色分区明显. Do not reproduce the packaging itself.",
+    "status": "G5-approved",
+    "assetPath": "site-v2/assets/characters/v2/sku-yanpk-213-v2.png",
+    "review": {
+      "date": "2026-10-15",
+      "alpha": "true",
+      "solidBorder": "clear",
+      "humanApproval": "approved",
+      "note": "色彩图与剪影联系表目视检查；不代表已完成独立观众盲测或权利审定。",
+      "approvalEvidence": "2026-10-15 用户：形象设计的不错，继续执行"
+    },
+    "nativeSource": "exec-82608968-29eb-416e-9d45-4f86339fbfde.png",
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "sha256": "324e2dbe92cdf28478fad412badf0912f1f9e26adbd08ec44fd3e0755bbda227",
+    "tool": "built-in image_gen",
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-661",
+    "title": "一条横线的通行证",
+    "name": "利群新版",
+    "type": "实验平面角色",
+    "alternative": "都市人物",
+    "family": "horizontal-flat-paper",
+    "observedElements": [
+      "银白色底上有宽朱红横带",
+      "红带中央是金色中文与白色拉丁字样",
+      "红带上下可见细窄的装饰边线"
+    ],
+    "translations": [
+      [
+        "宽朱红横带",
+        "可横向伸展的平面身体"
+      ],
+      [
+        "银白底面",
+        "半透明纸页构成的四肢"
+      ],
+      [
+        "两道装饰边线",
+        "角色行走留下的双线轨迹"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: An experimental nonhuman flat walking figure whose body is a single broad horizontal vermilion ribbon, two translucent off-white paper struts as uneven legs, one open rectangular pocket, and two fine gold tracking lines. No head, face or human torso. Asymmetric screenprint collage, crisp paper edges and subtle ink grain, visual adult graphic-design sculpture. Structural palette cues only: 银白色底上有宽朱红横带; 红带中央是金色中文与白色拉丁字样; 红带上下可见细窄的装饰边线. Do not reproduce the packaging itself.",
+    "status": "G5-approved",
+    "assetPath": "site-v2/assets/characters/v2/sku-yanpk-661-v2.png",
+    "review": {
+      "date": "2026-10-15",
+      "alpha": "true",
+      "solidBorder": "clear",
+      "humanApproval": "approved",
+      "note": "色彩图与剪影联系表目视检查；不代表已完成独立观众盲测或权利审定。",
+      "approvalEvidence": "2026-10-15 用户：形象设计的不错，继续执行"
+    },
+    "nativeSource": "exec-91baaf01-bc1d-49d2-a294-9f5e810ddf4f.png",
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "sha256": "a4dd32148f2ac85bccdd30ff4b742c89a3e1e5de2732bdc3a3fb113a7cc2ff50",
+    "tool": "built-in image_gen",
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-5611",
+    "title": "印里有一座山",
+    "name": "黄山(红方印)",
+    "type": "器物 / 自然概念",
+    "alternative": "传统人物",
+    "family": "low-folded-print-mountain",
+    "observedElements": [
+      "正面底色为浅灰白",
+      "上半部有朱红色方形印章式图案",
+      "方形图案上方与右侧分布黑色竖向文字"
+    ],
+    "translations": [
+      [
+        "朱红方形印章式图案",
+        "由印面折起的山体"
+      ],
+      [
+        "灰白底面",
+        "纸岩质感的山脚"
+      ],
+      [
+        "竖向黑色文字",
+        "只作抽象形状的垂直行走轨迹"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: A small nonhuman folded-paper mountain entity, low triangular terraced silhouette rising from ivory paper-rock feet. Square vermilion print-like abstract grooves form the folding peaks; sparse vertical black cut slits, no readable writing. Walking sideways with one fold raised. Refined paper-sculpture concept rendering, weathered ink, no face, no person and no commercial packaging. Structural palette cues only: 正面底色为浅灰白; 上半部有朱红色方形印章式图案; 方形图案上方与右侧分布黑色竖向文字. Do not reproduce the packaging itself.",
+    "status": "G5-approved",
+    "assetPath": "site-v2/assets/characters/v2/sku-yanpk-5611-v2.png",
+    "review": {
+      "date": "2026-10-15",
+      "alpha": "true",
+      "solidBorder": "clear",
+      "humanApproval": "approved",
+      "note": "色彩图与剪影联系表目视检查；不代表已完成独立观众盲测或权利审定。",
+      "approvalEvidence": "2026-10-15 用户：形象设计的不错，继续执行"
+    },
+    "nativeSource": "exec-f4ea89de-f5d3-4149-8327-2025097f15e5.png",
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "sha256": "a1dbf461ea77b6445a0007d731166880305f49b429df73762d632ed1053ebb54",
+    "tool": "built-in image_gen",
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-93273",
+    "title": "宽巷与窄巷之间",
+    "name": "娇子(宽窄逍遥)",
+    "type": "幻想 / 科幻人物",
+    "alternative": "几何装置",
+    "family": "paired-arch-hovering-machine",
+    "observedElements": [
+      "灰白底面上部有朱红方形区域",
+      "中央黑色纹样由对称的弧线与圆形组成",
+      "主文字纵向排列在黑色纹样下方"
+    ],
+    "translations": [
+      [
+        "对称黑色弧线",
+        "两片可开合的弧形机械肩罩"
+      ],
+      [
+        "朱红方形区域",
+        "无文字的方向信标"
+      ],
+      [
+        "纵向主文字结构",
+        "窄而垂直的身体中轴"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: A nonhuman tall navigation machine made of two black symmetrical arch-shaped mechanical shoulder shells around a narrow vertical ivory ceramic core. Small plain vermilion square beacon suspended above it; one arch open while the other closed, hovering tilted three-quarter. No face or human limbs, modern science-fiction industrial concept art with intricate joints. Structural palette cues only: 灰白底面上部有朱红方形区域; 中央黑色纹样由对称的弧线与圆形组成; 主文字纵向排列在黑色纹样下方. Do not reproduce the packaging itself.",
+    "status": "G5-approved",
+    "assetPath": "site-v2/assets/characters/v2/sku-yanpk-93273-v2.png",
+    "review": {
+      "date": "2026-10-15",
+      "alpha": "true",
+      "solidBorder": "clear",
+      "humanApproval": "approved",
+      "note": "色彩图与剪影联系表目视检查；不代表已完成独立观众盲测或权利审定。",
+      "approvalEvidence": "2026-10-15 用户：形象设计的不错，继续执行"
+    },
+    "nativeSource": "exec-5bfb9344-d299-4060-afe5-e1e8304df017.png",
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "sha256": "f8e82f4d65a48e71a1f545cc794ef6afa78a7e2a91b6ebcded2c8fad3506cf6e",
+    "tool": "built-in image_gen",
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-1483",
+    "title": "黄纸上的蓝色结",
+    "name": "云烟(软大重九)",
+    "type": "器物 / 自然概念",
+    "alternative": "实验雕塑",
+    "family": "yellow-open-paper-kite",
+    "observedElements": [
+      "主体为明黄色矩形底面",
+      "上部有深蓝色徽章式图形",
+      "深色花边围绕边缘，下部文字区由横线分隔"
+    ],
+    "translations": [
+      [
+        "明黄色大底",
+        "可折叠的黄纸躯体"
+      ],
+      [
+        "深蓝徽章式图形",
+        "悬在身体中央的蓝色结"
+      ],
+      [
+        "深色花边与横线",
+        "可拆开的细框骨架"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: A nonhuman folded yellow-paper creature with a deep-blue suspended knot at its open center. Four separated thin dark filigree rectangular struts surround a hollow angular body; two folded paper fins articulate outward, wide lower silhouette and narrow upper tip. No face, no printed writing, no box. Gallery paper-object concept art, matte ochre paper, navy cord and cast-brass joints. Structural palette cues only: 主体为明黄色矩形底面; 上部有深蓝色徽章式图形; 深色花边围绕边缘，下部文字区由横线分隔. Do not reproduce the packaging itself.",
+    "status": "G5-approved",
+    "assetPath": "site-v2/assets/characters/v2/sku-yanpk-1483-v2.png",
+    "review": {
+      "date": "2026-10-15",
+      "alpha": "true",
+      "solidBorder": "clear",
+      "humanApproval": "approved",
+      "note": "色彩图与剪影联系表目视检查；不代表已完成独立观众盲测或权利审定。",
+      "approvalEvidence": "2026-10-15 用户：形象设计的不错，继续执行"
+    },
+    "nativeSource": "exec-d0cb03b5-5200-4187-8b37-b1ac00702cc2.png",
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "sha256": "d0ad0d288ab231c79874c0ec9dca2e5b71412ba2f19c923f978b4021a2411b71",
+    "tool": "built-in image_gen",
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-139",
+    "title": "花徽里的钟表匠",
+    "name": "芙蓉王(硬)",
+    "type": "都市 / 时装人物",
+    "alternative": "器物装置",
+    "family": "older-man-circular-tool",
+    "observedElements": [
+      "底面为浅米灰色",
+      "上半部中央有圆形金色徽章",
+      "细横线将正面分出上下区域"
+    ],
+    "translations": [
+      [
+        "金色圆徽",
+        "成年钟表匠的大圆形工具盘"
+      ],
+      [
+        "浅米灰底",
+        "灰色短工装与皮质工具袋"
+      ],
+      [
+        "横向细线",
+        "手持的两段水平校准杆"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: A mature 52-year-old male clock repairer, broad nose, receding cropped grey hair and subtle wrinkles; beige short work shirt, grey rolled trousers, brown leather utility belt. Seated low sideways on an integral folding mechanical stool, inspecting a large round brass flower-like tool disc with two fine horizontal calibration rods. Contemporary artisan character illustration with precise warm metal, no robe, no logos. Structural palette cues only: 底面为浅米灰色; 上半部中央有圆形金色徽章; 细横线将正面分出上下区域. Do not reproduce the packaging itself.",
+    "status": "G5-approved",
+    "assetPath": "site-v2/assets/characters/v2/sku-yanpk-139-v2.png",
+    "review": {
+      "date": "2026-10-15",
+      "alpha": "true",
+      "solidBorder": "clear",
+      "humanApproval": "approved",
+      "note": "色彩图与剪影联系表目视检查；不代表已完成独立观众盲测或权利审定。",
+      "approvalEvidence": "2026-10-15 用户：形象设计的不错，继续执行"
+    },
+    "nativeSource": "exec-dcc16f75-6e2b-466e-82d0-aa977a9ee9f8.png",
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "sha256": "4147ecd34b7a4a9e620ef8a5d2be9e96560681a30f04baf853917037147bf7f1",
+    "tool": "built-in image_gen",
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-13",
+    "title": "把风留在水面",
+    "name": "白沙软",
+    "type": "动物 / 拟人",
+    "alternative": "镂空雕塑",
+    "family": "double-neck-white-avian",
+    "observedElements": [
+      "主体为白色底面",
+      "中部绿色图形中可见两只白色鸟形轮廓",
+      "底边有红黑相间的卷曲装饰带"
+    ],
+    "translations": [
+      [
+        "两只白色鸟形",
+        "双颈但共用一副成年水鸟骨架"
+      ],
+      [
+        "绿色椭圆式区域",
+        "背部环形苔色翼架"
+      ],
+      [
+        "底部红黑卷纹",
+        "脚踝的弯曲红黑金属环"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: One fantastical adult water bird with two long differently curved necks sharing one coherent avian skeleton, elongated white bodies formed by open negative spaces, moss-green circular wing frame, red and black curved metal ankle rings. Wide stance on three articulated feet and one backward wing. Elegant sculptural biological concept art, NOT two separate birds, not cute, no eyes enlarged. Structural palette cues only: 主体为白色底面; 中部绿色图形中可见两只白色鸟形轮廓; 底边有红黑相间的卷曲装饰带. Do not reproduce the packaging itself.",
+    "status": "G5-approved",
+    "assetPath": "site-v2/assets/characters/v2/sku-yanpk-13-v2.png",
+    "review": {
+      "date": "2026-10-15",
+      "alpha": "true",
+      "solidBorder": "clear",
+      "humanApproval": "approved",
+      "note": "色彩图与剪影联系表目视检查；不代表已完成独立观众盲测或权利审定。",
+      "approvalEvidence": "2026-10-15 用户：形象设计的不错，继续执行"
+    },
+    "nativeSource": "exec-782dba0d-e076-44b5-8e0f-4887271b4572.png",
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "sha256": "192a4f52223575ccc5c0215b3df01cc05e7d2a85ce13fdf0ac889b97fdf163a2",
+    "tool": "built-in image_gen",
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-1101",
+    "title": "青色弧线的译者",
+    "name": "南京(炫赫门)",
+    "type": "都市 / 时装人物",
+    "alternative": "动物 / 幻想长蛇",
+    "family": "urban-loop-arm",
+    "observedElements": [
+      "主体底色为浅青蓝",
+      "中部有赭金色龙形弧曲图案",
+      "四周由细窄装饰框收边"
+    ],
+    "translations": [
+      [
+        "浅青蓝大底",
+        "成年译者的短款青色机能外套"
+      ],
+      [
+        "赭金弧曲图案",
+        "沿手臂盘绕的开放铜色译码环"
+      ],
+      [
+        "细窄边框",
+        "鞋底与护目镜上的断续窄线"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: A mature 32-year-old woman with narrow long face, shaved-side dark hair and a short muted-cyan technical jacket, slate cargo trousers, angular high boots. Copper open decoding loops coil along one forearm without forming a dragon logo. Mid-stride turning to listen, free arm extended down diagonally, serious expressive face. Fashion concept illustration with subtle cel shading, no long gown. Structural palette cues only: 主体底色为浅青蓝; 中部有赭金色龙形弧曲图案; 四周由细窄装饰框收边. Do not reproduce the packaging itself.",
+    "status": "G5-approved",
+    "assetPath": "site-v2/assets/characters/v2/sku-yanpk-1101-v2.png",
+    "review": {
+      "date": "2026-10-15",
+      "alpha": "true",
+      "solidBorder": "clear",
+      "humanApproval": "approved",
+      "note": "色彩图与剪影联系表目视检查；不代表已完成独立观众盲测或权利审定。",
+      "approvalEvidence": "2026-10-15 用户：形象设计的不错，继续执行"
+    },
+    "nativeSource": "exec-d10bcf7d-af1d-45a7-9de6-af7b6e65f234.png",
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "sha256": "9edb2aede2c9d54add268a7acc68b24a8f94da30f18aa2a8010dc82b0137d2ec",
+    "tool": "built-in image_gen",
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-2501",
+    "title": "悬石不落的午后",
+    "name": "南京(雨花石)",
+    "type": "器物 / 自然概念",
+    "alternative": "幻想人物",
+    "family": "split-levitating-mineral",
+    "observedElements": [
+      "正面主体为鲜黄色",
+      "中部有横向的多色图画区域",
+      "上部红色文字与下部文字区分列在画幅两侧"
+    ],
+    "translations": [
+      [
+        "大面积黄色",
+        "漂浮矿石的暖黄断面"
+      ],
+      [
+        "多色横向画幅",
+        "悬石之间一条多色晶体裂隙"
+      ],
+      [
+        "上下文字分区",
+        "上下分离却彼此平衡的岩块"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: One nonhuman levitating mineral entity: two offset warm yellow rock halves suspended across a bright multicolored crystalline horizontal fissure. Upper slab triangular and lower slab rounded, off-center green leaf emerging between them. Low wide asymmetrical silhouette, geological striations and vivid muted purple teal crystal bands. Painterly mineral sculpture concept, no face or anthropomorphic clothing. Structural palette cues only: 正面主体为鲜黄色; 中部有横向的多色图画区域; 上部红色文字与下部文字区分列在画幅两侧. Do not reproduce the packaging itself.",
+    "status": "G5-approved",
+    "assetPath": "site-v2/assets/characters/v2/sku-yanpk-2501-v2.png",
+    "review": {
+      "date": "2026-10-15",
+      "alpha": "true",
+      "solidBorder": "clear",
+      "humanApproval": "approved",
+      "note": "色彩图与剪影联系表目视检查；不代表已完成独立观众盲测或权利审定。",
+      "approvalEvidence": "2026-10-15 用户：形象设计的不错，继续执行"
+    },
+    "nativeSource": "exec-862091b1-99b2-44c0-a984-c118d02e3a3a.png",
+    "width": 1536,
+    "height": 1024,
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "sha256": "e308300ca49c845855ba0158ee25360f4a49ad987912af8278cc84c2cf430725",
+    "tool": "built-in image_gen",
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-469",
+    "title": "旧图上的量塔人",
+    "name": "红塔山(软经典1956)",
+    "type": "传统 / 架空工艺人物",
+    "alternative": "实验版画装置",
+    "family": "bent-older-craftsman-tower",
+    "observedElements": [
+      "主体为纸白色底面",
+      "左侧有朱红色竖向塔形线图",
+      "右侧可见浅金色山形折线"
+    ],
+    "translations": [
+      [
+        "朱红竖塔",
+        "老年量塔人的折叠木尺与窄高背架"
+      ],
+      [
+        "纸白底面",
+        "原色麻布短工衣和灰色围裙"
+      ],
+      [
+        "浅金山线",
+        "横置在膝前的细铜轮廓板"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: A mature 65-year-old male map-and-tower craftsman, weathered square face, grey stubble and hair tied short. Original unbleached linen short work coat, charcoal apron and loose practical trousers; not a reproduction of a specific historical uniform. Deeply bent crouching profile, a narrow tall vermilion folding-wood measuring frame strapped to his back and a horizontal pale brass ridge template over his knees. Adult woodblock-inspired painterly concept art, no front-facing idle pose. Structural palette cues only: 主体为纸白色底面; 左侧有朱红色竖向塔形线图; 右侧可见浅金色山形折线. Do not reproduce the packaging itself.",
+    "status": "G5-approved",
+    "assetPath": "site-v2/assets/characters/v2/sku-yanpk-469-v2.png",
+    "review": {
+      "date": "2026-10-15",
+      "alpha": "true",
+      "solidBorder": "clear",
+      "humanApproval": "approved",
+      "note": "色彩图与剪影联系表目视检查；不代表已完成独立观众盲测或权利审定。",
+      "approvalEvidence": "2026-10-15 用户：形象设计的不错，继续执行"
+    },
+    "nativeSource": "exec-1002a02a-44f4-4ba8-be70-8c0d4945f78f.png",
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "sha256": "265d6e33f1f50d32f1364ee24cb26da3b12af20b2a51ec78516f2993beb79ecd",
+    "tool": "built-in image_gen",
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-2273",
+    "title": "狼在空白处停下",
+    "name": "七匹狼(纯境)",
+    "type": "动物 / 拟人",
+    "alternative": "极简装置",
+    "family": "long-muzzle-quadruped-wolf",
+    "observedElements": [
+      "大部分幅面为浅米白色",
+      "中央有较小的灰色矩形徽章",
+      "徽章内部可见红色小图形"
+    ],
+    "translations": [
+      [
+        "浅米白空白",
+        "成年长吻狼稀疏的白灰毛面"
+      ],
+      [
+        "灰色小矩形",
+        "肩背的一块薄矩形石板"
+      ],
+      [
+        "一点红色",
+        "前肢上一条很短的红色织带"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: A mature grey-white wolf in realistic elongated quadrupedal anatomy, long muzzle, upright ears, powerful low shoulders, thin rectangular grey stone slab held by an abstract harness on its back and one short dark red woven band on a foreleg. Paused mid-step with head low and tail sweeping sideways. Sophisticated fantasy wildlife concept art with textured pale fur, not cute, not a mascot, no cigarette or package. Structural palette cues only: 大部分幅面为浅米白色; 中央有较小的灰色矩形徽章; 徽章内部可见红色小图形. Do not reproduce the packaging itself.",
+    "status": "G5-approved",
+    "assetPath": "site-v2/assets/characters/v2/sku-yanpk-2273-v2.png",
+    "review": {
+      "date": "2026-10-15",
+      "alpha": "true",
+      "solidBorder": "clear",
+      "humanApproval": "approved",
+      "note": "色彩图与剪影联系表目视检查；不代表已完成独立观众盲测或权利审定。",
+      "approvalEvidence": "2026-10-15 用户：形象设计的不错，继续执行"
+    },
+    "nativeSource": "exec-436855f1-2ebe-46f2-a581-33a6da366cd5.png",
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "sha256": "98e54f4ca1539960b26d4174994f3e650e7f02351257abaf09898be2c8c421c5",
+    "tool": "built-in image_gen",
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-1690",
+    "title": "盾里没有命令",
+    "name": "泰山(白将军)",
+    "type": "幻想 / 科幻人物",
+    "alternative": "传统 / 架空守卫",
+    "family": "low-shield-armored-guard",
+    "observedElements": [
+      "上方为饱和红色色块",
+      "下方为银灰色区域",
+      "中央有红金相间的盾形图案"
+    ],
+    "translations": [
+      [
+        "红色上半部",
+        "成年守夜者上身不对称红色装甲"
+      ],
+      [
+        "银灰下半部",
+        "宽阔的金属护胫与低重心姿态"
+      ],
+      [
+        "中央盾形",
+        "胸前开合的空心护板"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: A mature 45-year-old androgynous night guard with broad jaw and cropped grey hair, bulky asymmetrical upper red armor, low wide silver-grey greaves and an empty shield-shaped articulated chest plate opened as a soft lantern. Kneeling sideways in a protective low stance, no weapon, no emblems. Refined science-fiction armor concept painting, adult proportions, no skirt or long robe. Structural palette cues only: 上方为饱和红色色块; 下方为银灰色区域; 中央有红金相间的盾形图案. Do not reproduce the packaging itself.",
+    "status": "G5-approved",
+    "assetPath": "site-v2/assets/characters/v2/sku-yanpk-1690-v2.png",
+    "review": {
+      "date": "2026-10-15",
+      "alpha": "true",
+      "solidBorder": "clear",
+      "humanApproval": "approved",
+      "note": "色彩图与剪影联系表目视检查；不代表已完成独立观众盲测或权利审定。",
+      "approvalEvidence": "2026-10-15 用户：形象设计的不错，继续执行"
+    },
+    "nativeSource": "exec-8aad32a9-04f5-4e82-a980-a017bdc7a257.png",
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "sha256": "63f83ab607b8e3b8e6a56ef38899286e5b19c244a67d5f534d73aaaa9b87494d",
+    "tool": "built-in image_gen",
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-1181",
+    "title": "山线借走了脚步",
+    "name": "泰山(望岳)",
+    "type": "动物 / 自然幻想",
+    "alternative": "器物 / 山形装置",
+    "family": "low-geological-tortoise",
+    "observedElements": [
+      "主体为浅灰白色",
+      "上部有深色小矩形区域",
+      "文字附近可见细灰色山形与建筑式线条"
+    ],
+    "translations": [
+      [
+        "浅灰白底",
+        "成年石龟的浅灰多面甲壳"
+      ],
+      [
+        "细山形线条",
+        "甲壳边缘起伏的山脊"
+      ],
+      [
+        "上部深色矩形",
+        "悬在背甲上的窄长遮雨板"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: One mature slow stone tortoise, very low wide quadrupedal profile, pale grey multifaceted shell whose edge rises into a miniature abstract mountain ridge, a separate narrow dark rectangular rain canopy floating just over the shell. One heavy front foot lifted, neck extended to the side. Grounded geological creature concept art, not a miniature landscape background, no face stylization or cute eyes. Structural palette cues only: 主体为浅灰白色; 上部有深色小矩形区域; 文字附近可见细灰色山形与建筑式线条. Do not reproduce the packaging itself.",
+    "status": "G5-approved",
+    "assetPath": "site-v2/assets/characters/v2/sku-yanpk-1181-v2.png",
+    "review": {
+      "date": "2026-10-15",
+      "alpha": "true",
+      "solidBorder": "clear",
+      "humanApproval": "approved",
+      "note": "色彩图与剪影联系表目视检查；不代表已完成独立观众盲测或权利审定。",
+      "approvalEvidence": "2026-10-15 用户：形象设计的不错，继续执行"
+    },
+    "nativeSource": "exec-52b0c1a8-f9cc-4ffa-a4cb-4490c3557578.png",
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "sha256": "10ca1a926e29baa5cc27ce77726e51062f9ce5e9ba2791ab692604e3531522c0",
+    "tool": "built-in image_gen",
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-3",
+    "title": "根须不认得地图",
+    "name": "长白山(人参)",
+    "type": "器物 / 自然概念",
+    "alternative": "实验雕塑",
+    "family": "branching-root-walker",
+    "observedElements": [
+      "上半部以黄色为主",
+      "下部为橙色横向区域",
+      "左侧有细长分叉的根形线图"
+    ],
+    "translations": [
+      [
+        "分叉根形线图",
+        "由多根弯曲木须组成的非人形行者"
+      ],
+      [
+        "黄色上部",
+        "干燥黄木色的上半体"
+      ],
+      [
+        "橙色下部",
+        "近地处几片半透明琥珀色鳍片"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: One nonhuman root-walker assembled from many twisting dry golden-yellow wooden tendrils of different lengths, empty central coil, no human head or torso, several translucent amber fins near the ground. Strong asymmetric spiral silhouette, a few tiny fibrous offshoots. Adult botanical speculative sculpture illustration, finely observed dry wood grain; do not claim any health benefit or show medicinal products. Structural palette cues only: 上半部以黄色为主; 下部为橙色横向区域; 左侧有细长分叉的根形线图. Do not reproduce the packaging itself.",
+    "status": "G5-approved",
+    "assetPath": "site-v2/assets/characters/v2/sku-yanpk-3-v2.png",
+    "review": {
+      "date": "2026-10-15",
+      "alpha": "true",
+      "solidBorder": "clear",
+      "humanApproval": "approved",
+      "note": "色彩图与剪影联系表目视检查；不代表已完成独立观众盲测或权利审定。",
+      "approvalEvidence": "2026-10-15 用户：形象设计的不错，继续执行"
+    },
+    "nativeSource": "exec-228749b5-98ba-458c-a6c9-a28b0ec92a79.png",
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "sha256": "177f0032548376581f1fca21acf068e8b7efe833c426df04a00bf5be118e3b5b",
+    "tool": "built-in image_gen",
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-851",
+    "title": "花瓣替谁转身",
+    "name": "牡丹(软)",
+    "type": "器物 / 自然概念",
+    "alternative": "都市 / 舞台人物",
+    "family": "faceless-peony-rotor",
+    "observedElements": [
+      "主体为鲜红底色",
+      "上部有粉白色多瓣花朵",
+      "花朵周围分布绿色叶片"
+    ],
+    "translations": [
+      [
+        "粉白多瓣花朵",
+        "不具人脸的层叠花瓣旋转体"
+      ],
+      [
+        "绿色叶片",
+        "低处三片不对称支撑翼"
+      ],
+      [
+        "鲜红底色",
+        "花心深红色的悬浮球核"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: A nonhuman hovering peony rotor: many layered pink-and-ivory petals revolve around an exposed deep crimson suspended spherical core. Three asymmetric dark-green structural leaf wings support the lower petals. No human face, no arms, no humanoid legs. Mature sculptural botanical fantasy concept art, dramatic open negative spaces, no adorable flower character or commercial label. Structural palette cues only: 主体为鲜红底色; 上部有粉白色多瓣花朵; 花朵周围分布绿色叶片. Do not reproduce the packaging itself.",
+    "status": "G5-approved",
+    "assetPath": "site-v2/assets/characters/v2/sku-yanpk-851-v2.png",
+    "review": {
+      "date": "2026-10-15",
+      "alpha": "true",
+      "solidBorder": "clear",
+      "humanApproval": "approved",
+      "note": "色彩图与剪影联系表目视检查；不代表已完成独立观众盲测或权利审定。",
+      "approvalEvidence": "2026-10-15 用户：形象设计的不错，继续执行"
+    },
+    "nativeSource": "exec-f01a7740-3734-48e5-a681-f38140e2b91b.png",
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "sha256": "df2edb49df9fc4347ac17ad6a60c99c42f500071cb0efa766b12ea4d17486353",
+    "tool": "built-in image_gen",
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-94728",
+    "title": "青釉听见的雨",
+    "name": "金圣(青瓷)",
+    "type": "器物 / 自然概念",
+    "alternative": "幻想 / 科幻人物",
+    "family": "celadon-acoustic-shards",
+    "observedElements": [
+      "主体为明亮青绿色",
+      "上半部中央有金色圆形装饰",
+      "圆形周围可见浅色卷曲纹样"
+    ],
+    "translations": [
+      [
+        "明亮青绿底",
+        "没有人脸的裂片青釉声学器"
+      ],
+      [
+        "金色圆形装饰",
+        "悬浮在器物中央的细金环"
+      ],
+      [
+        "浅色卷纹",
+        "器物表面半透明的流线腔道"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: One faceless acoustic listening artifact assembled from several asymmetrical celadon-green glazed ceramic horn shards, an empty gold ring floating in the central gap and translucent pale flowing air channels embedded in the glaze. Wide funnel opening tilted sideways on three uneven ceramic points. Elegant highly detailed ceramic and brass concept art, hairline glaze texture, no face, no torso, no vessel label. Structural palette cues only: 主体为明亮青绿色; 上半部中央有金色圆形装饰; 圆形周围可见浅色卷曲纹样. Do not reproduce the packaging itself.",
+    "status": "G5-approved",
+    "assetPath": "site-v2/assets/characters/v2/sku-yanpk-94728-v2.png",
+    "review": {
+      "date": "2026-10-15",
+      "alpha": "true",
+      "solidBorder": "clear",
+      "humanApproval": "approved",
+      "note": "色彩图与剪影联系表目视检查；不代表已完成独立观众盲测或权利审定。",
+      "approvalEvidence": "2026-10-15 用户：形象设计的不错，继续执行"
+    },
+    "nativeSource": "exec-95d6e15a-fe4f-453f-91b0-27502cca575d.png",
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "sha256": "afe2253a3493a6b278b95602fb083c8678098a7b0002137815ecaf601359f0e8",
+    "tool": "built-in image_gen",
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-92590",
+    "title": "八个方向的雪",
+    "name": "雪莲(尚禧)",
+    "type": "幻想 / 科幻装置",
+    "alternative": "动物 / 幻想水母",
+    "family": "eight-axis-snow-drone",
+    "observedElements": [
+      "主体底色为浅米白",
+      "左侧竖向排列多色小格与放射形图案",
+      "右上分布红色文字与细小点阵"
+    ],
+    "translations": [
+      [
+        "放射形图案",
+        "展开成八向的金属雪晶侦测器"
+      ],
+      [
+        "竖向多色小格",
+        "沿一条偏轴排列的不同材质翼片"
+      ],
+      [
+        "浅米白底",
+        "磨砂白陶瓷外壳与深色关节"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: One nonhuman octagonal snow-crystal sensor drone: eight uneven radial metallic wings fold around a hollow frosted-ivory ceramic central hub; small deep-red locator and an off-axis vertical sequence of colored glass plates. Three wings folded inward, remaining wings spread as angular lattice, asymmetrical mechanical silhouette. Precise mature science-fiction industrial concept art, not a toy or childish snowflake mascot. Structural palette cues only: 主体底色为浅米白; 左侧竖向排列多色小格与放射形图案; 右上分布红色文字与细小点阵. Do not reproduce the packaging itself.",
+    "status": "G5-approved",
+    "assetPath": "site-v2/assets/characters/v2/sku-yanpk-92590-v2.png",
+    "review": {
+      "date": "2026-10-15",
+      "alpha": "true",
+      "solidBorder": "clear",
+      "humanApproval": "approved",
+      "note": "色彩图与剪影联系表目视检查；不代表已完成独立观众盲测或权利审定。",
+      "approvalEvidence": "2026-10-15 用户：形象设计的不错，继续执行"
+    },
+    "nativeSource": "exec-170058a3-97a5-43ed-a2d2-e7180cea2417.png",
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "sha256": "a48be6b4409ed312239b1200365e96fae55fa6b37748f5b599399ba9d2abaf27",
+    "tool": "built-in image_gen",
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-94039",
+    "title": "潮线离开海面",
+    "name": "三沙(金)",
+    "type": "动物 / 自然幻想",
+    "alternative": "实验平面角色",
+    "family": "wide-asymmetric-ray",
+    "observedElements": [
+      "主体为浅米白色",
+      "一条多色波浪带斜穿上半部",
+      "浅色细线纹样分布在空白区域"
+    ],
+    "translations": [
+      [
+        "斜向多色波浪带",
+        "成年鳐形生物展开的不对称长翼"
+      ],
+      [
+        "浅米白底",
+        "薄而半透明的白色腹面"
+      ],
+      [
+        "浅色细线纹样",
+        "翼面内部缓慢分叉的导流线"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: One mature fantastical manta ray with wide asymmetrical ivory translucent wings, a diagonal restrained green-blue-gold iridescent wave band across its upper surface, fine branching flow channels within its wings and long tapered tail curling upward. Hovering dynamic three-quarter view, one wing lifted high, no cartoon face and no clothing. Elegant marine creature concept painting with luminous membrane texture. Structural palette cues only: 主体为浅米白色; 一条多色波浪带斜穿上半部; 浅色细线纹样分布在空白区域. Do not reproduce the packaging itself.",
+    "status": "G5-approved",
+    "assetPath": "site-v2/assets/characters/v2/sku-yanpk-94039-v2.png",
+    "review": {
+      "date": "2026-10-15",
+      "alpha": "true",
+      "solidBorder": "clear",
+      "humanApproval": "approved",
+      "note": "色彩图与剪影联系表目视检查；不代表已完成独立观众盲测或权利审定。",
+      "approvalEvidence": "2026-10-15 用户：形象设计的不错，继续执行"
+    },
+    "nativeSource": "exec-2f6b04d4-6552-4ea5-a50c-ec6c35f549e7.png",
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "sha256": "ecc212008fb29c52d191a7b33b235298ec92fbbb655ed59a908d76ef77f329f3",
+    "tool": "built-in image_gen",
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-94061",
+    "title": "边框没有关上",
+    "name": "南京炫赫门炫彩",
+    "type": "实验平面角色",
+    "alternative": "幻想 / 科幻人物",
+    "family": "open-frame-silver-film",
+    "observedElements": [
+      "主体呈银蓝色渐变",
+      "中央有赭金色弧曲龙形图案",
+      "深浅相间的窄边框环绕四周"
+    ],
+    "translations": [
+      [
+        "银蓝渐变",
+        "由两条银蓝薄膜构成的开放身体"
+      ],
+      [
+        "赭金弧曲图案",
+        "一根穿过薄膜的铜色弧形脊线"
+      ],
+      [
+        "四周窄边框",
+        "四段悬空而不闭合的细矩形骨架"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: One experimental nonhuman entity made of two very thin silver-blue gradient films curling around a single copper arcing spine, with four fine dark rectangular struts that never close into a box. No head or facial features, no human anatomy, weightless skewed sculpture with translucent overlaps. Sophisticated contemporary poster-collage and polished metal concept rendering, irregular diagonal silhouette. Structural palette cues only: 主体呈银蓝色渐变; 中央有赭金色弧曲龙形图案; 深浅相间的窄边框环绕四周. Do not reproduce the packaging itself.",
+    "status": "G5-approved",
+    "assetPath": "site-v2/assets/characters/v2/sku-yanpk-94061-v2.png",
+    "review": {
+      "date": "2026-10-15",
+      "alpha": "true",
+      "solidBorder": "clear",
+      "humanApproval": "approved",
+      "note": "色彩图与剪影联系表目视检查；不代表已完成独立观众盲测或权利审定。",
+      "approvalEvidence": "2026-10-15 用户：形象设计的不错，继续执行"
+    },
+    "nativeSource": "exec-6650e384-d0d6-4f10-bf7e-a38033ca09cf.png",
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "sha256": "bcd555741bb5e8f2f464c4b8f57eb1d5e09dfc938b9f8befd18a0c445c978d86",
+    "tool": "built-in image_gen",
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-104364",
+    "number": "21",
+    "batch": "G6-02",
+    "title": "银线量过的距离",
+    "name": "中华(硬)",
+    "type": "折刃机械兽",
+    "alternative": "折叠建筑装置",
+    "family": "silver-jawed-red-crustacean",
+    "observedElements": [
+      "红色占据正面",
+      "上部有银色横线",
+      "建筑式金色轮廓横向展开"
+    ],
+    "translations": [
+      [
+        "银色横线",
+        "双钳的平直量尺"
+      ],
+      [
+        "朱红色面",
+        "厚重的红色甲片"
+      ],
+      [
+        "横向楼阁轮廓",
+        "低矮的屋脊背壳"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: red silver geometric crustacean with a long flat architectural back, two differently sized silver measuring-claw arms spread horizontally, vermilion angular chitin, four low splayed legs. No face or human body. Asymmetric three-quarter view, hand-painted fantasy industrial concept art, simple broad planes. Packaging-derived structural cues only: 红色占据正面; 上部有银色横线; 建筑式金色轮廓横向展开. No package, commercial text or copied trademark. Preserve an independent adult museum character, readable silhouette and transparent background.",
+    "status": "frozen-per-user",
+    "assetPath": "site-v2/assets/characters/v2/sku-yanpk-104364-v2.png",
+    "review": {
+      "date": "2026-10-15",
+      "generationFrozen": true,
+      "note": "用户要求当前组完成后停止生成，已成图保留，不再重绘。"
+    },
+    "nativeSource": "exec-e942ec24-2619-497b-9597-921a04abde8e.png",
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "sha256": "349b5dbf736965a432e8d0ee4e0f2314b0c51f0418040bc358501528dfd6d4c4",
+    "tool": "built-in image_gen",
+    "inspectionObservations": [
+      "红色占据正面",
+      "上部有银色横线",
+      "建筑式金色轮廓横向展开",
+      "上部有文字信息区",
+      "下部文字集中成行",
+      "主要图形沿正面纵向中轴排列"
+    ],
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-93483",
+    "number": "22",
+    "batch": "G6-02",
+    "title": "两扇门一起转动",
+    "name": "中华(双中支)",
+    "type": "双轴转门",
+    "alternative": "折纸双生体",
+    "family": "offset-double-gate",
+    "observedElements": [
+      "红色底面较明亮",
+      "四周有细金色边框",
+      "中央建筑呈近似对称的横向结构"
+    ],
+    "translations": [
+      [
+        "对称建筑",
+        "两片偏轴门架"
+      ],
+      [
+        "细金色边框",
+        "可转动的金属铰线"
+      ],
+      [
+        "明亮红底",
+        "两扇漆红门面"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: two connected hollow vermilion arch frames pivoting around one off-center gold hinge, independent upper and lower lintels, one square foot and one thin counterweight, asymmetrical open architectural kinetic sculpture. No face, no person, no box, restrained aged brass and lacquer, painterly rendering. Packaging-derived structural cues only: 红色底面较明亮; 四周有细金色边框; 中央建筑呈近似对称的横向结构. No package, commercial text or copied trademark. Preserve an independent adult museum character, readable silhouette and transparent background.",
+    "status": "frozen-per-user",
+    "assetPath": "site-v2/assets/characters/v2/sku-yanpk-93483-v2.png",
+    "review": {
+      "date": "2026-10-15",
+      "generationFrozen": true,
+      "note": "用户要求当前组完成后停止生成，已成图保留，不再重绘。"
+    },
+    "nativeSource": "exec-d9d329d7-cfea-45e8-ad17-c894920a3427.png",
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "sha256": "2c7010ee71d32c6280315f2f40d688ea3630b509370ff5c8d1d6a2bee1a129f9",
+    "tool": "built-in image_gen",
+    "inspectionObservations": [
+      "红色底面较明亮",
+      "四周有细金色边框",
+      "中央建筑呈近似对称的横向结构",
+      "上部有文字信息区",
+      "下部文字集中成行",
+      "主要图形沿正面纵向中轴排列"
+    ],
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-92911",
+    "number": "23",
+    "batch": "G6-02",
+    "title": "把金边举高一点",
+    "name": "中华(金中支)",
+    "type": "高足薄翼体",
+    "alternative": "都市装置人物",
+    "family": "high-stilt-eave-insect",
+    "observedElements": [
+      "正面为鲜红色块",
+      "底部有金色横向收边",
+      "中央楼阁上缘形成阶梯轮廓"
+    ],
+    "translations": [
+      [
+        "金色收边",
+        "细长高足"
+      ],
+      [
+        "阶梯楼阁",
+        "阶梯状薄翼"
+      ],
+      [
+        "红色块面",
+        "三角帆腹"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: one tall nonhuman vermilion wading insect with four extremely long thin gold legs, a small stepped horizontal wing plate held high, asymmetric antennae and no humanoid anatomy. The body is a broad red triangular sail, one leg raised. Precise editorial fantasy concept art with matte red silk and brushed gold. Packaging-derived structural cues only: 正面为鲜红色块; 底部有金色横向收边; 中央楼阁上缘形成阶梯轮廓. No package, commercial text or copied trademark. Preserve an independent adult museum character, readable silhouette and transparent background.",
+    "status": "frozen-per-user",
+    "assetPath": "site-v2/assets/characters/v2/sku-yanpk-92911-v2.png",
+    "review": {
+      "date": "2026-10-15",
+      "generationFrozen": true,
+      "note": "用户要求当前组完成后停止生成，已成图保留，不再重绘。"
+    },
+    "nativeSource": "exec-29e00572-a0a0-4227-a8d7-4e015ca55939.png",
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "sha256": "ed683e89b58b0dca812f9ae868ea8952712b89ac88119a40c03a0ffb45e63fe6",
+    "tool": "built-in image_gen",
+    "inspectionObservations": [
+      "正面为鲜红色块",
+      "底部有金色横向收边",
+      "中央楼阁上缘形成阶梯轮廓",
+      "上部有文字信息区",
+      "下部文字集中成行",
+      "主要图形沿正面纵向中轴排列"
+    ],
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-94926",
+    "number": "24",
+    "batch": "G6-02",
+    "title": "窄巷的送信人",
+    "name": "中华(细支)",
+    "type": "现代窄肩信使",
+    "alternative": "悬浮测绘笔",
+    "family": "narrow-courier-man",
+    "observedElements": [
+      "红色正面呈窄长比例",
+      "四周为细金色框线",
+      "金色楼阁集中在上半部"
+    ],
+    "translations": [
+      [
+        "窄长比例",
+        "窄肩奔跑剪影"
+      ],
+      [
+        "金色细框",
+        "背部开放式递信架"
+      ],
+      [
+        "上部楼阁",
+        "衣领的折叠层次"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: a clearly adult 46-year-old lean male courier with long narrow face, buzz cut and subtle beard, short fitted deep-red technical jacket with narrow gold seam lines, charcoal slim trousers, single tall open brass frame strapped diagonally behind one shoulder. Leaning forward in a running turn, one hand passing a folded blank sheet. Contemporary character painting, no robe or logos. Packaging-derived structural cues only: 红色正面呈窄长比例; 四周为细金色框线; 金色楼阁集中在上半部. No package, commercial text or copied trademark. Preserve an independent adult museum character, readable silhouette and transparent background.",
+    "status": "frozen-per-user",
+    "assetPath": "site-v2/assets/characters/v2/sku-yanpk-94926-v2.png",
+    "review": {
+      "date": "2026-10-15",
+      "generationFrozen": true,
+      "note": "用户要求当前组完成后停止生成，已成图保留，不再重绘。"
+    },
+    "inspectionObservations": [
+      "红色正面呈窄长比例",
+      "四周为细金色框线",
+      "金色楼阁集中在上半部",
+      "上部有文字信息区",
+      "下部文字集中成行",
+      "主要图形沿正面纵向中轴排列"
+    ],
+    "nativeSource": "exec-15b2f443-d280-4b90-be71-5d492841e458.png",
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "sha256": "a16c55d27938e06374c47b96fd4378f09d3671c00cec4c9b3b201dd72227d76b",
+    "tool": "built-in image_gen",
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-1237",
+    "number": "25",
+    "batch": "G6-02",
+    "title": "云纹绕过一只耳朵",
+    "name": "云烟(紫)",
+    "type": "云壳听风体",
+    "alternative": "曲线书写者",
+    "family": "maroon-cloud-conch",
+    "observedElements": [
+      "红褐色面有层次变化",
+      "中部为圆角云形轮廓",
+      "云形内部有金黄色色块"
+    ],
+    "translations": [
+      [
+        "云形外缘",
+        "起伏的螺壳口"
+      ],
+      [
+        "金黄色中心",
+        "内部听风腔"
+      ],
+      [
+        "红褐色层次",
+        "螺壳明暗层叠"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: one mature nonhuman maroon nautilus-like listening creature, a large rounded cloud-lobed shell with an ochre inner opening, three slender curling stone feelers, no humanoid face, asymmetrical low hovering silhouette. Dark red lacquer, matte ochre and fine pale edges, painterly biological sculpture. Packaging-derived structural cues only: 红褐色面有层次变化; 中部为圆角云形轮廓; 云形内部有金黄色色块. No package, commercial text or copied trademark. Preserve an independent adult museum character, readable silhouette and transparent background.",
+    "status": "frozen-per-user",
+    "assetPath": "site-v2/assets/characters/v2/sku-yanpk-1237-v2.png",
+    "review": {
+      "date": "2026-10-15",
+      "generationFrozen": true,
+      "note": "用户要求当前组完成后停止生成，已成图保留，不再重绘。"
+    },
+    "inspectionObservations": [
+      "红褐色面有层次变化",
+      "中部为圆角云形轮廓",
+      "云形内部有金黄色色块",
+      "上部有文字信息区",
+      "下部文字集中成行",
+      "主要图形沿正面纵向中轴排列"
+    ],
+    "nativeSource": "exec-d8da0c49-f618-46a1-9678-67d02b629298.png",
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "sha256": "649b4072f30ab52d11cdb708070efb647c23a5608cacc288d512d3685b5fbc32",
+    "tool": "built-in image_gen",
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-1234",
+    "number": "26",
+    "batch": "G6-02",
+    "title": "修补圆角的人",
+    "name": "云烟(软珍品)",
+    "type": "成年女性修补师",
+    "alternative": "圆角甲虫",
+    "family": "rounded-panel-restorer",
+    "observedElements": [
+      "红褐底部覆盖大部分正面",
+      "中央有浅金色圆角面板",
+      "上部有一块深色区域"
+    ],
+    "translations": [
+      [
+        "浅金圆角面板",
+        "手中的修补框"
+      ],
+      [
+        "红褐底色",
+        "耐磨工作服"
+      ],
+      [
+        "深色顶部",
+        "短围裙的深色肩片"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: an adult 58-year-old woman ceramic restorer, grey curly short hair, strong round face with wrinkles, ochre short apron over maroon working overalls. Seated sideways on a low integral stool, holding a thin rounded golden repair frame between both hands, leaning forward. Contemporary painterly artisan illustration, broad rounded seams and no robe. Packaging-derived structural cues only: 红褐底部覆盖大部分正面; 中央有浅金色圆角面板; 上部有一块深色区域. No package, commercial text or copied trademark. Preserve an independent adult museum character, readable silhouette and transparent background.",
+    "status": "frozen-per-user",
+    "assetPath": "site-v2/assets/characters/v2/sku-yanpk-1234-v2.png",
+    "review": {
+      "date": "2026-10-15",
+      "generationFrozen": true,
+      "note": "用户要求当前组完成后停止生成，已成图保留，不再重绘。"
+    },
+    "inspectionObservations": [
+      "红褐底部覆盖大部分正面",
+      "中央有浅金色圆角面板",
+      "上部有一块深色区域",
+      "上部有文字信息区",
+      "下部文字集中成行",
+      "主要图形沿正面纵向中轴排列"
+    ],
+    "nativeSource": "exec-cb5fba74-87f7-464e-942b-6496728a0ce7.png",
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "sha256": "ff7ac76260c93e6b1c32d9a530a5af4ea53fb00c9ece30f9818f7f0a04759cce",
+    "tool": "built-in image_gen",
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-92691",
+    "number": "27",
+    "batch": "G6-02",
+    "title": "空白处盘着一阵风",
+    "name": "云烟(细支云龙)",
+    "type": "空腔纸蛇",
+    "alternative": "白金风向装置",
+    "family": "ivory-open-air-serpent",
+    "observedElements": [
+      "大面积米白色底",
+      "浅金细线构成弯曲纹样",
+      "中部有小块红金色云形区"
+    ],
+    "translations": [
+      [
+        "米白留白",
+        "开放的纸鳍间隙"
+      ],
+      [
+        "浅金弯线",
+        "弯曲中轴"
+      ],
+      [
+        "红金色小块",
+        "中轴上唯一红色关节"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: one long hollow ivory paper serpent made of separated curved translucent fins around a sparse fine gold wire spine, tiny muted-red central joint, no dragon face, no human anatomy. Coiled in an irregular open S with large negative spaces and one tapered tail. Refined paper and ceramic concept art, no dense filigree. Packaging-derived structural cues only: 大面积米白色底; 浅金细线构成弯曲纹样; 中部有小块红金色云形区. No package, commercial text or copied trademark. Preserve an independent adult museum character, readable silhouette and transparent background.",
+    "status": "frozen-per-user",
+    "assetPath": "site-v2/assets/characters/v2/sku-yanpk-92691-v2.png",
+    "review": {
+      "date": "2026-10-15",
+      "generationFrozen": true,
+      "note": "用户要求当前组完成后停止生成，已成图保留，不再重绘。"
+    },
+    "inspectionObservations": [
+      "大面积米白色底",
+      "浅金细线构成弯曲纹样",
+      "中部有小块红金色云形区",
+      "上部有文字信息区",
+      "下部文字集中成行",
+      "主要图形沿正面纵向中轴排列"
+    ],
+    "nativeSource": "exec-ac44982c-7c7e-4fdd-8886-3d97f37cdd87.png",
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "sha256": "9a75a6768ea2c6fa9400b2e9e3dcaeedc3954a0626291fda4496cfb6d75b7357",
+    "tool": "built-in image_gen",
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-93768",
+    "number": "28",
+    "batch": "G6-02",
+    "title": "把竹影背到城里",
+    "name": "云烟(小熊猫家园)",
+    "type": "都市植物观察员",
+    "alternative": "竹节轮足兽",
+    "family": "green-botanist-backpack",
+    "observedElements": [
+      "正面主体为青绿色",
+      "画面可见竹叶状细线",
+      "中部有圆形动物图案区"
+    ],
+    "translations": [
+      [
+        "竹叶细线",
+        "背架的细竹肋"
+      ],
+      [
+        "青绿色面",
+        "短外套主色"
+      ],
+      [
+        "圆形动物图区",
+        "圆形观察镜结构"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: a clearly adult 41-year-old female urban botanist with deep brown skin, angular face and tied-up curly hair, green practical short jacket and cream wide cargo trousers. Large asymmetrical open bamboo-rib backpack, a round matte lens on one strap, crouching to examine an empty glass specimen disc. Contemporary sophisticated character painting, no panda mascot, no animal ears, no cute proportions. Packaging-derived structural cues only: 正面主体为青绿色; 画面可见竹叶状细线; 中部有圆形动物图案区. No package, commercial text or copied trademark. Preserve an independent adult museum character, readable silhouette and transparent background.",
+    "status": "frozen-per-user",
+    "assetPath": "site-v2/assets/characters/v2/sku-yanpk-93768-v2.png",
+    "review": {
+      "date": "2026-10-15",
+      "generationFrozen": true,
+      "note": "用户要求当前组完成后停止生成，已成图保留，不再重绘。"
+    },
+    "inspectionObservations": [
+      "正面主体为青绿色",
+      "画面可见竹叶状细线",
+      "中部有圆形动物图案区",
+      "上部有文字信息区",
+      "下部文字集中成行",
+      "主要图形沿正面纵向中轴排列"
+    ],
+    "nativeSource": "exec-5dfa5c33-78a4-4a18-ab54-d284e470a069.png",
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "sha256": "d3135e611485f1952620b7acdbddf09950c7218bf038d0e166838033e802ac9c",
+    "tool": "built-in image_gen",
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-93534",
+    "number": "29",
+    "batch": "G6-02",
+    "title": "窄框外还有一步",
+    "name": "云烟(细支珍品)",
+    "type": "长脚框架行者",
+    "alternative": "低矮折叠甲",
+    "family": "tall-brick-open-frame-walker",
+    "observedElements": [
+      "正面为棕红色",
+      "中央金色装饰集中成框",
+      "上部有深色小矩形"
+    ],
+    "translations": [
+      [
+        "金色框区",
+        "悬空的椭圆接口"
+      ],
+      [
+        "窄长棕红面",
+        "三根细高支杆"
+      ],
+      [
+        "深色矩形",
+        "偏轴平衡片"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: one asymmetrical nonhuman walking frame made of three tall brick-red lacquer struts, a small hollow gold oval socket suspended sideways, two long jointed legs of unequal length and a small dark rectangular balancing fin at the top. No face, no person, no box or readable writing. Matte contemporary sculptural character painting with open negative space. Packaging-derived structural cues only: 正面为棕红色; 中央金色装饰集中成框; 上部有深色小矩形. No package, commercial text or copied trademark. Preserve an independent adult museum character, readable silhouette and transparent background.",
+    "status": "frozen-per-user",
+    "assetPath": "site-v2/assets/characters/v2/sku-yanpk-93534-v2.png",
+    "review": {
+      "date": "2026-10-15",
+      "generationFrozen": true,
+      "note": "用户要求当前组完成后停止生成，已成图保留，不再重绘。"
+    },
+    "inspectionObservations": [
+      "正面为棕红色",
+      "中央金色装饰集中成框",
+      "上部有深色小矩形",
+      "上部有文字信息区",
+      "下部文字集中成行",
+      "主要图形沿正面纵向中轴排列"
+    ],
+    "nativeSource": "exec-fb3b8387-2ce6-4203-a6a6-a29a1e6c2c61.png",
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "sha256": "80a5dde76202291c182ad74ef78cdeb016676770702e4006ddde89d1d5a5705a",
+    "tool": "built-in image_gen",
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-93798",
+    "number": "30",
+    "batch": "G6-02",
+    "title": "红翼里的绿色回声",
+    "name": "云烟(软珍品红韵)",
+    "type": "云弧甲虫",
+    "alternative": "软壳舞者",
+    "family": "red-green-hinged-beetle",
+    "observedElements": [
+      "正面为鲜红底色",
+      "中央有金绿相间的圆角云形",
+      "顶部呈黑色窄块"
+    ],
+    "translations": [
+      [
+        "金绿云弧",
+        "翅壳内侧弯线"
+      ],
+      [
+        "鲜红底色",
+        "两片漆红翅鞘"
+      ],
+      [
+        "顶部黑块",
+        "头部小型护甲"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: one mature fantastical beetle with broad vermilion hinged elliptical wing cases, a restrained green inner arc edged in gold, tiny black top shield, six long dark jointed legs, one wing half opened revealing a hollow center. No cute face, no logos, no humanoid clothing. Sophisticated painterly entomological sculpture with matte surfaces. Packaging-derived structural cues only: 正面为鲜红底色; 中央有金绿相间的圆角云形; 顶部呈黑色窄块. No package, commercial text or copied trademark. Preserve an independent adult museum character, readable silhouette and transparent background.",
+    "status": "frozen-per-user",
+    "assetPath": "site-v2/assets/characters/v2/sku-yanpk-93798-v2.png",
+    "review": {
+      "date": "2026-10-15",
+      "generationFrozen": true,
+      "note": "用户要求当前组完成后停止生成，已成图保留，不再重绘。"
+    },
+    "inspectionObservations": [
+      "正面为鲜红底色",
+      "中央有金绿相间的圆角云形",
+      "顶部呈黑色窄块",
+      "上部有文字信息区",
+      "下部文字集中成行",
+      "主要图形沿正面纵向中轴排列"
+    ],
+    "nativeSource": "exec-90317723-b272-4670-8c22-d048b514326c.png",
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "sha256": "e1bedd4cab029c36742993c1cf51b58b2d89165787f64f206a479fde5e4a020a",
+    "tool": "built-in image_gen",
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-1233",
+    "number": "31",
+    "batch": "G6-02",
+    "title": "一条银线不肯落地",
+    "name": "云烟(印象)",
+    "type": "留白悬帆",
+    "alternative": "成年舞台裁片师",
+    "family": "brown-silver-negative-kite",
+    "observedElements": [
+      "正面深棕色接近均匀",
+      "细浅色横线分出留白区",
+      "上部文字区域较为空疏"
+    ],
+    "translations": [
+      [
+        "深棕面",
+        "两块哑光悬帆"
+      ],
+      [
+        "浅色横线",
+        "银色悬索"
+      ],
+      [
+        "空疏文字区",
+        "帆间开放负形"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: one weightless abstract kite entity formed by two dark chocolate matte fabric planes separated by a single thin silver horizontal cable, one tiny pale ceramic counterweight hanging far off-center. Broad empty rectangular gap, skewed diagonal silhouette, no face or human anatomy. Restrained contemporary collage concept art, no ornate metalwork. Packaging-derived structural cues only: 正面深棕色接近均匀; 细浅色横线分出留白区; 上部文字区域较为空疏. No package, commercial text or copied trademark. Preserve an independent adult museum character, readable silhouette and transparent background.",
+    "status": "frozen-per-user",
+    "assetPath": "site-v2/assets/characters/v2/sku-yanpk-1233-v2.png",
+    "review": {
+      "date": "2026-10-15",
+      "generationFrozen": true,
+      "note": "用户要求当前组完成后停止生成，已成图保留，不再重绘。"
+    },
+    "inspectionObservations": [
+      "正面深棕色接近均匀",
+      "细浅色横线分出留白区",
+      "上部文字区域较为空疏",
+      "上部有文字信息区",
+      "下部文字集中成行",
+      "主要图形沿正面纵向中轴排列"
+    ],
+    "nativeSource": "exec-d36ce1ec-16ec-4f50-9e83-c76b0a4e252e.png",
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "sha256": "48f85b7fc6b7d23cc306b0d7754b29816c5b250219a105de8105cb8c0d76347c",
+    "tool": "built-in image_gen",
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-1065",
+    "number": "32",
+    "batch": "G6-02",
+    "title": "棋点走进林子",
+    "name": "玉溪(软)",
+    "type": "点阵鹿",
+    "alternative": "菱面舞者",
+    "family": "red-checkered-geometric-deer",
+    "observedElements": [
+      "上部为红色块",
+      "中间有红白点阵",
+      "点阵中心为菱形图案"
+    ],
+    "translations": [
+      [
+        "红白点阵",
+        "肋侧疏密点纹"
+      ],
+      [
+        "中央菱形",
+        "菱形胸甲"
+      ],
+      [
+        "上部红块",
+        "背部红色折面"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: one mature slim deer constructed from off-white faceted ceramic limbs and a broad red diamond-shaped chest, tiny red grid dots along the flanks, short branched dark antlers, a long lowered neck and one rear leg raised. Natural adult animal proportions, not cute, no logos. Painterly geometric wildlife concept art with strong open-legged silhouette. Packaging-derived structural cues only: 上部为红色块; 中间有红白点阵; 点阵中心为菱形图案. No package, commercial text or copied trademark. Preserve an independent adult museum character, readable silhouette and transparent background.",
+    "status": "frozen-per-user",
+    "assetPath": "site-v2/assets/characters/v2/sku-yanpk-1065-v2.png",
+    "review": {
+      "date": "2026-10-15",
+      "generationFrozen": true,
+      "note": "用户要求当前组完成后停止生成，已成图保留，不再重绘。"
+    },
+    "inspectionObservations": [
+      "上部为红色块",
+      "中间有红白点阵",
+      "点阵中心为菱形图案",
+      "上部有文字信息区",
+      "下部文字集中成行",
+      "主要图形沿正面纵向中轴排列"
+    ],
+    "nativeSource": "exec-2a48ff77-0ec9-48c4-a040-889874e5efce.png",
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "sha256": "94be62d0b14b4e8371cb2c306772d276128d96500ccefcec23c818bd2dcb3626",
+    "tool": "built-in image_gen",
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-1252",
+    "number": "33",
+    "batch": "G6-02",
+    "title": "把方块敲成圆声",
+    "name": "玉溪(硬)",
+    "type": "成年节奏记录员",
+    "alternative": "红白几何鸟",
+    "family": "red-vest-percussion-woman",
+    "observedElements": [
+      "红色顶部面积明显",
+      "中部为密集红白点纹",
+      "中央有金边菱形"
+    ],
+    "translations": [
+      [
+        "金边菱形",
+        "手持打击框"
+      ],
+      [
+        "密集点纹",
+        "框上的白色节拍栓"
+      ],
+      [
+        "红色顶部",
+        "短背心主色"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: a clearly adult 62-year-old stocky woman with silver close-cropped hair and a square expressive face, red sleeveless work vest over ivory shirt, wide pale trousers. Deep sideways lunge while holding an asymmetric open diamond percussion frame with scattered ivory pegs, no weapon. Modern editorial character painting, geometric red and white accents, no robe. Packaging-derived structural cues only: 红色顶部面积明显; 中部为密集红白点纹; 中央有金边菱形. No package, commercial text or copied trademark. Preserve an independent adult museum character, readable silhouette and transparent background.",
+    "status": "frozen-per-user",
+    "assetPath": "site-v2/assets/characters/v2/sku-yanpk-1252-v2.png",
+    "review": {
+      "date": "2026-10-15",
+      "generationFrozen": true,
+      "note": "用户要求当前组完成后停止生成，已成图保留，不再重绘。"
+    },
+    "inspectionObservations": [
+      "红色顶部面积明显",
+      "中部为密集红白点纹",
+      "中央有金边菱形",
+      "上部有文字信息区",
+      "下部文字集中成行",
+      "主要图形沿正面纵向中轴排列"
+    ],
+    "nativeSource": "exec-bb507ccf-baa2-4e76-b778-43956765c31b.png",
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "sha256": "07b812d6cb6f0aac172d632c0b35388ab61a0e1b379d1d1a0e93b91e3e83e9fc",
+    "tool": "built-in image_gen",
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-93336",
+    "number": "34",
+    "batch": "G6-02",
+    "title": "蓝边划出转弯",
+    "name": "玉溪(初心)",
+    "type": "转弯机械鸟",
+    "alternative": "双色短装信号员",
+    "family": "red-cyan-turning-bird",
+    "observedElements": [
+      "主体为高饱和红色",
+      "上下边缘有青蓝窄条",
+      "中间为点纹与菱形组合"
+    ],
+    "translations": [
+      [
+        "青蓝窄条",
+        "转向边鳍"
+      ],
+      [
+        "菱形与点纹",
+        "透空胸格"
+      ],
+      [
+        "鲜红主面",
+        "折面鸟身"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: one angular mature mechanical ground bird with a bright matte red broad body, two short cyan edge fins, a hollow diamond breast lattice and slim off-white articulated legs. Abrupt sideways running turn, long narrow folded tail and lowered head, not a cute toy. Contemporary industrial creature painting, restrained crisp surfaces, no branding. Packaging-derived structural cues only: 主体为高饱和红色; 上下边缘有青蓝窄条; 中间为点纹与菱形组合. No package, commercial text or copied trademark. Preserve an independent adult museum character, readable silhouette and transparent background.",
+    "status": "frozen-per-user",
+    "assetPath": "site-v2/assets/characters/v2/sku-yanpk-93336-v2.png",
+    "review": {
+      "date": "2026-10-15",
+      "generationFrozen": true,
+      "note": "用户要求当前组完成后停止生成，已成图保留，不再重绘。"
+    },
+    "inspectionObservations": [
+      "主体为高饱和红色",
+      "上下边缘有青蓝窄条",
+      "中间为点纹与菱形组合",
+      "上部有文字信息区",
+      "下部文字集中成行",
+      "主要图形沿正面纵向中轴排列"
+    ],
+    "nativeSource": "exec-526100c5-a9f2-415c-969b-109aff2ee135.png",
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "sha256": "492448078d43b3db1fd5118a27214e44c7ad52e83ce3524b790989de960237b9",
+    "tool": "built-in image_gen",
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-111388",
+    "number": "35",
+    "batch": "G6-02",
+    "title": "绿壳里空出一格",
+    "name": "玉溪(细支)",
+    "type": "绿壳棋步蟹",
+    "alternative": "深绿方片旅人",
+    "family": "green-diamond-crab",
+    "observedElements": [
+      "上下区域为深绿色",
+      "中段是白底红色点阵",
+      "中央为金边绿色菱形"
+    ],
+    "translations": [
+      [
+        "绿色菱形",
+        "低矮菱壳"
+      ],
+      [
+        "白红点阵",
+        "侧腹稀疏纹带"
+      ],
+      [
+        "深绿色上下块",
+        "分离壳片"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: one mature crab-like geometric entity with a flattened dark green diamond shell, narrow gold edge, a band of tiny vermilion dots on an off-white open flank, six sideways jointed ivory legs and two unequal flat pincers. Low wide profile, body tilted off-axis, no cute face. Refined ceramic fantasy wildlife painting, simple graphic surfaces. Packaging-derived structural cues only: 上下区域为深绿色; 中段是白底红色点阵; 中央为金边绿色菱形. No package, commercial text or copied trademark. Preserve an independent adult museum character, readable silhouette and transparent background.",
+    "status": "cancelled-use-original-art",
+    "assetPath": null,
+    "review": null,
+    "inspectionObservations": [
+      "上下区域为深绿色",
+      "中段是白底红色点阵",
+      "中央为金边绿色菱形",
+      "上部有文字信息区",
+      "下部文字集中成行",
+      "主要图形沿正面纵向中轴排列"
+    ],
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-95056",
+    "number": "36",
+    "batch": "G6-02",
+    "title": "白点在枝上等雨",
+    "name": "玉溪(鑫中支)",
+    "type": "浮珠枝体",
+    "alternative": "红白纸偶",
+    "family": "red-branch-white-beads",
+    "observedElements": [
+      "上部为鲜红色",
+      "中央有密集白红点纹",
+      "金色菱形位于点纹中部"
+    ],
+    "translations": [
+      [
+        "白色点纹",
+        "悬浮瓷珠"
+      ],
+      [
+        "金色菱形",
+        "开放菱瓣花"
+      ],
+      [
+        "红色大块",
+        "朱红分枝主干"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: one abstract botanical entity made of a slender asymmetrical vermilion branching stem, many small off-white ceramic beads suspended at uneven intervals, one open golden diamond blossom on the side. Three forked roots create a low diagonal stance, no face, no person, no literal package. Mature speculative sculpture illustration with matte clay and sparse gold. Packaging-derived structural cues only: 上部为鲜红色; 中央有密集白红点纹; 金色菱形位于点纹中部. No package, commercial text or copied trademark. Preserve an independent adult museum character, readable silhouette and transparent background.",
+    "status": "cancelled-use-original-art",
+    "assetPath": null,
+    "review": null,
+    "inspectionObservations": [
+      "上部为鲜红色",
+      "中央有密集白红点纹",
+      "金色菱形位于点纹中部",
+      "上部有文字信息区",
+      "下部文字集中成行",
+      "主要图形沿正面纵向中轴排列"
+    ],
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-93461",
+    "number": "37",
+    "batch": "G6-02",
+    "title": "浅金翅里藏着折痕",
+    "name": "芙蓉王(硬细支)",
+    "type": "折扇金翅蛾",
+    "alternative": "象牙机械匠",
+    "family": "ivory-fold-fan-moth",
+    "observedElements": [
+      "主体是浅象牙色",
+      "四周有细金边",
+      "中央为圆形金花状图案"
+    ],
+    "translations": [
+      [
+        "圆形金花区",
+        "圆形胸轴"
+      ],
+      [
+        "细金外边",
+        "翅缘金肋"
+      ],
+      [
+        "象牙色留白",
+        "折叠薄翅"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: one mature moth-like mechanical creature, large ivory accordion-fold wings of unequal lengths, small circular golden thorax hub, thin gold perimeter ribs and narrow dark abdomen. Wings held in an oblique half-open V, six fine legs tucked asymmetrically. Sophisticated hand-painted insect concept art, no cute eyes and no ornate dense filigree. Packaging-derived structural cues only: 主体是浅象牙色; 四周有细金边; 中央为圆形金花状图案. No package, commercial text or copied trademark. Preserve an independent adult museum character, readable silhouette and transparent background.",
+    "status": "cancelled-use-original-art",
+    "assetPath": null,
+    "review": null,
+    "inspectionObservations": [
+      "主体是浅象牙色",
+      "四周有细金边",
+      "中央为圆形金花状图案",
+      "上部有文字信息区",
+      "下部文字集中成行",
+      "主要图形沿正面纵向中轴排列"
+    ],
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-93722",
+    "number": "38",
+    "batch": "G6-02",
+    "title": "夜场最后一片光",
+    "name": "芙蓉王(硬蓝新版)",
+    "type": "成年舞台灯光师",
+    "alternative": "金瓣深海兽",
+    "family": "navy-stage-light-man",
+    "observedElements": [
+      "主体为深蓝色",
+      "中央圆形金色花纹明显",
+      "外缘有金色窄框"
+    ],
+    "translations": [
+      [
+        "圆形金花",
+        "可分离反光瓣"
+      ],
+      [
+        "深蓝色面",
+        "短款工作服"
+      ],
+      [
+        "细金外框",
+        "开放调光架"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: a clearly adult 43-year-old tall Black male stage-light technician with shaved hair and long face, dark navy short utility jacket and loose work trousers. Half-kneeling with one arm raised holding an asymmetrical fan of broad matte gold reflector petals, other hand adjusting a simple open frame. Modern sophisticated character painting, no weapon, no robes, no logos. Packaging-derived structural cues only: 主体为深蓝色; 中央圆形金色花纹明显; 外缘有金色窄框. No package, commercial text or copied trademark. Preserve an independent adult museum character, readable silhouette and transparent background.",
+    "status": "cancelled-use-original-art",
+    "assetPath": null,
+    "review": null,
+    "inspectionObservations": [
+      "主体为深蓝色",
+      "中央圆形金色花纹明显",
+      "外缘有金色窄框",
+      "上部有文字信息区",
+      "下部文字集中成行",
+      "主要图形沿正面纵向中轴排列"
+    ],
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-140",
+    "number": "39",
+    "batch": "G6-02",
+    "title": "点群经过蓝色夜晚",
+    "name": "芙蓉王(软蓝)",
+    "type": "环轨记星仪",
+    "alternative": "深蓝羽束兽",
+    "family": "navy-open-orbit-cartographer",
+    "observedElements": [
+      "正面为深蓝色块",
+      "顶部有小点组成的浅色区域",
+      "中央有金色圆形花纹"
+    ],
+    "translations": [
+      [
+        "上部点群",
+        "悬浮星点标记"
+      ],
+      [
+        "金色圆章",
+        "偏轴测星环"
+      ],
+      [
+        "深蓝底色",
+        "开放弧形遮光鳍"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: one nonhuman celestial measuring instrument with an off-center matte gold circular hub, three open deep-navy curved fins surrounding it, a sparse ascending constellation of tiny ivory ceramic points suspended above one side. Hollow asymmetric gimbal silhouette with two thin anchored struts, no face or person. Museum science-fiction concept painting with crisp restrained ornament. Packaging-derived structural cues only: 正面为深蓝色块; 顶部有小点组成的浅色区域; 中央有金色圆形花纹. No package, commercial text or copied trademark. Preserve an independent adult museum character, readable silhouette and transparent background.",
+    "status": "cancelled-use-original-art",
+    "assetPath": null,
+    "review": null,
+    "inspectionObservations": [
+      "正面为深蓝色块",
+      "顶部有小点组成的浅色区域",
+      "中央有金色圆形花纹",
+      "上部有文字信息区",
+      "下部文字集中成行",
+      "主要图形沿正面纵向中轴排列"
+    ],
+    "generationAllowed": false
+  },
+  {
+    "id": "sku-yanpk-115294",
+    "number": "40",
+    "batch": "G6-02",
+    "title": "细脉托住一团空白",
+    "name": "芙蓉王(硬中支新版)",
+    "type": "银纱水母体",
+    "alternative": "细脉纸构体",
+    "family": "silver-vein-jellyfish",
+    "observedElements": [
+      "正面为银灰浅色",
+      "外缘为金色细线",
+      "中央是金色圆形图案与浅色细纹"
+    ],
+    "translations": [
+      [
+        "浅色细纹",
+        "稀疏金脉"
+      ],
+      [
+        "银灰底色",
+        "半透明纱膜"
+      ],
+      [
+        "金色圆图区",
+        "偏心空环"
+      ]
+    ],
+    "prompt": "Use case: stylized-concept. Asset: an independent original character for an adult-oriented visual-culture museum, not a product advertisement. Exactly ONE subject, whole silhouette and all extremities visible, centered with 10 percent breathing room, portrait 2:3 framing (wide creatures may use 4:3). Genuine transparent background, no environment, ground, floor, cast shadow, vignette, checkerboard or text. No tobacco, smoking, cigarettes, packages, copied trademarks, logos or brand names. Human characters unmistakably adults; nonhuman subjects are sophisticated sculptures or mature creatures, not children-oriented mascots. Do not use a default front-facing long-haired robe figure. Rich subtle materials, precise edges, readable at thumbnail size. Subject and medium: one mature abstract jellyfish-like sculpture with a shallow asymmetrical translucent silver gauze bell, fine sparse gold structural veins and one off-center golden circular hollow core, several long unequal ribbon tendrils spreading sideways. No face, no human torso, no cute eyes. Refined textile and glass concept painting, strong negative space, restrained ornament. Packaging-derived structural cues only: 正面为银灰浅色; 外缘为金色细线; 中央是金色圆形图案与浅色细纹. No package, commercial text or copied trademark. Preserve an independent adult museum character, readable silhouette and transparent background.",
+    "status": "cancelled-use-original-art",
+    "assetPath": null,
+    "review": null,
+    "inspectionObservations": [
+      "正面为银灰浅色",
+      "外缘为金色细线",
+      "中央是金色圆形图案与浅色细纹",
+      "上部有文字信息区",
+      "下部文字集中成行",
+      "主要图形沿正面纵向中轴排列"
+    ],
+    "generationAllowed": false
+  }
+]
