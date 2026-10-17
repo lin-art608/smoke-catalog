@@ -1,0 +1,21 @@
+{
+  "status": "pass",
+  "facts": 126,
+  "referencePrices": 124,
+  "officialPrices": 0,
+  "widths": [
+    360,
+    390,
+    768,
+    1440
+  ],
+  "checks": [
+    "360px: compact facts, no editorial sections/footer, fitted viewer and direct package click",
+    "390px: compact facts, no editorial sections/footer, fitted viewer and direct package click",
+    "768px: compact facts, no editorial sections/footer, fitted viewer and direct package click",
+    "1440px: compact facts, no editorial sections/footer, fitted viewer and direct package click"
+  ],
+  "originalDownloads": "new art, retained art and WINNING source PNGs match local SHA256 byte-for-byte",
+  "errors": [],
+  "failed": []
+}
