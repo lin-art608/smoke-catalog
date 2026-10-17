@@ -4,8 +4,10 @@
   "private": true,
   "scripts": {
     "build": "node tools/build-current-gallery.mjs",
-    "test": "node tools/validate-main-site.mjs",
+    "test": "node tools/validate-main-site.mjs && node tools/test-preferences.mjs",
     "preview": "node tools/serve-current-gallery.mjs"
   },
-  "engines": {"node": ">=18"}
+  "engines": {
+    "node": ">=22.13"
+  }
 }

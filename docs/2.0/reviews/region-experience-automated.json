@@ -1,0 +1,25 @@
+{
+  "status": "pass",
+  "regions": 34,
+  "widths": [
+    360,
+    390,
+    768,
+    1440
+  ],
+  "checks": [
+    "34 regional themes",
+    "4 distinct palettes",
+    "character above package, both art generations",
+    "no manual object switch",
+    "20px visual markers in 44px controls",
+    "portrait viewer",
+    "real local SQLite vote and ranking, switch period, withdraw"
+  ],
+  "errors": [],
+  "failed": [],
+  "limitations": [
+    "Headless Edge, no physical-device verification",
+    "Local ranking fixtures are development data, not public votes"
+  ]
+}

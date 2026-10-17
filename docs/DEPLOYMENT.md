@@ -39,3 +39,9 @@ https://developers.cloudflare.com/workers/configuration/routing/routes/
     npx wrangler pages deploy dist --project-name somke-catalog --branch main
 
 登录配置与密钥不加入 Git。原型 site-v2 / prototypes 保留历史参考，勿作为生产输出。本地 npm run preview 仅提供 dist： http://127.0.0.1:4175/ 。
+
+## 本轮排行接口准备
+
+角色优先与地域主题更新同时新增 workers/preferences.mjs，wrangler.jsonc 声明 main 和 ASSETS，/api/* 交给脚本。尚未获补充云端权限，未创建或绑定 D1；无 PREFERENCES 绑定时接口明确503，绝不伪造排名。真实排行接通后须先执行 migrations/0001_preferences.sql。详细状态见 docs/2.0/reviews/region-experience.md。
+
+本地预览需要 Node >=22.13，SQLite 数据只在 .cache，标记本地预览并不导入线上。
