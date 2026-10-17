@@ -32,7 +32,7 @@
  const row=window.v2Exhibits.find(d=>d.id===params.get('item'));
  const id=view==='regions'?params.get('region'):view==='detail'?row?.provinceId:null;
  if(!id||!themes[id])return;
- const [paper,accent,motif]=themes[id],root=document.documentElement;
- root.dataset.regionTheme=id;root.style.setProperty('--paper',paper);root.style.setProperty('--region-accent',accent);root.style.setProperty('--region-tint',accent+'20');
+ const [base,accent,motif]=themes[id],root=document.documentElement;const blend=(a,b,t)=>'#'+[1,3,5].map(i=>Math.round(parseInt(a.slice(i,i+2),16)*(1-t)+parseInt(b.slice(i,i+2),16)*t).toString(16).padStart(2,'0')).join('');const paper=blend(base,accent,.26);
+ root.dataset.regionTheme=id;root.style.setProperty('--paper',paper);root.style.setProperty('--region-accent',accent);root.style.setProperty('--region-tint',accent+'55');
  const decor=document.createElement('div');decor.className='region-atmosphere';decor.setAttribute('aria-hidden','true');decor.innerHTML=`<svg viewBox="0 0 440 260" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">${motifs[motif]}</svg><svg viewBox="0 0 440 260" fill="none" stroke="currentColor" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round">${motifs[motif]}</svg>`;document.body.prepend(decor);
 })();

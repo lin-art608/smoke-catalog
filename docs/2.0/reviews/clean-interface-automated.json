@@ -1,0 +1,19 @@
+{
+  "status": "pass",
+  "widths": [
+    360,
+    390,
+    768,
+    1440
+  ],
+  "checks": [
+    "360px: three header links, stronger regional atmosphere, image-only detail, icon like, white viewer with native-size only, cumulative ranking only",
+    "390px: three header links, stronger regional atmosphere, image-only detail, icon like, white viewer with native-size only, cumulative ranking only",
+    "768px: three header links, stronger regional atmosphere, image-only detail, icon like, white viewer with native-size only, cumulative ranking only",
+    "1440px: three header links, stronger regional atmosphere, image-only detail, icon like, white viewer with native-size only, cumulative ranking only"
+  ],
+  "errors": [],
+  "failed": [],
+  "localVoteTest": true,
+  "productionVotesWritten": false
+}
