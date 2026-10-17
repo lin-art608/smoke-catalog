@@ -51,3 +51,9 @@ workers/preferences.mjs 提供 /api/preferences，wrangler.jsonc 声明 main、A
 当前已允许真实匿名浏览器投票，每日一票可改选/撤票；不是跨设备、实名或严格防刷的公众调查。口径及限制在网页规则中公示。具体测试见 docs/2.0/reviews/preferences-live-automated.json。
 
 数据库ID与绑定已写入仓库配置；用户需要在GitHub Desktop点Push origin将本地提交同步到main，后续自动构建才会沿用同一绑定。本轮不代替用户Git推送。本地预览需要Node >=22.13。
+
+## 2026-10-17 独立点赞更新
+
+远程迁移 0002_independent_likes.sql 已成功应用。新增 exhibit_likes 表，旧 preferences 表保留，旧版服务在 Push 前仍可运行。新版 Worker 按访客与条目独立记录点赞，取消仅删除指定条目；排行榜列出全部有人气的记录。旧记录迁移时按访客与条目去重。
+
+本次不需要额外后台操作；直接 Push origin，等待 main 自动部署完成即可。页面缓存版本已更新。更新摘要见 CHANGELOG-2.0.md。
