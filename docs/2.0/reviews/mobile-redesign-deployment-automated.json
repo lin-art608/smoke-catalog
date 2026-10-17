@@ -1,0 +1,25 @@
+{
+  "status": "pass",
+  "serverRoot": "dist only",
+  "widths": [
+    390,
+    768,
+    1440
+  ],
+  "records": 126,
+  "newArt": 34,
+  "retainedArt": 92,
+  "checks": [
+    "21 page/size combinations",
+    "34 compact province entries",
+    "map/province/paired silhouette/detail navigation",
+    "package/character switch",
+    "both new and original native image links return image/200",
+    "detail declaration",
+    "34 new art comparison board",
+    "legacy entry loads",
+    "no ../dist or site-v2 runtime dependencies"
+  ],
+  "errors": [],
+  "failed": []
+}
