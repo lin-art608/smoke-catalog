@@ -1,0 +1,9 @@
+{
+  // The connected Cloudflare project is smoke-catalog; the repository is somke-catalog.
+  "name": "smoke-catalog",
+  "compatibility_date": "2026-10-12",
+  "workers_dev": true,
+  "assets": { "directory": "." }
+  // Routes are managed in the dashboard: smoke.inneros.asia/* only.
+  // Omit route/routes so deployment preserves that dashboard-managed route.
+}

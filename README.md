@@ -10,8 +10,8 @@
 
 ## 部署
 
-生产分支 main，构建命令 npm run build，输出目录 dist。也可省略构建命令，直接发布已提交的dist文件。完整说明见 docs/DEPLOYMENT.md。
+已连接 main → Cloudflare Workers 项目 smoke-catalog → https://smoke.inneros.asia/ 。在 GitHub Desktop 提交后点 Push origin，等待该提交自动部署成功即可刷新网页。
 
-GitHub Desktop保持main，本地提交完成后点Push origin。Git关联部署与手动上传是两种方式；如果Pages项目仍是直接上传模式，仅push不会自动更新该项目。
+发布根目录为仓库根目录，wrangler.jsonc 明确项目名和资产目录；根入口跳至 dist。根 .assetsignore 仅发布入口和 dist。域名使用 smoke.inneros.asia/* 专属路由，主域名与邮件保持独立。旧 Pages 项目 somke-catalog 保留用于回退。完整说明与验证边界见 docs/DEPLOYMENT.md。
 
 原站保留于 dist/legacy.html；site-v2和prototypes只作历史预览，不是部署入口。图片参考许可与清晰度仍按档案标记，角色与故事为非官方原创。公众投票未开放，未提供购买或消费推荐。

@@ -1,38 +1,41 @@
 # 网站发布：当前主站
 
-2026-10-15：按负责人最新要求，直接在main分支维护主站；旧开发分支的成果已经整合，不再创建新分支。新版实际发布入口为dist/index.html，旧站保留为dist/legacy.html。
+## 已接通的正式发布链路（2026-10-17）
 
-## 本次修复
+GitHub 仓库 lin-art608/somke-catalog 的 main → Cloudflare Workers 项目 smoke-catalog → 专属路由 smoke.inneros.asia/*。
 
-原先新版在site-v2，但发布目录仍为dist；原构建脚本还会生成旧版首页。因此，即使main已经合并，发布结果也可能仍是旧站。现在新版入口、shared脚本/样式、34张新图及全部引用资源均在dist之内，不再请求../dist或site-v2。
+- 已核验仓库连接、生产分支 main、自动构建未禁用；最新提交 8228a72 已由 Git 推送触发并部署成功。
+- 已在后台保存 smoke.inneros.asia/* 路由，仅匹配烟标子域名，不使用 *.inneros.asia/*。
+- 原有 smoke CNAME → somke-catalog.pages.dev 保留并开启代理，Worker 路由优先提供新版静态文件；旧 Pages 项目保留作回退。
+- 主域名 @ → inneros.pages.dev 及邮件 MX/TXT 记录均未修改；已访问确认 InnerOS 主站 HTTP 200。
+- 当前发布根目录为仓库根目录，根 index.html 跳转至 dist/index.html，浏览器实际到达 /dist/。网页源文件仍只维护 dist。
 
-标准构建命令npm run build，以及原命令node tools/build-current-gallery.mjs、node tools/build-catalog.mjs均检查当前主站，不再重建旧页面。npm test和node tools/validate-current-gallery.mjs也改为检查当前版本。后续直接编辑dist，不从历史site-v2覆盖回来。
+## 后续操作
 
-原尺寸PNG入口需要可发布的PNG；已移除旧的角色PNG忽略规则。卡片仍只加载WebP，原尺寸图在用户打开链接时才请求。所有126份原图和378份图像变体的内容与冻结哈希一致。
+1. 在 main 修改 dist 下的页面、脚本或样式。
+2. npm run build / npm test 检查后，在 GitHub Desktop 提交并点 Push origin。
+3. Cloudflare 的 smoke-catalog 自动构建并部署；等最新提交显示成功，再刷新 https://smoke.inneros.asia/。
 
-## Git关联部署的配置
+后台当前构建命令 npm run build，部署命令 npx wrangler deploy，根目录 /。根 wrangler.jsonc 明确 name=smoke-catalog、assets.directory=.，避免把仓库拼写 somke-catalog 当成 Worker 名称创建或更新其他项目。根 .assetsignore 仅允许发布 index.html 和 dist；配置、源码数据、Git 历史均不作为网页资产。
 
-|设置|值|
-|---|---|
-|生产分支|main|
-|项目根目录|仓库根目录|
-|构建命令|npm run build（或留空，使用已提交的dist）|
-|输出/静态资源目录|dist|
+路由在后台管理，wrangler.jsonc 不声明 route/routes，不用空 routes 数组覆盖后台设置。参考 Cloudflare 官方 Wrangler 配置与路由说明：
+https://developers.cloudflare.com/workers/wrangler/configuration/
+https://developers.cloudflare.com/workers/configuration/routing/routes/
 
-在GitHub Desktop保持main，点击Push origin。若Pages/Workers项目已经连接GitHub仓库，按该项目的构建配置触发部署。不要把输出目录填成site-v2或原型路径。
+本次没有额外推送测试提交；核验了已有 Git 触发部署、保存后的路由以及正式站点路径。新增发布配置需由负责人按既定流程 Push origin。
 
-## 原来的直接上传方式
+## 已完成验证
 
-本仓库较早的发布记录使用Cloudflare Pages直接上传，项目名somke-catalog。当前本轮没有修改Cloudflare账户或核验其Git关联状态。若项目仍是直接上传模式，仅push不会自动部署；使用原流程：
+正式域名根入口返回 200 并跳转 dist；暖纸首页、34 个省份、江苏9件剪影与烟盒、完整立绘及原尺寸图、详情声明均通过手机浏览器检查，无脚本或资源错误。新旧立绘保持冻结。
 
-    npm run build
-    npm test
+## 回退
+
+在 smoke-catalog 的域页面移除 smoke.inneros.asia/* 专属路由，可恢复由原有 Pages 项目提供同一子域名。不要删除主域名记录、不要修改邮件记录、不要删除旧 Pages 项目。
+
+## 备用手动发布
+
+旧 Pages 项目 somke-catalog 没有 Git 连接。手动发布 Pages 不会替代 Workers 正式发布链路；需要回退时可使用原有 Pages 发布方法：
+
     npx wrangler pages deploy dist --project-name somke-catalog --branch main
 
-此命令会实际发布，应由负责人在确认后运行；本轮未执行。登录配置不加入Git。
-
-## 本地独立验证
-
-运行npm run preview，在http://127.0.0.1:4175/查看，只提供dist目录。自动浏览器验证：node tools/review-main-deployment.mjs（本机Edge＋Codex所带Playwright）。结果和截图见docs/2.0/reviews/main-deployment-automated.json。
-
-旧域名记录为smoke.inneros.asia、somke-catalog.pages.dev；本轮未查询或修改DNS、绑定、线上内容。
+登录配置与密钥不加入 Git。原型 site-v2 / prototypes 保留历史参考，勿作为生产输出。本地 npm run preview 仅提供 dist： http://127.0.0.1:4175/ 。
