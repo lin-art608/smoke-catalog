@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-17",
+  "status": "pass",
+  "domain": "https://smoke.inneros.asia/",
+  "workerVersion": "24bd41c8-4309-4de0-8111-cfc48b2286ae",
+  "checks": [
+    "390px: theme, character-first detail, native art/photo, enabled real vote control, three ranking periods",
+    "768px: theme, character-first detail, native art/photo, enabled real vote control, three ranking periods",
+    "1440px: theme, character-first detail, native art/photo, enabled real vote control, three ranking periods"
+  ],
+  "errors": [],
+  "failed": [],
+  "publicTestVotesWritten": false,
+  "notes": [
+    "Original PNG HEAD returned image/200; full GET returned 200 but exceeded transfer timeout on first probe. Local original integrity was verified by frozen hashes."
+  ]
+}

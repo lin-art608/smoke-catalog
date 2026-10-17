@@ -27,10 +27,18 @@
 - review-main-deployment.mjs：21条页面/宽度组合及关键路径回归通过，旧切换测试已改为连续阅读与首屏立绘检查。
 - Wrangler deploy --dry-run：脚本6.79KiB，ASSETS绑定和静态资源校验通过；没有执行线上发布。
 
-## 云端状态与后续接通
+## 最初权限缺口与接通记录
 
 本地预览以Node SQLite保存真实开发票，并显式标记“本地预览数据”；不会上传为公众票数。当前云端登录仅具备pages/zone/account/user权限，D1读取测试被拒绝。已向用户请求补充D1写入和Workers脚本发布授权，尚待回复。
 
 未创建云端数据库，wrangler.jsonc尚未绑定PREFERENCES，云端接口在未绑定时返回503及明确提示，不返回假排行。得到授权后：创建仅用于本项目的D1库→绑定PREFERENCES→执行迁移→本地/云端只读验证→由用户按既定流程Push origin触发自动构建。不得把本地测试票导入生产。
 
 本轮未推送、未发布，不将本地验证写作线上功能已生效。真实排行需授权并完成云端接通后才能上线。
+
+### 已完成云端接通
+
+用户随后明确同意补充 D1 写入与 Workers 脚本发布权限，官方授权成功。已创建专用空库 smoke-catalog-preferences，绑定 PREFERENCES，远程应用 0001_preferences.sql；未改动 InnerOS 数据库。
+
+已部署 Worker 版本 24bd41c8-4309-4de0-8111-cfc48b2286ae。正式域名的今日、七日、累计接口均返回200，初始0票、0参与者；未知档案写入返回400，未制造线上测试票。已验证新的地域背景、连续详情及原图访问；最终浏览器检查记录见 preferences-live-automated.json。
+
+本地测试票未导入生产；Cookie每日匿名凭证的防刷限制保持如上说明。新增数据库配置需由用户在 GitHub Desktop Push origin，同步到仓库，供后续自动部署继续使用；本轮未执行 Git 推送。

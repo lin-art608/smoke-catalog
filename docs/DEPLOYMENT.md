@@ -40,8 +40,14 @@ https://developers.cloudflare.com/workers/configuration/routing/routes/
 
 登录配置与密钥不加入 Git。原型 site-v2 / prototypes 保留历史参考，勿作为生产输出。本地 npm run preview 仅提供 dist： http://127.0.0.1:4175/ 。
 
-## 本轮排行接口准备
+## 真实排行接口（2026-10-17已接通）
 
-角色优先与地域主题更新同时新增 workers/preferences.mjs，wrangler.jsonc 声明 main 和 ASSETS，/api/* 交给脚本。尚未获补充云端权限，未创建或绑定 D1；无 PREFERENCES 绑定时接口明确503，绝不伪造排名。真实排行接通后须先执行 migrations/0001_preferences.sql。详细状态见 docs/2.0/reviews/region-experience.md。
+workers/preferences.mjs 提供 /api/preferences，wrangler.jsonc 声明 main、ASSETS 和 PREFERENCES D1绑定；/api/* 交给脚本，其余请求继续静态资产优先。
 
-本地预览需要 Node >=22.13，SQLite 数据只在 .cache，标记本地预览并不导入线上。
+数据库 smoke-catalog-preferences 专用于烟标站，未使用或修改 InnerOS 数据库。迁移 migrations/0001_preferences.sql 已在远程应用。本地 SQLite 只存开发数据，不导入生产。
+
+用户已明确同意 D1写入与Workers脚本发布授权，官方OAuth成功。2026-10-17已实际发布版本24bd41c8-4309-4de0-8111-cfc48b2286ae；今日/七日/累计接口均200、初始0票，主域名InnerOS仍200。生产检查不制造临时票数。
+
+当前已允许真实匿名浏览器投票，每日一票可改选/撤票；不是跨设备、实名或严格防刷的公众调查。口径及限制在网页规则中公示。具体测试见 docs/2.0/reviews/preferences-live-automated.json。
+
+数据库ID与绑定已写入仓库配置；用户需要在GitHub Desktop点Push origin将本地提交同步到main，后续自动构建才会沿用同一绑定。本轮不代替用户Git推送。本地预览需要Node >=22.13。
