@@ -1,19 +1,32 @@
-# Smoke Archive 2.0
+# 烟标档案
 
-当前主站直接位于 main 分支的 dist 目录。正式首页为 dist/index.html，不再依赖 site-v2 或原型目录。后续页面修改直接编辑 dist/index.html、dist/shared 下的脚本和样式。
+当前维护和发布的唯一项目为 `somke-catalog`，正式网站：https://smoke.inneros.asia/ 。
 
-地图首页 → 省份展厅 → 烟标/角色 → 详情。126件档案，34张新立绘和92张原有立绘固定保留，不再生成或替换。
+126份档案、34个地区入口。当前使用34张新立绘和92张原有立绘；126份原图及网页展示图均保留。省份页爱心用于本地收藏，详情点赞进入累计人气榜；立绘支持放大与原图下载。
 
-## 本地检查与预览
+## 目录
 
-运行 npm run build 和 npm test；运行 npm run preview 后打开 http://127.0.0.1:4175/ 。这些命令不会把首页覆盖回旧站。
+- `dist/`：当前网页、脚本、样式及正在使用的图片。
+- `data/2.0/`：当前档案、规格、图片来源、设计记录与立绘完整性清单。
+- `data/provinces.json`：省份资料。
+- `workers/`、`migrations/`：排行榜接口及数据库迁移。
+- `tools/`：当前构建、预览与验证工具。
+- `docs/`：维护与发布说明。
 
-## 部署
+## 本地运行
 
-已连接 main → Cloudflare Workers 项目 smoke-catalog → https://smoke.inneros.asia/ 。在 GitHub Desktop 提交后点 Push origin，等待该提交自动部署成功即可刷新网页。
+需要 Node.js 22.13 或以上版本。
 
-发布根目录为仓库根目录，wrangler.jsonc 明确项目名和资产目录；根入口跳至 dist。根 .assetsignore 仅发布入口和 dist。域名使用 smoke.inneros.asia/* 专属路由，主域名与邮件保持独立。旧 Pages 项目 somke-catalog 保留用于回退。完整说明与验证边界见 docs/DEPLOYMENT.md。
+```powershell
+npm run build
+npm test
+npm run preview
+```
 
-原站保留于 dist/legacy.html；site-v2和prototypes只作历史预览，不是部署入口。图片参考许可与清晰度仍按档案标记，角色与故事为非官方原创。排行榜按真实点赞数展示全部有人气的条目，同票并列。每位访客对每个角色独立点赞或取消，不同角色互不影响；省份页爱心仅用于本地收藏。未提供购买或消费推荐。
+预览地址：http://127.0.0.1:4175/ 。预览服务运行期间，可在另一个终端执行 `npm run test:ui`，检查手机与桌面交互。浏览器测试使用独立测试数据库，不写入生产或本地收藏数据。
 
-2026-10-17 交互修正：移除省份卡片“看立绘”；详情点赞改用拇指图标，立绘查看支持逐层返回。0002 独立点赞迁移已在远程成功应用，旧记录按访客与条目去重保留；本地提交后直接 Push origin，沿用现有自动部署即可。
+## 发布
+
+主分支 `main` 推送后由 Cloudflare Workers 项目 `smoke-catalog` 自动部署。当前修改直接维护 `dist/index.html` 和 `dist/shared/`；构建命令只校验当前版本，不生成旧站。
+
+2026-10-18 已清理历史原型、旧站、重复图片、旧截图及一次性迭代工具。历史版本通过 Git 历史恢复。发布细节见 [部署说明](docs/DEPLOYMENT.md)，资料维护见 [数据说明](docs/DATA.md)。

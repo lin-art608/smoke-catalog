@@ -1,11 +1,17 @@
 import assert from 'node:assert/strict';
 import {createRequire} from 'node:module';
+import {preferences} from '../workers/preferences.mjs';
+import {localPreferences} from './local-preferences.mjs';
 const require=createRequire('C:/Users/HONOR/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/_entry.js'),{chromium}=require('playwright');
 const browser=await chromium.launch({headless:true,executablePath:'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe'});
-const page=await browser.newPage(),base='http://127.0.0.1:4186/',errors=[];
+const page=await browser.newPage(),base=process.env.SMOKE_REVIEW_URL||'http://127.0.0.1:4175/',errors=[],failed=[],db=localPreferences();
+// Exercise the real Worker against a fresh SQLite database, without changing saved local or live votes.
+await page.route('**/api/preferences*',async route=>{const r=route.request();const response=await preferences(new Request(r.url(),{method:r.method(),headers:await r.allHeaders(),...(r.method()==='GET'?{}:{body:r.postData()})}),{PREFERENCES:db,DEVELOPMENT:true});await route.fulfill({status:response.status,headers:Object.fromEntries(response.headers),body:await response.text()});});
+page.on('response',r=>{if(r.status()>=400)failed.push(r.url()+': '+r.status());});
 page.on('pageerror',e=>errors.push(e.message));
 async function ready(){await page.waitForFunction(()=>{const b=document.querySelector('.portrait-like');return b&&!b.disabled;});}
 try{
+ for(const view of ['home','labels','characters','themes','collection','ranking']){await page.goto(base+'?view='+view,{waitUntil:'networkidle'});assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),view+' overflow');}
  for(const width of [390,1440]){
   await page.setViewportSize({width,height:900});
   await page.goto(base+'?view=regions&region=shanghai');
@@ -31,5 +37,5 @@ try{
  await page.locator('[data-preference="sku-yanpk-213"]').click();await page.waitForFunction(()=>document.querySelectorAll('.ranking-list li').length===1);
  await page.goto(base+'?view=detail&item=sku-yanpk-929');await ready();assert.equal(await page.locator('.portrait-like').getAttribute('aria-pressed'),'true');
  await page.locator('.portrait-like').click();await page.waitForFunction(()=>document.querySelector('.portrait-like').getAttribute('aria-pressed')==='false'&&!document.querySelector('.portrait-like').disabled);
- assert.deepEqual(errors,[]);console.log('PASS: 390/1440px province, independent collection/likes, full tied ranking, targeted unlike, image Back/close then detail Back to province.');
-}finally{await browser.close();}
+ assert.deepEqual(errors,[]);assert.deepEqual(failed,[]);console.log('PASS: 390/1440px province, independent collection/likes, full tied ranking, targeted unlike, image Back/close then detail Back to province.');
+}finally{await browser.close();db.close();}

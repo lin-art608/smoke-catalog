@@ -5,7 +5,8 @@
   "scripts": {
     "build": "node tools/build-current-gallery.mjs",
     "test": "node tools/validate-main-site.mjs && node tools/test-preferences.mjs",
-    "preview": "node tools/serve-current-gallery.mjs"
+    "preview": "node tools/serve-current-gallery.mjs",
+    "test:ui": "node tools/test-independent-likes-ui.mjs"
   },
   "engines": {
     "node": ">=22.13"
